@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2078275638469988864",
+    "created_at": "2026-07-18T15:17:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:17:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078499434711908687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999099178342051840",
+          "start": 0,
+          "username": "kokokawayi_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078499434711908687",
+    "in_reply_to_user_id": "1999099178342051840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078469044513165704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokokawayi_awa 不是墨大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2078275638469988864",
+        "created_at": "2026-07-18T15:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078499434711908687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999099178342051840",
+              "start": 0,
+              "username": "kokokawayi_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078499434711908687",
+        "in_reply_to_user_id": "1999099178342051840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078469044513165704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokokawayi_awa 不是墨大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999099178342051840",
+        "conversation_id": "2078275638469988864",
+        "created_at": "2026-07-18T13:16:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078469044513165704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078469044513165704",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078275638469988864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 墨大吗...\n啊啊啊早知道当时选他们的offer了，这样就能成小黑猫的校友了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/Z1VaPh2ITC"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7336,
+          "following_count": 1093,
+          "like_count": 91476,
+          "listed_count": 22,
+          "media_count": 2248,
+          "tweet_count": 27138
+        },
+        "url": "https://t.co/Z1VaPh2ITC",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T12:49:45.000Z",
+        "description": "是杂鱼，喜欢买手办和涩涩，纯M小狗（偶尔S）\n🚪50（最好是星期四😋）\nUndergrad at UTSG, Registered as Liberal\n魅魔姐姐（是主人！）@daisuki07483937 | 兔兔妈咪@miya051223 | 闺蜜@sutanghentian | 杂鱼🌰 @Lingmeiya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "daisuki07483937"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "miya051223"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "sutanghentian"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Lingmeiya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokodayo.us",
+                "end": 23,
+                "expanded_url": "http://kokodayo.us",
+                "start": 0,
+                "url": "https://t.co/DGRP1lRnXD"
+              }
+            ]
+          }
+        },
+        "id": "1999099178342051840",
+        "location": "🛫 Tokyo",
+        "name": "Kokodayo（复活赛进行中~）",
+        "pinned_tweet_id": "2007097060974268924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999104053524176897/uAijM8oN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1504,
+          "following_count": 376,
+          "like_count": 4525,
+          "listed_count": 2,
+          "media_count": 476,
+          "tweet_count": 3778
+        },
+        "url": "https://t.co/DGRP1lRnXD",
+        "username": "kokokawayi_awa",
+        "verified": true
+      }
+    ]
+  }
+}

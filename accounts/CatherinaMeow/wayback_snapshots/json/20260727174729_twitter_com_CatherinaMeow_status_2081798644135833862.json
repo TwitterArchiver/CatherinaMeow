@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081798614515580928"
+      ]
+    },
+    "author_id": "1600208165269741570",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2081798644135833862",
+    "created_at": "2026-07-27T17:47:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:47:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081798644135833862"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QTXG0IKK4l",
+          "end": 36,
+          "expanded_url": "https://x.com/CatherinaMeow/status/2081798644135833862/photo/1",
+          "media_key": "3_2081798614515580928",
+          "start": 13,
+          "url": "https://t.co/QTXG0IKK4l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081798644135833862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做个饭 空气质量直接爆炸 https://t.co/QTXG0IKK4l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_2081798614515580928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQIz2AaAAAyNpc.jpg",
+        "width": 1092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081798614515580928"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081798644135833862",
+        "created_at": "2026-07-27T17:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081798644135833862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QTXG0IKK4l",
+              "end": 36,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2081798644135833862/photo/1",
+              "media_key": "3_2081798614515580928",
+              "start": 13,
+              "url": "https://t.co/QTXG0IKK4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081798644135833862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做个饭 空气质量直接爆炸 https://t.co/QTXG0IKK4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7359,
+          "following_count": 1093,
+          "like_count": 91962,
+          "listed_count": 22,
+          "media_count": 2258,
+          "tweet_count": 27237
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      }
+    ]
+  }
+}

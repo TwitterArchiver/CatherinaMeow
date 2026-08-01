@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1862478390001115578",
+    "created_at": "2024-11-29T12:47:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T13:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862478390001115578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1411339537792466945",
+          "start": 3,
+          "username": "bestmelt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862478390001115578",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12982
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862366022621438065",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bestmelt: พูดตรง ๆ นะ ไม่ควรจัดสอบช่วงธันวาอยู่แล้ว ทำไมถึงให้เด็กสอบเข้ามหาลัยทั้ง ๆ ที่ยังไม่จบมอปลาย เวลาจัดวันสอบน่าจะศึกษาให้มาก ๆ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1862478390001115578",
+        "created_at": "2024-11-29T12:47:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T13:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862478390001115578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1411339537792466945",
+              "start": 3,
+              "username": "bestmelt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862478390001115578",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12982
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862366022621438065",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bestmelt: พูดตรง ๆ นะ ไม่ควรจัดสอบช่วงธันวาอยู่แล้ว ทำไมถึงให้เด็กสอบเข้ามหาลัยทั้ง ๆ ที่ยังไม่จบมอปลาย เวลาจัดวันสอบน่าจะศึกษาให้มาก ๆ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1411339537792466945",
+        "conversation_id": "1862366022621438065",
+        "created_at": "2024-11-29T05:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T06:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862366022621438065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/badb0nie/statu…",
+              "end": 270,
+              "expanded_url": "https://twitter.com/badb0nie/status/1862150769098817661",
+              "start": 247,
+              "url": "https://t.co/EEEGEWac7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862366022621438065",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 383,
+          "impression_count": 476777,
+          "like_count": 4243,
+          "quote_count": 89,
+          "reply_count": 24,
+          "retweet_count": 12982
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862150769098817661",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "พูดตรง ๆ นะ ไม่ควรจัดสอบช่วงธันวาอยู่แล้ว ทำไมถึงให้เด็กสอบเข้ามหาลัยทั้ง ๆ ที่ยังไม่จบมอปลาย เวลาจัดวันสอบน่าจะศึกษาให้มาก ๆ ว่าเป็นช่วงหน้าฝนไหม จะเกิดเหตุการณ์แบบนี้ไหม ต้องออกมา take action ยังไงให้เร็วที่สุดยังไงให้สมกับเป็นองค์กรระดับประเทศ https://t.co/EEEGEWac7W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1596,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 86
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-03T15:05:17.000Z",
+        "description": "( 06 ) 🐰🪽౨ৎ make friends dem🧤#dek67+(1)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 29,
+                "tag": "dek67"
+              }
+            ]
+          }
+        },
+        "id": "1411339537792466945",
+        "name": "besty",
+        "pinned_tweet_id": "1804907861795013053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794737264133902336/59rETnP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 26,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 313
+        },
+        "username": "bestmelt",
+        "verified": false
+      }
+    ]
+  }
+}

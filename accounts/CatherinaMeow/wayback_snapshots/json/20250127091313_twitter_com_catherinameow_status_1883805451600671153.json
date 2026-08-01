@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1883472486874095616"
+      ],
+      "media_source_tweet_id": [
+        "1883472542398300338"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "conversation_id": "1883805451600671153",
+    "created_at": "2025-01-27T09:13:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T10:13:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883805451600671153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "918717126",
+          "start": 3,
+          "username": "pximaie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OwHXWLlYQA",
+          "end": 89,
+          "expanded_url": "https://x.com/8LEEMARK/status/1883472542398300338/video/1",
+          "media_key": "13_1883472486874095616",
+          "start": 66,
+          "url": "https://t.co/OwHXWLlYQA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883805451600671153",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11479
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883473592400359735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pximaie: นี่แหละกิมมิคคนดูเทนนิสจิงแบบหันซ้ายหันขวามองตามลูก  https://t.co/OwHXWLlYQA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13724,
+        "height": 1280,
+        "media_key": "13_1883472486874095616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1883472486874095616/img/JRbDHHitAETwurew.jpg",
+        "public_metrics": {
+          "view_count": 703065
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1883472486874095616/vid/avc1/320x568/iB62OFX3fgA_asax.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1883472486874095616/vid/avc1/480x852/0HiUMnK1Oo0vIkoN.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1883472486874095616/vid/avc1/720x1280/1CknxD8NvKHvoA1Q.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1883472486874095616/pl/ZD6N-OTeuCyU_gmA.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1883472486874095616"
+          ],
+          "media_source_tweet_id": [
+            "1883472542398300338"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "conversation_id": "1883805451600671153",
+        "created_at": "2025-01-27T09:13:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T10:13:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883805451600671153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "918717126",
+              "start": 3,
+              "username": "pximaie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OwHXWLlYQA",
+              "end": 89,
+              "expanded_url": "https://x.com/8LEEMARK/status/1883472542398300338/video/1",
+              "media_key": "13_1883472486874095616",
+              "start": 66,
+              "url": "https://t.co/OwHXWLlYQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883805451600671153",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11479
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883473592400359735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pximaie: นี่แหละกิมมิคคนดูเทนนิสจิงแบบหันซ้ายหันขวามองตามลูก  https://t.co/OwHXWLlYQA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1883472486874095616"
+          ],
+          "media_source_tweet_id": [
+            "1883472542398300338"
+          ]
+        },
+        "author_id": "918717126",
+        "conversation_id": "1883473592400359735",
+        "created_at": "2025-01-26T11:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T12:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883473592400359735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OwHXWLlYQA",
+              "end": 76,
+              "expanded_url": "https://x.com/8LEEMARK/status/1883472542398300338/video/1",
+              "media_key": "13_1883472486874095616",
+              "start": 53,
+              "url": "https://t.co/OwHXWLlYQA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883473592400359735",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 328652,
+          "like_count": 7666,
+          "quote_count": 38,
+          "reply_count": 1,
+          "retweet_count": 11479
+        },
+        "reply_settings": "everyone",
+        "text": "นี่แหละกิมมิคคนดูเทนนิสจิงแบบหันซ้ายหันขวามองตามลูก  https://t.co/OwHXWLlYQA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2187,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 166
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-01T10:36:22.000Z",
+        "description": "fan account - feed the cats 🐈‍⬛🐈 #Chealsea 이민형 - 나나",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 33,
+                "tag": "Chealsea"
+              }
+            ]
+          }
+        },
+        "id": "918717126",
+        "location": "remna  April2025 molo ",
+        "name": "マーク 🍳🎀 #fraktsiya",
+        "pinned_tweet_id": "1883473592400359735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883169424863342592/QUy2teKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20882,
+          "following_count": 595,
+          "like_count": 133359,
+          "listed_count": 7,
+          "media_count": 80791,
+          "tweet_count": 1392415
+        },
+        "username": "pximaie",
+        "verified": false
+      }
+    ]
+  }
+}

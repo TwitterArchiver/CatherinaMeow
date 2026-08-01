@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1896406685461209088"
+      ],
+      "media_source_tweet_id": [
+        "1896407736419803454"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1896589218513907996",
+    "created_at": "2025-03-03T15:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T16:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896589218513907996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "774255552385867776",
+          "start": 3,
+          "username": "14prils"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LxqOEMViBM",
+          "end": 129,
+          "expanded_url": "https://x.com/dlakzm828282/status/1896407736419803454/video/1",
+          "media_key": "7_1896406685461209088",
+          "start": 106,
+          "url": "https://t.co/LxqOEMViBM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896589218513907996",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5333
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896415483165032869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @14prils: แรงเกิน \n\n“ผมอาจจะไม่ใช่สไปเดอร์แมน แต่พวกคุณสามารถเป็น mj ของผมได้” - ม้าค ลี ในวัย 25 ปี\n\n https://t.co/LxqOEMViBM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 79028,
+        "height": 3840,
+        "media_key": "7_1896406685461209088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1896406685461209088/pu/img/RTmhE2aiGy5g8FO9.jpg",
+        "public_metrics": {
+          "view_count": 63077
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1896406685461209088/pu/pl/4OgQ--g7Z9FhiTwW.m3u8?tag=14&v=502"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896406685461209088/pu/vid/avc1/480x852/BGUiQVIugZDt5cjN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896406685461209088/pu/vid/avc1/1080x1920/ImN1wc7UvwvJpzuA.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896406685461209088/pu/vid/avc1/720x1280/yVeeqqUwTSvOaOE4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1896406685461209088/pu/vid/avc1/320x568/taeGWAIe50PhFq6T.mp4?tag=14"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1896406685461209088"
+          ],
+          "media_source_tweet_id": [
+            "1896407736419803454"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1896589218513907996",
+        "created_at": "2025-03-03T15:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T16:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896589218513907996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "774255552385867776",
+              "start": 3,
+              "username": "14prils"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxqOEMViBM",
+              "end": 129,
+              "expanded_url": "https://x.com/dlakzm828282/status/1896407736419803454/video/1",
+              "media_key": "7_1896406685461209088",
+              "start": 106,
+              "url": "https://t.co/LxqOEMViBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896589218513907996",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5333
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896415483165032869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @14prils: แรงเกิน \n\n“ผมอาจจะไม่ใช่สไปเดอร์แมน แต่พวกคุณสามารถเป็น mj ของผมได้” - ม้าค ลี ในวัย 25 ปี\n\n https://t.co/LxqOEMViBM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1896406685461209088"
+          ],
+          "media_source_tweet_id": [
+            "1896407736419803454"
+          ]
+        },
+        "author_id": "774255552385867776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1896415483165032869",
+        "created_at": "2025-03-03T04:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T05:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896415483165032869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LxqOEMViBM",
+              "end": 116,
+              "expanded_url": "https://x.com/dlakzm828282/status/1896407736419803454/video/1",
+              "media_key": "7_1896406685461209088",
+              "start": 93,
+              "url": "https://t.co/LxqOEMViBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896415483165032869",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 394,
+          "impression_count": 59788,
+          "like_count": 2698,
+          "quote_count": 20,
+          "reply_count": 0,
+          "retweet_count": 5333
+        },
+        "reply_settings": "everyone",
+        "text": "แรงเกิน \n\n“ผมอาจจะไม่ใช่สไปเดอร์แมน แต่พวกคุณสามารถเป็น mj ของผมได้” - ม้าค ลี ในวัย 25 ปี\n\n https://t.co/LxqOEMViBM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2462,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 193
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-09T14:38:03.000Z",
+        "description": "𓂋𓈒 นุเน้ก 재민 ジェミン 娜娜 =🐰+ 🐈 @na_rcissism_ ·˚ ༘ r_e__m___ 맠프 ♡.ᐟ.ᐟ mk,jm + 7dreamies 넝드림⌇yo dream ⁷ ! 🏎️ DR3 LH44 𓍯 Luna Lucy Luke 𓂃 Por2Tee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "na_rcissism_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamiesismyhappiness.com",
+                "end": 23,
+                "expanded_url": "http://www.dreamiesismyhappiness.com",
+                "start": 0,
+                "url": "https://t.co/30T5BlB5AQ"
+              }
+            ]
+          }
+        },
+        "id": "774255552385867776",
+        "location": "꒰ markmin 🐯🐰⚠️맠잼 ꒱♡̷̷̷•₊˚ ",
+        "name": "Rêveuseꔛ‎",
+        "pinned_tweet_id": "1805298058642833530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857030261310922752/OA_H8TJC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11118,
+          "following_count": 84,
+          "like_count": 65858,
+          "listed_count": 32,
+          "media_count": 22220,
+          "tweet_count": 342386
+        },
+        "url": "https://t.co/30T5BlB5AQ",
+        "username": "14prils",
+        "verified": true
+      }
+    ]
+  }
+}

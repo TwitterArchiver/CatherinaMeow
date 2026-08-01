@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1896504044384051201"
+      ],
+      "media_source_tweet_id": [
+        "1896504050419704121"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "conversation_id": "1896596035193225538",
+    "created_at": "2025-03-03T16:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T17:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896596035193225538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1215216086372610054",
+          "start": 3,
+          "username": "7chill4eva"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rne9NHOTg9",
+          "end": 39,
+          "expanded_url": "https://x.com/7chill4eva/status/1896504050419704121/photo/1",
+          "media_key": "3_1896504044384051201",
+          "start": 16,
+          "url": "https://t.co/Rne9NHOTg9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896596035193225538",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2445
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896504050419704121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @7chill4eva: https://t.co/Rne9NHOTg9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_1896504044384051201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlG8YViaYAEV-Rn.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896504044384051201"
+          ],
+          "media_source_tweet_id": [
+            "1896504050419704121"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "conversation_id": "1896596035193225538",
+        "created_at": "2025-03-03T16:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T17:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896596035193225538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1215216086372610054",
+              "start": 3,
+              "username": "7chill4eva"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rne9NHOTg9",
+              "end": 39,
+              "expanded_url": "https://x.com/7chill4eva/status/1896504050419704121/photo/1",
+              "media_key": "3_1896504044384051201",
+              "start": 16,
+              "url": "https://t.co/Rne9NHOTg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896596035193225538",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2445
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896504050419704121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @7chill4eva: https://t.co/Rne9NHOTg9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1896504044384051201"
+          ]
+        },
+        "author_id": "1215216086372610054",
+        "conversation_id": "1896504050419704121",
+        "created_at": "2025-03-03T10:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T11:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1896504050419704121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rne9NHOTg9",
+              "end": 23,
+              "expanded_url": "https://x.com/7chill4eva/status/1896504050419704121/photo/1",
+              "media_key": "3_1896504044384051201",
+              "start": 0,
+              "url": "https://t.co/Rne9NHOTg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896504050419704121",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 34149,
+          "like_count": 1065,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 2445
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Rne9NHOTg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2477,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 195
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-09T10:17:57.000Z",
+        "description": "fan account",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/7chill4eva?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/7chill4eva?igsh=d3dvdGc0cmRtcXp6&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/ws1Zp0XaE1"
+              }
+            ]
+          }
+        },
+        "id": "1215216086372610054",
+        "name": "suchaญ​💛🦔",
+        "pinned_tweet_id": "1880644712270590005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753633391021568000/S2fbLmDQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6262,
+          "following_count": 49,
+          "like_count": 32509,
+          "listed_count": 8,
+          "media_count": 14504,
+          "tweet_count": 68687
+        },
+        "url": "https://t.co/ws1Zp0XaE1",
+        "username": "7chill4eva",
+        "verified": false
+      }
+    ]
+  }
+}

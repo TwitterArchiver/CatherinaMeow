@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1889150055422291993",
+    "created_at": "2025-02-11T03:10:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T04:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889150055422291993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1677341640678322177",
+          "start": 3,
+          "username": "sunshinee074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889150055422291993",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4581
+    },
+    "referenced_tweets": [
+      {
+        "id": "1754501215533387850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sunshinee074: 📢เปิดร้านแล้วนะค้าบบบ📢\nFlashcard 3000+ คำ สำหรับสอบ\n Tgat &amp; A-level eng\nอ่านรายละเอียดในรูปได้เลยครับ ถ้าสนใจ DM มาเลออ 🥰…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1889150055422291993",
+        "created_at": "2025-02-11T03:10:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T04:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889150055422291993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1677341640678322177",
+              "start": 3,
+              "username": "sunshinee074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889150055422291993",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4581
+        },
+        "referenced_tweets": [
+          {
+            "id": "1754501215533387850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sunshinee074: 📢เปิดร้านแล้วนะค้าบบบ📢\nFlashcard 3000+ คำ สำหรับสอบ\n Tgat &amp; A-level eng\nอ่านรายละเอียดในรูปได้เลยครับ ถ้าสนใจ DM มาเลออ 🥰…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1754501206729445376"
+          ]
+        },
+        "author_id": "1677341640678322177",
+        "conversation_id": "1754501215533387850",
+        "created_at": "2024-02-05T13:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-05T14:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1754501215533387850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zWMsZpakny",
+              "end": 149,
+              "expanded_url": "https://x.com/sunshinee074/status/1754501215533387850/photo/1",
+              "media_key": "3_1754501206729445376",
+              "start": 126,
+              "url": "https://t.co/zWMsZpakny"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1754501215533387850",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3893,
+          "impression_count": 494011,
+          "like_count": 3018,
+          "quote_count": 45,
+          "reply_count": 2,
+          "retweet_count": 4581
+        },
+        "reply_settings": "everyone",
+        "text": "📢เปิดร้านแล้วนะค้าบบบ📢\nFlashcard 3000+ คำ สำหรับสอบ\n Tgat &amp; A-level eng\nอ่านรายละเอียดในรูปได้เลยครับ ถ้าสนใจ DM มาเลออ 🥰 https://t.co/zWMsZpakny"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2424,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 190
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T15:40:27.000Z",
+        "description": "📍สนใจสั่งซื้อ flashcard 3000 คำ Line @247dixcd ดูรีวิวได้ที่ #รีวิวflashcard3000คำ ใครสนใจจะรีวิวให้ก็สามารถรีวิวได้ที่แฮชแท็กนี้เลยนะค้าบบ 💪🏻☺️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 61,
+                "tag": "รีวิวflashcard3000คำ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "247dixcd"
+              }
+            ]
+          }
+        },
+        "id": "1677341640678322177",
+        "name": "other boy",
+        "pinned_tweet_id": "1754501215533387850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747472207746613248/kJeqHDsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5227,
+          "following_count": 110,
+          "like_count": 611,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 428
+        },
+        "username": "sunshinee074",
+        "verified": false
+      }
+    ]
+  }
+}

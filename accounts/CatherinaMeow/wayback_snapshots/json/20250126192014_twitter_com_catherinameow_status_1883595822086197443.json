@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1883507441691963394"
+      ],
+      "media_source_tweet_id": [
+        "1883507460172050696"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "conversation_id": "1883595822086197443",
+    "created_at": "2025-01-26T19:20:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T20:20:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883595822086197443"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "mark",
+          "probability": 0.818,
+          "start": 22,
+          "type": "Person"
+        },
+        {
+          "end": 28,
+          "normalized_text": "ig",
+          "probability": 0.412,
+          "start": 27,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1010801201988788225",
+          "start": 3,
+          "username": "markfcore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZdhKzft67m",
+          "end": 61,
+          "expanded_url": "https://x.com/markfcore/status/1883507460172050696/photo/1",
+          "media_key": "3_1883507441691963394",
+          "start": 38,
+          "url": "https://t.co/ZdhKzft67m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883595822086197443",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4318
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883507460172050696",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @markfcore: i love mark ig lives 😭 https://t.co/ZdhKzft67m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1883507441691963394",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiOQCfnasAIDwls.jpg",
+        "width": 2458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883507441691963394"
+          ],
+          "media_source_tweet_id": [
+            "1883507460172050696"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "conversation_id": "1883595822086197443",
+        "created_at": "2025-01-26T19:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T20:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883595822086197443"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "mark",
+              "probability": 0.818,
+              "start": 22,
+              "type": "Person"
+            },
+            {
+              "end": 28,
+              "normalized_text": "ig",
+              "probability": 0.412,
+              "start": 27,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1010801201988788225",
+              "start": 3,
+              "username": "markfcore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZdhKzft67m",
+              "end": 61,
+              "expanded_url": "https://x.com/markfcore/status/1883507460172050696/photo/1",
+              "media_key": "3_1883507441691963394",
+              "start": 38,
+              "url": "https://t.co/ZdhKzft67m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883595822086197443",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4318
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883507460172050696",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @markfcore: i love mark ig lives 😭 https://t.co/ZdhKzft67m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1883507441691963394"
+          ]
+        },
+        "author_id": "1010801201988788225",
+        "conversation_id": "1883507460172050696",
+        "created_at": "2025-01-26T13:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T14:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883507460172050696"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "mark",
+              "probability": 0.762,
+              "start": 7,
+              "type": "Person"
+            },
+            {
+              "end": 13,
+              "normalized_text": "ig",
+              "probability": 0.5475,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZdhKzft67m",
+              "end": 46,
+              "expanded_url": "https://x.com/markfcore/status/1883507460172050696/photo/1",
+              "media_key": "3_1883507441691963394",
+              "start": 23,
+              "url": "https://t.co/ZdhKzft67m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883507460172050696",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 456,
+          "impression_count": 89388,
+          "like_count": 9524,
+          "quote_count": 97,
+          "reply_count": 0,
+          "retweet_count": 4318
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "i love mark ig lives 😭 https://t.co/ZdhKzft67m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2174,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 161
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-24T08:26:01.000Z",
+        "description": "— for #MARK 🏡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 6,
+                "tag": "MARK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/markfcore_?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/markfcore_?igsh=czY4YTFjMmd5cnFo&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/zEvK1V8SB7"
+              }
+            ]
+          }
+        },
+        "id": "1010801201988788225",
+        "location": "he/him | solo stan markf",
+        "name": "★.ᐟ",
+        "pinned_tweet_id": "1704734587405144475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856718972890333185/L2fUr-x3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59524,
+          "following_count": 245,
+          "like_count": 10313,
+          "listed_count": 178,
+          "media_count": 3852,
+          "tweet_count": 28230
+        },
+        "url": "https://t.co/zEvK1V8SB7",
+        "username": "markfcore",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Catherina（赛博咬人黑猫）",
+  "username": "@CatherinaMeow",
+  "bio": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+  "location": "猫猫澳洲窝",
+  "link": "https://catherina.moe",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 152,
+        "start": 137,
+        "username": "rainchngshainn"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg"
+}

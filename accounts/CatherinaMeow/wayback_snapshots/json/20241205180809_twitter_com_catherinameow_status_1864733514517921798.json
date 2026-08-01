@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1864733514517921798",
+    "created_at": "2024-12-05T18:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-05T19:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864733514517921798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1511200795630313474",
+          "start": 3,
+          "username": "Arhdniwak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864733514517921798",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38384
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864530102140457236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Arhdniwak: ตอนเด็กไม่ชอบแคนเดสในฟีเนียสแอนด์เฟิ้บเลยเปนอะไรทำไมชอบวีนตอนนี้นี่เข้าใจชีทุกอย่างละกำลังใช้ชีวิตแบบชีอยุ่อยากทักไปเมคเฟรนอ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1864733514517921798",
+        "created_at": "2024-12-05T18:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T19:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864733514517921798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1511200795630313474",
+              "start": 3,
+              "username": "Arhdniwak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864733514517921798",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38384
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864530102140457236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Arhdniwak: ตอนเด็กไม่ชอบแคนเดสในฟีเนียสแอนด์เฟิ้บเลยเปนอะไรทำไมชอบวีนตอนนี้นี่เข้าใจชีทุกอย่างละกำลังใช้ชีวิตแบบชีอยุ่อยากทักไปเมคเฟรนอ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864530094737461248"
+          ]
+        },
+        "author_id": "1511200795630313474",
+        "conversation_id": "1864530102140457236",
+        "created_at": "2024-12-05T04:39:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T05:39:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864530102140457236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hlyit9E1My",
+              "end": 149,
+              "expanded_url": "https://x.com/Arhdniwak/status/1864530102140457236/photo/1",
+              "media_key": "3_1864530094737461248",
+              "start": 126,
+              "url": "https://t.co/hlyit9E1My"
+            },
+            {
+              "display_url": "x.com/buaysummess/st…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/buaysummess/status/1864315558566744518",
+              "start": 150,
+              "url": "https://t.co/JKiVLfuSlq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864530102140457236",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2151,
+          "impression_count": 1301290,
+          "like_count": 15847,
+          "quote_count": 170,
+          "reply_count": 29,
+          "retweet_count": 38384
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864315558566744518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ตอนเด็กไม่ชอบแคนเดสในฟีเนียสแอนด์เฟิ้บเลยเปนอะไรทำไมชอบวีนตอนนี้นี่เข้าใจชีทุกอย่างละกำลังใช้ชีวิตแบบชีอยุ่อยากทักไปเมคเฟรนอะ https://t.co/hlyit9E1My https://t.co/JKiVLfuSlq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 98
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T04:37:08.000Z",
+        "description": "แอคนี้รักพิออฟที่หนึ่ง @off_tumcial 🤲🏻♥️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "off_tumcial"
+              }
+            ]
+          }
+        },
+        "id": "1511200795630313474",
+        "name": "wink k k (ft.ปั่นเล่ห์จารชน)",
+        "pinned_tweet_id": "1851579330478084477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845842264213573632/ykhV-1ZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 103,
+          "like_count": 1125,
+          "listed_count": 0,
+          "media_count": 279,
+          "tweet_count": 3334
+        },
+        "username": "Arhdniwak",
+        "verified": false
+      }
+    ]
+  }
+}

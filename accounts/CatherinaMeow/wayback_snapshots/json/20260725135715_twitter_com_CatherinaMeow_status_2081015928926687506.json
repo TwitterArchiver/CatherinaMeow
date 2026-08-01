@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2081003293070008677",
+    "created_at": "2026-07-25T13:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081015928926687506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        },
+        {
+          "end": 22,
+          "id": "1418942200457662477",
+          "start": 12,
+          "username": "Rikka_Ela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081015928926687506",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081004120107106325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand @Rikka_Ela srs不是结束 这是一个新的开始"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2081003293070008677",
+        "created_at": "2026-07-25T13:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081015928926687506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            },
+            {
+              "end": 22,
+              "id": "1418942200457662477",
+              "start": 12,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081015928926687506",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081004120107106325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand @Rikka_Ela srs不是结束 这是一个新的开始"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623965569",
+        "conversation_id": "2081003293070008677",
+        "created_at": "2026-07-25T13:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081004120107106325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1418942200457662477",
+              "start": 0,
+              "username": "Rikka_Ela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081004120107106325",
+        "in_reply_to_user_id": "1418942200457662477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081003293070008677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rikka_Ela 把术后护理做好 好好通模，把它们变成生活理所当然的一部份，然后，以前的生活怎么过以后还怎么过，只不过换了一个身份继续罢了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7344,
+          "following_count": 1092,
+          "like_count": 91822,
+          "listed_count": 22,
+          "media_count": 2254,
+          "tweet_count": 27196
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "location": "earth",
+        "name": "菁芊镜華",
+        "pinned_tweet_id": "2067307566095556947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079387399390695424/1IPeK7Oz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2957,
+          "following_count": 124,
+          "like_count": 9256,
+          "listed_count": 8,
+          "media_count": 573,
+          "tweet_count": 5856
+        },
+        "url": "",
+        "username": "nothousand",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T14:32:49.000Z",
+        "description": "UoN | Chemistry and Biomedical Engineering | Deutsch／Français／English／中文 | 里号@Rika202601｜❤️@OnlyFoFemboy ｜https://t.co/SkIEbWWWI1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Rika202601"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "OnlyFoFemboy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/rika10709",
+                "end": 129,
+                "expanded_url": "https://ngl.link/rika10709",
+                "start": 106,
+                "url": "https://t.co/SkIEbWWWI1"
+              }
+            ]
+          }
+        },
+        "id": "1418942200457662477",
+        "location": "France",
+        "name": "Rika☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999113442435756032/U0INDL6a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6443,
+          "following_count": 3773,
+          "like_count": 85967,
+          "listed_count": 9,
+          "media_count": 450,
+          "tweet_count": 10018
+        },
+        "url": "",
+        "username": "Rikka_Ela",
+        "verified": false
+      }
+    ]
+  }
+}

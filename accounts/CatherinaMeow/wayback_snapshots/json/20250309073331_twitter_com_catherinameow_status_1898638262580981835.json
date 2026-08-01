@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898638262580981835",
+    "created_at": "2025-03-09T07:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T08:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898638262580981835"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 90,
+          "start": 81,
+          "tag": "Alevel68"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1614685330161926147",
+          "start": 3,
+          "username": "yyui6666661"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898638262580981835",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 166
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898626697207140851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yyui6666661: บนค่ะ ถ้าได้อังกฤษ 80+ แจก 200 ได้70+ แจก 100 ค่ะ รี+เฟบไว้เบย  #Alevel68"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898638262580981835",
+        "created_at": "2025-03-09T07:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898638262580981835"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 90,
+              "start": 81,
+              "tag": "Alevel68"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1614685330161926147",
+              "start": 3,
+              "username": "yyui6666661"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898638262580981835",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 166
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898626697207140851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yyui6666661: บนค่ะ ถ้าได้อังกฤษ 80+ แจก 200 ได้70+ แจก 100 ค่ะ รี+เฟบไว้เบย  #Alevel68"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614685330161926147",
+        "conversation_id": "1898626697207140851",
+        "created_at": "2025-03-09T06:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T07:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898626697207140851"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 64,
+              "tag": "Alevel68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898626697207140851",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7394,
+          "like_count": 144,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 166
+        },
+        "reply_settings": "everyone",
+        "text": "บนค่ะ ถ้าได้อังกฤษ 80+ แจก 200 ได้70+ แจก 100 ค่ะ รี+เฟบไว้เบย  #Alevel68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2512,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 212
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T18:06:06.000Z",
+        "description": "tell jesus that the bitch is back",
+        "id": "1614685330161926147",
+        "name": "꒰ ა ♡ ໒ ꒱",
+        "pinned_tweet_id": "1861815747028328778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892824204019486720/wjmNfRDZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 94,
+          "like_count": 12858,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 13953
+        },
+        "username": "yyui6666661",
+        "verified": false
+      }
+    ]
+  }
+}

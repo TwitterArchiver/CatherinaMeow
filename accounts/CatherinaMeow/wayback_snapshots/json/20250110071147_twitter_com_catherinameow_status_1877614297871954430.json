@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877356034714644482",
+        "7_1877356034723033088"
+      ],
+      "media_source_tweet_id": [
+        "1877356052724822327",
+        "1877356052724822327"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "conversation_id": "1877614297871954430",
+    "created_at": "2025-01-10T07:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T08:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877614297871954430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "897785664086745089",
+          "start": 3,
+          "username": "DestinyOfAugust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/seFxijz0fP",
+          "end": 44,
+          "expanded_url": "https://x.com/DestinyOfAugust/status/1877356052724822327/video/1",
+          "media_key": "3_1877356034714644482",
+          "start": 21,
+          "url": "https://t.co/seFxijz0fP"
+        },
+        {
+          "display_url": "pic.x.com/seFxijz0fP",
+          "end": 44,
+          "expanded_url": "https://x.com/DestinyOfAugust/status/1877356052724822327/video/1",
+          "media_key": "7_1877356034723033088",
+          "start": 21,
+          "url": "https://t.co/seFxijz0fP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877614297871954430",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18147
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877356052724822327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @DestinyOfAugust: https://t.co/seFxijz0fP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 348,
+        "media_key": "3_1877356034714644482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg21Xe4aMAIlw-8.jpg",
+        "width": 262
+      },
+      {
+        "duration_ms": 7870,
+        "height": 720,
+        "media_key": "7_1877356034723033088",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1877356034723033088/pu/img/Dw6XKcyCBat0CAlj.jpg",
+        "public_metrics": {
+          "view_count": 84892
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1877356034723033088/pu/vid/avc1/316x270/wzmsQZdHIAmfb8UM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1877356034723033088/pu/vid/avc1/422x360/eY1IeZNlUefDP0b9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1877356034723033088/pu/vid/avc1/844x720/UpTgUcyJgUcu8X2b.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1877356034723033088/pu/pl/xt5CctUCHtd2W6HW.m3u8?tag=12"
+          }
+        ],
+        "width": 844
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877356034714644482",
+            "7_1877356034723033088"
+          ],
+          "media_source_tweet_id": [
+            "1877356052724822327",
+            "1877356052724822327"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "conversation_id": "1877614297871954430",
+        "created_at": "2025-01-10T07:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T08:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877614297871954430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "897785664086745089",
+              "start": 3,
+              "username": "DestinyOfAugust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/seFxijz0fP",
+              "end": 44,
+              "expanded_url": "https://x.com/DestinyOfAugust/status/1877356052724822327/video/1",
+              "media_key": "3_1877356034714644482",
+              "start": 21,
+              "url": "https://t.co/seFxijz0fP"
+            },
+            {
+              "display_url": "pic.x.com/seFxijz0fP",
+              "end": 44,
+              "expanded_url": "https://x.com/DestinyOfAugust/status/1877356052724822327/video/1",
+              "media_key": "7_1877356034723033088",
+              "start": 21,
+              "url": "https://t.co/seFxijz0fP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877614297871954430",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18147
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877356052724822327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @DestinyOfAugust: https://t.co/seFxijz0fP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877356034714644482",
+            "7_1877356034723033088"
+          ]
+        },
+        "author_id": "897785664086745089",
+        "conversation_id": "1877356052724822327",
+        "created_at": "2025-01-09T14:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T15:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877356052724822327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/seFxijz0fP",
+              "end": 23,
+              "expanded_url": "https://x.com/DestinyOfAugust/status/1877356052724822327/video/1",
+              "media_key": "3_1877356034714644482",
+              "start": 0,
+              "url": "https://t.co/seFxijz0fP"
+            },
+            {
+              "display_url": "pic.x.com/seFxijz0fP",
+              "end": 23,
+              "expanded_url": "https://x.com/DestinyOfAugust/status/1877356052724822327/video/1",
+              "media_key": "7_1877356034723033088",
+              "start": 0,
+              "url": "https://t.co/seFxijz0fP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877356052724822327",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 522,
+          "impression_count": 272939,
+          "like_count": 8371,
+          "quote_count": 36,
+          "reply_count": 0,
+          "retweet_count": 18147
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/seFxijz0fP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 2005,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 141
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-16T11:42:37.000Z",
+        "description": "everyone deserves love except me, I deserve money, mentally stable and marklee",
+        "id": "897785664086745089",
+        "name": "lnwmark rem",
+        "pinned_tweet_id": "1877340547808993630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642001232767352833/6ptVuKMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40285,
+          "following_count": 65,
+          "like_count": 1481,
+          "listed_count": 15,
+          "media_count": 8496,
+          "tweet_count": 56996
+        },
+        "username": "DestinyOfAugust",
+        "verified": false
+      }
+    ]
+  }
+}

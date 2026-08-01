@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2078837406598639946",
+    "created_at": "2026-07-20T05:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079069489275302348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1557740547325829121",
+          "start": 0,
+          "username": "uwu_cutecat"
+        },
+        {
+          "end": 27,
+          "id": "1953393801340575744",
+          "start": 13,
+          "username": "n473428097803"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079069489275302348",
+    "in_reply_to_user_id": "1557740547325829121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078931472501866713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uwu_cutecat @n473428097803 是studio的公共wifi 不是宽带  我准备拉宽带了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2078837406598639946",
+        "created_at": "2026-07-20T05:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079069489275302348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1557740547325829121",
+              "start": 0,
+              "username": "uwu_cutecat"
+            },
+            {
+              "end": 27,
+              "id": "1953393801340575744",
+              "start": 13,
+              "username": "n473428097803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079069489275302348",
+        "in_reply_to_user_id": "1557740547325829121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078931472501866713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uwu_cutecat @n473428097803 是studio的公共wifi 不是宽带  我准备拉宽带了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557740547325829121",
+        "conversation_id": "2078837406598639946",
+        "created_at": "2026-07-19T19:54:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T20:54:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078931472501866713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            },
+            {
+              "end": 29,
+              "id": "1953393801340575744",
+              "start": 15,
+              "username": "n473428097803"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078931472501866713",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078919549991444587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow @n473428097803 ？！我墨尔本这里网1000下42上来着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7338,
+          "following_count": 1095,
+          "like_count": 91597,
+          "listed_count": 22,
+          "media_count": 2251,
+          "tweet_count": 27155
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-11T14:48:10.000Z",
+        "description": "鲨鱼和猫咪都很可爱(??/おとこのこ",
+        "id": "1557740547325829121",
+        "location": "很多猫的本",
+        "name": "呵呵",
+        "pinned_tweet_id": "2015795875302473794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984723329354473472/xlwTc8l5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 227,
+          "like_count": 5688,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 980
+        },
+        "url": "",
+        "username": "uwu_cutecat",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T09:52:50.000Z",
+        "description": "I love music",
+        "id": "1953393801340575744",
+        "name": "skth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958218963021893632/IQwGIsj8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 46,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "n473428097803",
+        "verified": false
+      }
+    ]
+  }
+}

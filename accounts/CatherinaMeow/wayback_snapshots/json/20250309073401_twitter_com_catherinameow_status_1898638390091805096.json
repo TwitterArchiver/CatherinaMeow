@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898638390091805096",
+    "created_at": "2025-03-09T07:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T08:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898638390091805096"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 115,
+          "start": 106,
+          "tag": "Alevel68"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1276495103536689152",
+          "start": 3,
+          "username": "774hxpan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898638390091805096",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 289
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898398293165805956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @774hxpan: บนกันตาย🫸🏽😭🫷🏽\n\nเคมี+ชีวะ+ฟิสิกส์  90+\nอิ้ง 30+\nเลข1 30+\nไทย 30+\nสังคม 30+ \n\nแจก100฿ รี+เฟบ\n\n#Alevel68"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898638390091805096",
+        "created_at": "2025-03-09T07:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898638390091805096"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 115,
+              "start": 106,
+              "tag": "Alevel68"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1276495103536689152",
+              "start": 3,
+              "username": "774hxpan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898638390091805096",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 289
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898398293165805956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @774hxpan: บนกันตาย🫸🏽😭🫷🏽\n\nเคมี+ชีวะ+ฟิสิกส์  90+\nอิ้ง 30+\nเลข1 30+\nไทย 30+\nสังคม 30+ \n\nแจก100฿ รี+เฟบ\n\n#Alevel68"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276495103536689152",
+        "conversation_id": "1898398293165805956",
+        "created_at": "2025-03-08T15:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T16:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898398293165805956"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 92,
+              "tag": "Alevel68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898398293165805956",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15290,
+          "like_count": 260,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 289
+        },
+        "reply_settings": "everyone",
+        "text": "บนกันตาย🫸🏽😭🫷🏽\n\nเคมี+ชีวะ+ฟิสิกส์  90+\nอิ้ง 30+\nเลข1 30+\nไทย 30+\nสังคม 30+ \n\nแจก100฿ รี+เฟบ\n\n#Alevel68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2512,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 217
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-26T12:38:51.000Z",
+        "description": "",
+        "id": "1276495103536689152",
+        "name": "ًً",
+        "pinned_tweet_id": "1476253450849509376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1438262867464175622/YUKVMo-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 140,
+          "like_count": 1272,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 29052
+        },
+        "username": "774hxpan",
+        "verified": false
+      }
+    ]
+  }
+}

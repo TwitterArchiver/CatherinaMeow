@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2078837406598639946",
+    "created_at": "2026-07-20T05:03:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T06:03:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079069690253750312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "822752268969648128",
+          "start": 0,
+          "username": "FurryChnnah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079069690253750312",
+    "in_reply_to_user_id": "822752268969648128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079000751989526671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FurryChnnah 是这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2380,
+        "media_key": "3_2079000642891419648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNoYEddaEAAbtQ-.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2078837406598639946",
+        "created_at": "2026-07-20T05:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T06:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079069690253750312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "822752268969648128",
+              "start": 0,
+              "username": "FurryChnnah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079069690253750312",
+        "in_reply_to_user_id": "822752268969648128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079000751989526671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FurryChnnah 是这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079000642891419648"
+          ]
+        },
+        "author_id": "822752268969648128",
+        "conversation_id": "2078837406598639946",
+        "created_at": "2026-07-20T00:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T01:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079000751989526671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lirrh1J1rL",
+              "end": 59,
+              "expanded_url": "https://x.com/FurryChnnah/status/2079000751989526671/photo/1",
+              "media_key": "3_2079000642891419648",
+              "start": 36,
+              "url": "https://t.co/Lirrh1J1rL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079000751989526671",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 504,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078837406598639946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 我时常会怀疑这个套餐穿越回了2000年） https://t.co/Lirrh1J1rL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7338,
+          "following_count": 1095,
+          "like_count": 91600,
+          "listed_count": 22,
+          "media_count": 2251,
+          "tweet_count": 27156
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-21T10:26:41.000Z",
+        "description": "永远开满鲜花 ❤️\n福瑞，雪豹 ，enfp\n喜茶/瑞幸/荣誉会员 // 麦门 // 麻酱单推\n米BOY  // 喜欢各种独特的东西 \n旅行爱好者// 需要减肥// 关注有趣灵魂  //  社交靠第六感\n成分复杂，关注后在时间线随机刷新",
+        "id": "822752268969648128",
+        "location": "在因特网里",
+        "name": "海底捞在逃酥肉",
+        "pinned_tweet_id": "2038875731443482942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003783514114895872/JoNzMu5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5317,
+          "following_count": 918,
+          "like_count": 7844,
+          "listed_count": 13,
+          "media_count": 1054,
+          "tweet_count": 4864
+        },
+        "url": "",
+        "username": "FurryChnnah",
+        "verified": false
+      }
+    ]
+  }
+}

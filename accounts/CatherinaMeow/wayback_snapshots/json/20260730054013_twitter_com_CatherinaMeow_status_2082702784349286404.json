@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2082430160633286901",
+    "created_at": "2026-07-30T05:40:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:40:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082702784349286404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "237972429",
+          "start": 0,
+          "username": "final_object"
+        },
+        {
+          "end": 23,
+          "id": "1218028959109210113",
+          "start": 14,
+          "username": "RizumuA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082702784349286404",
+    "in_reply_to_user_id": "237972429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082550688916344853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@final_object @RizumuA3 诶诶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2082430160633286901",
+        "created_at": "2026-07-30T05:40:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:40:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082702784349286404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "237972429",
+              "start": 0,
+              "username": "final_object"
+            },
+            {
+              "end": 23,
+              "id": "1218028959109210113",
+              "start": 14,
+              "username": "RizumuA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082702784349286404",
+        "in_reply_to_user_id": "237972429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082550688916344853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@final_object @RizumuA3 诶诶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "237972429",
+        "conversation_id": "2082430160633286901",
+        "created_at": "2026-07-29T19:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T20:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082550688916344853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            },
+            {
+              "end": 24,
+              "id": "1218028959109210113",
+              "start": 15,
+              "username": "RizumuA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082550688916344853",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082527586849272263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow @RizumuA3 浏览器指纹被记录了，设置文件里的机器ID都改一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7356,
+          "following_count": 1095,
+          "like_count": 92209,
+          "listed_count": 22,
+          "media_count": 2262,
+          "tweet_count": 27273
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2011-01-14T02:14:48.000Z",
+        "description": "🌷無言フォロー失礼します💐 / 全部是小狗！",
+        "id": "237972429",
+        "location": "烈日の黄金郷",
+        "name": "Nova⚓️🏴",
+        "pinned_tweet_id": "1832443684270571625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055653650371125248/vT3pjKmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 5631,
+          "like_count": 81218,
+          "listed_count": 2,
+          "media_count": 379,
+          "tweet_count": 33490
+        },
+        "url": "",
+        "username": "final_object",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 LittleSound｜💚 Member of Vue，参与开发 Vapor 模式中｜🪀 玩 3D 打印并制作了大量程序员周边｜ 🔥热爱开源｜Pride → 🧠 AuDHD、🏳️‍⚧️ she/her｜🎮 喜欢玩 魂系、任天堂游戏｜🐙: LittleSound",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rizumu.me",
+                "end": 23,
+                "expanded_url": "https://rizumu.me",
+                "start": 0,
+                "url": "https://t.co/n9mkxZ2oxy"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12143,
+          "following_count": 1603,
+          "like_count": 45784,
+          "listed_count": 59,
+          "media_count": 2009,
+          "tweet_count": 15157
+        },
+        "url": "https://t.co/n9mkxZ2oxy",
+        "username": "RizumuA3",
+        "verified": true
+      }
+    ]
+  }
+}

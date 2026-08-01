@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872626652842475520"
+      ],
+      "media_source_tweet_id": [
+        "1872626674569011529"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "conversation_id": "1873073461763162280",
+    "created_at": "2024-12-28T18:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T19:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873073461763162280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "289922397",
+          "start": 3,
+          "username": "hamsjpn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KCi0xQSLRm",
+          "end": 62,
+          "expanded_url": "https://x.com/hamsjpn/status/1872626674569011529/photo/1",
+          "media_key": "3_1872626652842475520",
+          "start": 39,
+          "url": "https://t.co/KCi0xQSLRm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873073461763162280",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28321
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872626674569011529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hamsjpn: เปนลม ธันวาวันแม่จารึกไว้ https://t.co/KCi0xQSLRm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1265,
+        "media_key": "3_1872626652842475520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GfzoBOeawAAQLu_.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872626652842475520"
+          ],
+          "media_source_tweet_id": [
+            "1872626674569011529"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "conversation_id": "1873073461763162280",
+        "created_at": "2024-12-28T18:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T19:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873073461763162280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "289922397",
+              "start": 3,
+              "username": "hamsjpn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCi0xQSLRm",
+              "end": 62,
+              "expanded_url": "https://x.com/hamsjpn/status/1872626674569011529/photo/1",
+              "media_key": "3_1872626652842475520",
+              "start": 39,
+              "url": "https://t.co/KCi0xQSLRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873073461763162280",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28321
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872626674569011529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hamsjpn: เปนลม ธันวาวันแม่จารึกไว้ https://t.co/KCi0xQSLRm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872626652842475520"
+          ]
+        },
+        "author_id": "289922397",
+        "conversation_id": "1872626674569011529",
+        "created_at": "2024-12-27T12:52:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T13:52:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872626674569011529"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KCi0xQSLRm",
+              "end": 49,
+              "expanded_url": "https://x.com/hamsjpn/status/1872626674569011529/photo/1",
+              "media_key": "3_1872626652842475520",
+              "start": 26,
+              "url": "https://t.co/KCi0xQSLRm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872626674569011529",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 682,
+          "impression_count": 392236,
+          "like_count": 18643,
+          "quote_count": 153,
+          "reply_count": 5,
+          "retweet_count": 28321
+        },
+        "reply_settings": "everyone",
+        "text": "เปนลม ธันวาวันแม่จารึกไว้ https://t.co/KCi0xQSLRm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1845,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 117
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-29T13:05:04.000Z",
+        "description": "when I'm lost you guide me home. #마크 🐯 & #제노 🐶 ( for work dm ) 106/94",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 33,
+                "tag": "마크"
+              },
+              {
+                "end": 44,
+                "start": 41,
+                "tag": "제노"
+              }
+            ]
+          }
+        },
+        "id": "289922397",
+        "location": "7dream /scrubb/ j10*mmnm",
+        "name": "oct , fraktsiya",
+        "pinned_tweet_id": "1847632174637601135",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812769006945796096/_h9acl7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108845,
+          "following_count": 278,
+          "like_count": 8398,
+          "listed_count": 51,
+          "media_count": 9408,
+          "tweet_count": 325858
+        },
+        "username": "hamsjpn",
+        "verified": true
+      }
+    ]
+  }
+}

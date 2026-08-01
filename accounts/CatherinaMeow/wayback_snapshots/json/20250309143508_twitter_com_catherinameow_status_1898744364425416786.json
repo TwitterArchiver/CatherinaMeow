@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898744364425416786",
+    "created_at": "2025-03-09T14:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T15:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898744364425416786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1091057017022701568",
+          "start": 3,
+          "username": "onyourelle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898744364425416786",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3213
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898401265069297953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onyourelle: ดันบาร์สเปคสาว ๆ ด้วยประโยค “อย่าบอกว่าอยากเป็นเหมือนเขาเลย เพราะถึงเขาจะเกิดใหม่อีกสองรอบ ก็ไม่เท่าครึ่งนึงของเธอด้วยซ้ำ”…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23703,
+        "height": 886,
+        "media_key": "13_1884542821119508480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1884542821119508480/img/oW1m729QCmGPo1bh.jpg",
+        "public_metrics": {
+          "view_count": 115969
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1884542821119508480/vid/avc1/336x270/rxVxXGwFw077aMC7.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1884542821119508480/vid/avc1/450x360/h8OmnMFwJ4dhw0bg.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1884542821119508480/vid/avc1/900x720/Q7Z7s02G7mGsEYfC.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1884542821119508480/pl/3WNec784f3y9vUvO.m3u8?tag=16&v=01a"
+          }
+        ],
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898744364425416786",
+        "created_at": "2025-03-09T14:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T15:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898744364425416786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1091057017022701568",
+              "start": 3,
+              "username": "onyourelle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898744364425416786",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3213
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898401265069297953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onyourelle: ดันบาร์สเปคสาว ๆ ด้วยประโยค “อย่าบอกว่าอยากเป็นเหมือนเขาเลย เพราะถึงเขาจะเกิดใหม่อีกสองรอบ ก็ไม่เท่าครึ่งนึงของเธอด้วยซ้ำ”…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1884542821119508480"
+          ],
+          "media_source_tweet_id": [
+            "1884542887326810530"
+          ]
+        },
+        "author_id": "1091057017022701568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1898401265069297953",
+        "created_at": "2025-03-08T15:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T16:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898401265069297953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cz2Y8VLQ1y",
+              "end": 188,
+              "expanded_url": "https://x.com/merlynsie/status/1884542887326810530/video/1",
+              "media_key": "13_1884542821119508480",
+              "start": 165,
+              "url": "https://t.co/Cz2Y8VLQ1y"
+            },
+            {
+              "display_url": "x.com/onyourelle/sta…",
+              "end": 212,
+              "expanded_url": "https://twitter.com/onyourelle/status/1898345451566617048",
+              "start": 189,
+              "url": "https://t.co/2vFX4Fjqkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898401265069297953",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 165,
+          "impression_count": 83596,
+          "like_count": 1410,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 3213
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898345451566617048",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ดันบาร์สเปคสาว ๆ ด้วยประโยค “อย่าบอกว่าอยากเป็นเหมือนเขาเลย เพราะถึงเขาจะเกิดใหม่อีกสองรอบ ก็ไม่เท่าครึ่งนึงของเธอด้วยซ้ำ” ที่แต่งเพิ่มเข้าไปเองในเพลงsmall girl 🥺🥺\n https://t.co/Cz2Y8VLQ1y https://t.co/2vFX4Fjqkj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2527,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 243
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-31T19:33:58.000Z",
+        "description": "(fan account) 마크! 좋아하게 해줘서 고마워 💙 | MOLO APR | late reply",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/qkJ3P-9ofhE?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/qkJ3P-9ofhE?si=bUC17_pKS_OHQkzc",
+                "start": 0,
+                "url": "https://t.co/PuDhpPJWDD"
+              }
+            ]
+          }
+        },
+        "id": "1091057017022701568",
+        "location": "맠프 / mark chenle",
+        "name": "𝑒𝓁𝓁𝑒. ♡︎ˊ #Fraktsiya",
+        "pinned_tweet_id": "1842201294272114742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898059855929524227/EeN-7UpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2729,
+          "following_count": 384,
+          "like_count": 16776,
+          "listed_count": 4,
+          "media_count": 25797,
+          "tweet_count": 352704
+        },
+        "url": "https://t.co/PuDhpPJWDD",
+        "username": "onyourelle",
+        "verified": false
+      }
+    ]
+  }
+}

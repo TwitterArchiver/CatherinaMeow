@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2082296961521295503",
+    "created_at": "2026-07-29T21:50:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T22:50:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082584634794357166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025926734378631168",
+          "start": 0,
+          "username": "Meari_V2_0_G"
+        },
+        {
+          "end": 29,
+          "id": "1847451639751548928",
+          "start": 14,
+          "username": "UPedrolli46470"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082584634794357166",
+    "in_reply_to_user_id": "2025926734378631168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082355906046743036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meari_V2_0_G @UPedrolli46470 我在澳大利亚 该封一样封））） 我觉得挺离谱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2082296961521295503",
+        "created_at": "2026-07-29T21:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T22:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082584634794357166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025926734378631168",
+              "start": 0,
+              "username": "Meari_V2_0_G"
+            },
+            {
+              "end": 29,
+              "id": "1847451639751548928",
+              "start": 14,
+              "username": "UPedrolli46470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082584634794357166",
+        "in_reply_to_user_id": "2025926734378631168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082355906046743036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meari_V2_0_G @UPedrolli46470 我在澳大利亚 该封一样封））） 我觉得挺离谱的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025926734378631168",
+        "conversation_id": "2082296961521295503",
+        "created_at": "2026-07-29T06:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082355906046743036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847451639751548928",
+              "start": 0,
+              "username": "UPedrolli46470"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082355906046743036",
+        "in_reply_to_user_id": "1847451639751548928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1180,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082354149832978641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UPedrolli46470 我在日本读研。claude没有任何理由封我的号。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7355,
+          "following_count": 1095,
+          "like_count": 92196,
+          "listed_count": 22,
+          "media_count": 2262,
+          "tweet_count": 27272
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T13:32:42.000Z",
+        "description": "遇到问题先思考为什么会有这个问题存在，再思考该怎么解决。\n最近累到无心讨论，就写写自己的agent rag系统开发日志吧。\n（另、开这个号是单纯的想cos阮·梅的语气来玩……）\n（不过回复内容本身还是认真的。）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zenodo.org/records/196310…",
+                "end": 23,
+                "expanded_url": "https://zenodo.org/records/19631054",
+                "start": 0,
+                "url": "https://t.co/LtvTkSSJZ4"
+              }
+            ]
+          }
+        },
+        "id": "2025926734378631168",
+        "location": "这里是所有论文的合集→",
+        "name": "Meari_V2.0-Gtype",
+        "pinned_tweet_id": "2080775355682697341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044475705858371584/trpa7okt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 49,
+          "like_count": 8,
+          "listed_count": 8,
+          "media_count": 350,
+          "tweet_count": 1614
+        },
+        "url": "https://t.co/LtvTkSSJZ4",
+        "username": "Meari_V2_0_G",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T01:36:27.000Z",
+        "description": "ASI AGI.",
+        "id": "1847451639751548928",
+        "location": "US",
+        "name": "Jewelry Bonney's Nika",
+        "pinned_tweet_id": "1992257463358468498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937702063233990659/p72S-1EF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 449,
+          "like_count": 9958,
+          "listed_count": 0,
+          "media_count": 240,
+          "tweet_count": 2200
+        },
+        "url": "",
+        "username": "UPedrolli46470",
+        "verified": false
+      }
+    ]
+  }
+}

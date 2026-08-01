@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2080200947335360582",
+    "created_at": "2026-07-25T08:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080931016815075396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1232576441524473856",
+          "start": 0,
+          "username": "Mave_503"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080931016815075396",
+    "in_reply_to_user_id": "1232576441524473856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080225309815964066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mave_503 主要是我之前在国内的宿舍从来不锁门）））"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2080200947335360582",
+        "created_at": "2026-07-25T08:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080931016815075396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1232576441524473856",
+              "start": 0,
+              "username": "Mave_503"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080931016815075396",
+        "in_reply_to_user_id": "1232576441524473856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080225309815964066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mave_503 主要是我之前在国内的宿舍从来不锁门）））"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1232576441524473856",
+        "conversation_id": "2080200947335360582",
+        "created_at": "2026-07-23T09:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080225309815964066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080225309815964066",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080200947335360582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 经典症状 多发于入住早期（\n我现在出门已经养成了不检查三遍钥匙就难受的习惯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7347,
+          "following_count": 1094,
+          "like_count": 91779,
+          "listed_count": 22,
+          "media_count": 2253,
+          "tweet_count": 27190
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-26T08:01:54.000Z",
+        "description": "日日思君不见君，共饮长江水 | 主人@yumesame10086 | 精神病碎碎念文学 建议绕行",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "yumesame10086"
+              }
+            ]
+          }
+        },
+        "id": "1232576441524473856",
+        "location": "Melbourne⇆Tianjin 当天往返 包盒饭 30¥",
+        "name": "MAVE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079502044243824640/C-XaZAze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2108,
+          "following_count": 1017,
+          "like_count": 4796,
+          "listed_count": 4,
+          "media_count": 1179,
+          "tweet_count": 3498
+        },
+        "url": "",
+        "username": "Mave_503",
+        "verified": false
+      }
+    ]
+  }
+}

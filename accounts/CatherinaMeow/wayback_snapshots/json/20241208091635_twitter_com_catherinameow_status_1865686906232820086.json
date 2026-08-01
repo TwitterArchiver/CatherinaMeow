@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1865686906232820086",
+    "created_at": "2024-12-08T09:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-08T10:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865686906232820086"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 38,
+          "tag": "TGAT"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1124580736885972992",
+          "start": 3,
+          "username": "octsepjk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865686906232820086",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3993
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865628132709224839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @octsepjk: ดีนะทำทัน เหลือแค่ทำถูก #TGAT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1865686906232820086",
+        "created_at": "2024-12-08T09:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T10:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865686906232820086"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 43,
+              "start": 38,
+              "tag": "TGAT"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1124580736885972992",
+              "start": 3,
+              "username": "octsepjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865686906232820086",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3994
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865628132709224839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @octsepjk: ดีนะทำทัน เหลือแค่ทำถูก #TGAT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124580736885972992",
+        "conversation_id": "1865628132709224839",
+        "created_at": "2024-12-08T05:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T06:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865628132709224839"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "TGAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865628132709224839",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 79878,
+          "like_count": 2007,
+          "quote_count": 21,
+          "reply_count": 0,
+          "retweet_count": 3994
+        },
+        "reply_settings": "everyone",
+        "text": "ดีนะทำทัน เหลือแค่ทำถูก #TGAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1737,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 105
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T07:45:16.000Z",
+        "description": "แม่นุ้เน้กขอติดมหาลัยที่ชอบ คณะที่ใช่ #myoctseprw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 49,
+                "start": 38,
+                "tag": "myoctseprw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/playlist/1pVUG…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/playlist/1pVUGX4KvipOw00CA78wrs?si=4ae30075b9684e48",
+                "start": 0,
+                "url": "https://t.co/UCb5iq086C"
+              }
+            ]
+          }
+        },
+        "id": "1124580736885972992",
+        "location": "multi ",
+        "name": "pm",
+        "pinned_tweet_id": "1822626125274906845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860697643149918208/xjIR9eTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 557,
+          "like_count": 108309,
+          "listed_count": 2,
+          "media_count": 4966,
+          "tweet_count": 283469
+        },
+        "url": "https://t.co/UCb5iq086C",
+        "username": "octsepjk",
+        "verified": false
+      }
+    ]
+  }
+}

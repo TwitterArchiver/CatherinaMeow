@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2082109870300713409",
+    "created_at": "2026-07-28T19:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T20:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082189143795450110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061870177466421248",
+          "start": 0,
+          "username": "PaperFogg2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082189143795450110",
+    "in_reply_to_user_id": "2061870177466421248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082109870300713409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaperFogg2007 揉揉fogg 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082109859529629696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUj4sCaIAACEoV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082109859579957248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUj4sOaEAAJDnf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082109859592564736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUj4sRacAAb9wR.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082109859613577216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUj4sWbEAAQyls.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2082109870300713409",
+        "created_at": "2026-07-28T19:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T20:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082189143795450110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061870177466421248",
+              "start": 0,
+              "username": "PaperFogg2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082189143795450110",
+        "in_reply_to_user_id": "2061870177466421248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082109870300713409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaperFogg2007 揉揉fogg 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082109859529629696",
+            "3_2082109859579957248",
+            "3_2082109859592564736",
+            "3_2082109859613577216"
+          ]
+        },
+        "author_id": "2061870177466421248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2082109870300713409",
+        "created_at": "2026-07-28T14:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082109870300713409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KHssq81Xbn",
+              "end": 143,
+              "expanded_url": "https://x.com/PaperFogg2007/status/2082109870300713409/photo/1",
+              "media_key": "3_2082109859529629696",
+              "start": 120,
+              "url": "https://t.co/KHssq81Xbn"
+            },
+            {
+              "display_url": "pic.x.com/KHssq81Xbn",
+              "end": 143,
+              "expanded_url": "https://x.com/PaperFogg2007/status/2082109870300713409/photo/1",
+              "media_key": "3_2082109859579957248",
+              "start": 120,
+              "url": "https://t.co/KHssq81Xbn"
+            },
+            {
+              "display_url": "pic.x.com/KHssq81Xbn",
+              "end": 143,
+              "expanded_url": "https://x.com/PaperFogg2007/status/2082109870300713409/photo/1",
+              "media_key": "3_2082109859592564736",
+              "start": 120,
+              "url": "https://t.co/KHssq81Xbn"
+            },
+            {
+              "display_url": "pic.x.com/KHssq81Xbn",
+              "end": 143,
+              "expanded_url": "https://x.com/PaperFogg2007/status/2082109870300713409/photo/1",
+              "media_key": "3_2082109859613577216",
+              "start": 120,
+              "url": "https://t.co/KHssq81Xbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082109870300713409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 169,
+                "start": 161,
+                "tag": "福格今天吃什么"
+              }
+            ]
+          },
+          "text": "记录一下这个月吃的最后几顿好饭了😭明天做完手术之后就无法正常饮食了，未来20天都只能吃流食了呜呜呜😭\n今天晚上在西八区病房订了医院食堂的盒饭，一大荤两小荤还有一素菜。味道很清淡很健康😽吃完之后又点了玉米山药排骨汤的外卖，可以直接送餐到床😈\n中午入院但还没穿病号服的时候偷溜到医院旁边的商场买了炸鸡吃🍗，手术前最后的放纵😗\n#福格今天吃什么"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1759,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记录一下这个月吃的最后几顿好饭了😭明天做完手术之后就无法正常饮食了，未来20天都只能吃流食了呜呜呜😭\n今天晚上在西八区病房订了医院食堂的盒饭，一大荤两小荤还有一素菜。味道很清淡很健康😽吃完之后又点了玉米山药排骨汤的外卖，可以直接送餐到床😈 https://t.co/KHssq81Xbn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7359,
+          "following_count": 1095,
+          "like_count": 92028,
+          "listed_count": 22,
+          "media_count": 2260,
+          "tweet_count": 27247
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-02T17:59:32.000Z",
+        "description": "ᵕ̈喜欢您来！☮︎在下叫福格🌲🌳大一在读🌴🏔️平时喜欢一个人吃饭,旅行和远征📷🏕️喜欢森林,草甸,海洋,湖泊和雪山🚲🚉热爱音乐剧和模拟人生💃ENFP🏃🎾🧦期待熟人私信扩列！🏗️保留锋芒ʕ •ᴥ•ʔ",
+        "id": "2061870177466421248",
+        "location": "🌊日落溪谷&柳溪🍁NKG&YTY🌸",
+        "name": "☻福格𐂂🌲",
+        "pinned_tweet_id": "2062769619069513982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061876257378439168/QLFkOOW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 503,
+          "like_count": 7668,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 3778
+        },
+        "url": "",
+        "username": "PaperFogg2007",
+        "verified": true
+      }
+    ]
+  }
+}

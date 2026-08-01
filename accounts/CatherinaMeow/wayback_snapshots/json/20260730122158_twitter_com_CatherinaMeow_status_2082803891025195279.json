@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2082752659220762758",
+    "created_at": "2026-07-30T12:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082803891025195279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1562185023377268736",
+          "start": 0,
+          "username": "GBU24PavewayIII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082803891025195279",
+    "in_reply_to_user_id": "1562185023377268736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082752659220762758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GBU24PavewayIII az 揉揉云雀老师qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2082752648957325312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdsf9Qa8AAQCby.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2436,
+        "media_key": "3_2082752649095749632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdsf9xbIAA2P6J.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2082752659220762758",
+        "created_at": "2026-07-30T12:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082803891025195279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1562185023377268736",
+              "start": 0,
+              "username": "GBU24PavewayIII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082803891025195279",
+        "in_reply_to_user_id": "1562185023377268736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082752659220762758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GBU24PavewayIII az 揉揉云雀老师qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082752648957325312",
+            "3_2082752649095749632"
+          ]
+        },
+        "author_id": "1562185023377268736",
+        "conversation_id": "2082752659220762758",
+        "created_at": "2026-07-30T08:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082752659220762758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mktl3HUlsl",
+              "end": 168,
+              "expanded_url": "https://x.com/GBU24PavewayIII/status/2082752659220762758/photo/1",
+              "media_key": "3_2082752648957325312",
+              "start": 145,
+              "url": "https://t.co/Mktl3HUlsl"
+            },
+            {
+              "display_url": "pic.x.com/Mktl3HUlsl",
+              "end": 168,
+              "expanded_url": "https://x.com/GBU24PavewayIII/status/2082752659220762758/photo/1",
+              "media_key": "3_2082752649095749632",
+              "start": 145,
+              "url": "https://t.co/Mktl3HUlsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082752659220762758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 378,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我人都回国了然后今天原室友和我说我的IRP居留卡成功下来了？？？？\n打开邮件看依旧没有通知我申请成功或失败或者已经发出卡片的邮件，只有几周前通知让我补材料但是我压根没搭理的邮件，这完全不符合流程啊\n我工作辞了房子退了车子卖了，把所有的东西能扔的扔，其他都带回来了，INIS你是有什么毛病？ https://t.co/Mktl3HUlsl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7358,
+          "following_count": 1095,
+          "like_count": 92224,
+          "listed_count": 22,
+          "media_count": 2263,
+          "tweet_count": 27285
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-23T21:08:47.000Z",
+        "description": "🇫🇴🏳️‍⚧️ Trans girl 🐈‍⬛私を弔う為の 花束はいらない",
+        "id": "1562185023377268736",
+        "location": "Battlestar Galactica",
+        "name": "雲雀AIM-54C+",
+        "pinned_tweet_id": "2076827144219689230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939979614962479104/qZnFHChK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2333,
+          "following_count": 970,
+          "like_count": 1862,
+          "listed_count": 14,
+          "media_count": 131,
+          "tweet_count": 874
+        },
+        "url": "",
+        "username": "GBU24PavewayIII",
+        "verified": false
+      }
+    ]
+  }
+}

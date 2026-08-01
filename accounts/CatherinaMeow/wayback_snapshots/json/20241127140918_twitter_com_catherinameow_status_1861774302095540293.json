@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201644971855499264",
+          "name": "Retro gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1430251943570542594",
+          "name": "Game Boy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201644971855499264",
+          "name": "Retro gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1430251943570542594",
+          "name": "Game Boy"
+        }
+      }
+    ],
+    "conversation_id": "1861774302095540293",
+    "created_at": "2024-11-27T14:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T15:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861774302095540293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1253214169928658945",
+          "start": 3,
+          "username": "ongymyswt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861774302095540293",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1800
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861260130421285203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ongymyswt: โรเซ่เอาอินสไปร์จากเกมมาริโอ้มาแต่งเป็นเพลงอกหักอย่าง Game boy อะ ใครทำได้บ้าง ไอเดียน้องแชงมันเจ๋งอะ มาริโอ้ที่ตายไป 100 ค…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1430251943570542594",
+              "name": "Game Boy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1430251943570542594",
+              "name": "Game Boy"
+            }
+          }
+        ],
+        "conversation_id": "1861774302095540293",
+        "created_at": "2024-11-27T14:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T15:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861774302095540293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1253214169928658945",
+              "start": 3,
+              "username": "ongymyswt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861774302095540293",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1800
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861260130421285203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ongymyswt: โรเซ่เอาอินสไปร์จากเกมมาริโอ้มาแต่งเป็นเพลงอกหักอย่าง Game boy อะ ใครทำได้บ้าง ไอเดียน้องแชงมันเจ๋งอะ มาริโอ้ที่ตายไป 100 ค…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1857090486495821824"
+          ],
+          "media_source_tweet_id": [
+            "1857090619560108241"
+          ]
+        },
+        "author_id": "1253214169928658945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1430251943570542594",
+              "name": "Game Boy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201644971855499264",
+              "name": "Retro gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1430251943570542594",
+              "name": "Game Boy"
+            }
+          }
+        ],
+        "conversation_id": "1861260130421285203",
+        "created_at": "2024-11-26T04:06:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T05:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861260130421285203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ym2QYdTIzR",
+              "end": 270,
+              "expanded_url": "https://x.com/rosespics/status/1857090619560108241/video/1",
+              "media_key": "7_1857090486495821824",
+              "start": 247,
+              "url": "https://t.co/Ym2QYdTIzR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861260130421285203",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 66510,
+          "like_count": 1240,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 1800
+        },
+        "reply_settings": "everyone",
+        "text": "โรเซ่เอาอินสไปร์จากเกมมาริโอ้มาแต่งเป็นเพลงอกหักอย่าง Game boy อะ ใครทำได้บ้าง ไอเดียน้องแชงมันเจ๋งอะ มาริโอ้ที่ตายไป 100 ครั้งกว่าจะจบเกมส์ เอามาแต่งได้เนื้อคือ \n“if loving you was a jump i probably died a hundred ten times” อิดอกก เริ่ดชิบหาย\n\n https://t.co/Ym2QYdTIzR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 27,
+          "like_count": 1496,
+          "listed_count": 0,
+          "tweet_count": 72
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-23T06:49:19.000Z",
+        "description": "— Only Rosé | as long as u happy then I will be happy :)",
+        "id": "1253214169928658945",
+        "name": "bbj. (Rosie out 6th dec)",
+        "pinned_tweet_id": "1847129663187067386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853630734013202432/qYshLzz7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1851,
+          "following_count": 172,
+          "like_count": 1189,
+          "listed_count": 1,
+          "tweet_count": 112556
+        },
+        "username": "ongymyswt",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Web Development",
+          "id": "898673391980261376",
+          "name": "Web development"
+        }
+      }
+    ],
+    "conversation_id": "2081564797213327707",
+    "created_at": "2026-07-27T02:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T03:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081564797213327707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1699797396589588480",
+          "start": 3,
+          "username": "MaxForAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081564797213327707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081457310510334011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MaxForAI: 如果你用过任意一个AI产品，那你一定用过Markdown。\n\n但你可能不知道，Markdown最重要的共同设计者之一Aaron Swartz，死在了美国政府手里。\n\n这不是夸张，也不是什么阴谋论。\n\n他就是被美国司法系统一步步逼死的。\n\nAaron…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_2081457291073826816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLSYNGaMAAFmqQ.jpg",
+        "width": 1184
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2081564797213327707",
+        "created_at": "2026-07-27T02:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081564797213327707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1699797396589588480",
+              "start": 3,
+              "username": "MaxForAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081564797213327707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081457310510334011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MaxForAI: 如果你用过任意一个AI产品，那你一定用过Markdown。\n\n但你可能不知道，Markdown最重要的共同设计者之一Aaron Swartz，死在了美国政府手里。\n\n这不是夸张，也不是什么阴谋论。\n\n他就是被美国司法系统一步步逼死的。\n\nAaron…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081457291073826816"
+          ]
+        },
+        "author_id": "1699797396589588480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Web Development",
+              "id": "898673391980261376",
+              "name": "Web development"
+            }
+          }
+        ],
+        "conversation_id": "2081457310510334011",
+        "created_at": "2026-07-26T19:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T20:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081457310510334011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zccgyQF0hx",
+              "end": 184,
+              "expanded_url": "https://x.com/MaxForAI/status/2081457310510334011/photo/1",
+              "media_key": "3_2081457291073826816",
+              "start": 161,
+              "url": "https://t.co/zccgyQF0hx"
+            },
+            {
+              "display_url": "x.com/riverleaf88/st…",
+              "end": 208,
+              "expanded_url": "https://twitter.com/riverleaf88/status/2081360383894311187",
+              "start": 185,
+              "url": "https://t.co/Rks0HxluVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081457310510334011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如果你用过任意一个AI产品，那你一定用过Markdown。\n\n但你可能不知道，Markdown最重要的共同设计者之一Aaron Swartz，死在了美国政府手里。\n\n这不是夸张，也不是什么阴谋论。\n\n他就是被美国司法系统一步步逼死的。\n\nAaron Swartz是互联网历史上最早的一批天才少年。\n\n14岁参与制定RSS 1.0，后来参与Creative Commons、Open Library和Markdown的设计，也是Reddit最早期的核心成员之一。\n\n别人十几岁还在研究怎么逃课，他已经在参与制定互联网的基础规则。\n\n但Aaron真正关心的，从来不是怎么靠互联网发财。\n\n他关心的是一件更危险的事：知识为什么不能免费？\n\n政府文件、法律资料、学术论文，很多本来就是公共资金生产出来的，最后却被数据库、出版商和机构锁在付费墙后面。\n\n普通人想看一篇自己纳税资助的论文，还要再交几十美元。\n\nAaron觉得这件事不合理。\n\n所以他开始行动。\n\n2008年，他批量下载了美国联邦法院的公开文件，免费上传到互联网上。\n\n这些文件本来就属于公共信息，但美国法院系统却按页收费。\n\n后来FBI调查了他，但没有找到犯罪证据。\n\n2010年，他又通过MIT的网络，从JSTOR下载了数百万篇学术论文。\n\n他没有卖这些论文，没有靠它们赚一分钱，甚至还没有来得及公开发布。\n\n事情被发现后，JSTOR拿回了数据，和Aaron达成和解，明确表示不再追究。\n\nMIT也没有要求起诉他，选择了“中立”。\n\n这件事到这里，本来已经结束了。\n\n没有经济损失，没有牟利，没有真正的受害者，权利方也已经决定不追究。\n\n但美国司法部不肯停手。\n\n联邦检察官坚持起诉Aaron，先后给他追加了13项重罪指控，包括电信欺诈和违反《计算机欺诈与滥用法》。\n\n最高可能面临35年监禁和100万美元罚款。\n\n他们不是要让Aaron为一次违规下载付出代价。\n\n他们是要把他变成一个重罪犯。\n\n检方提出的条件很简单：只要Aaron认罪，承认自己是重罪犯，就可以减少刑期。\n\nAaron拒绝了。\n\n因为他知道，一旦认罪，他这一生都会被贴上联邦重罪犯的标签。\n\n他参与推动互联网开放、反对审查、反对知识垄断，最后却要被政府定义成一个罪犯。\n\n接下来的两年里，他一直被调查、起诉、威胁，承担巨额律师费，还要面对可能毁掉整个人生的审判。\n\n2013年1月11日，Aaron Swartz在纽约的公寓中自杀，年仅26岁。\n\n他是被美国政府迫害致死的。\n\nJSTOR已经和解，MIT选择中立，没有证据证明他靠论文牟利，也没有真正造成不可挽回的损失。\n\n但美国司法部依然坚持把他当成重罪犯追杀。\n\n他们需要一个案例。\n\n需要告诉所有人，谁敢挑战知识垄断，谁敢绕过他们制定的规则，谁就会付出无法承受的代价。\n\nAaron死后，美国司法部撤销了所有指控。\n\n今天，Markdown已经成为AI时代最常见的文本格式。\n\n我们每天都在用#写标题，用**加粗，用三个反引号生成代码。\n\n但很少有人知道，参与创造这一切的人，最后因为想让知识变得更自由，被美国政府逼死在了26岁。\n\nAaron Swartz没有活到AI时代。\n\n但整个AI时代，都还在使用他留下来的东西。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 22912,
+          "like_count": 208,
+          "quote_count": 2,
+          "reply_count": 30,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081360383894311187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你用过任意一个AI产品，那你一定用过Markdown。\n\n但你可能不知道，Markdown最重要的共同设计者之一Aaron Swartz，死在了美国政府手里。\n\n这不是夸张，也不是什么阴谋论。\n\n他就是被美国司法系统一步步逼死的。\n\nAaron Swartz是互联网历史上最早的一批天才少年。\n\n14岁参与制定RSS https://t.co/zccgyQF0hx https://t.co/Rks0HxluVy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7358,
+          "following_count": 1093,
+          "like_count": 91879,
+          "listed_count": 22,
+          "media_count": 2255,
+          "tweet_count": 27215
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（81K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎商务、合作",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22140,
+          "following_count": 2516,
+          "like_count": 17714,
+          "listed_count": 198,
+          "media_count": 1049,
+          "tweet_count": 8093
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

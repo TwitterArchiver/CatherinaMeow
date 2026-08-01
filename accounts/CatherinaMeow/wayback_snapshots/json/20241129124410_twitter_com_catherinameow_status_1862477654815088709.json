@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1445358176312782848",
+          "name": "Aespa"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1445358176312782848",
+          "name": "Aespa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Hip-Hop",
+          "id": "1014161314971709441",
+          "name": "K-hip hop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Hip-Hop",
+          "id": "1014161314971709441",
+          "name": "K-hip hop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1445358176312782848",
+          "name": "Aespa"
+        }
+      }
+    ],
+    "conversation_id": "1862477654815088709",
+    "created_at": "2024-11-29T12:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T13:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862477654815088709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1037335802500575233",
+          "start": 3,
+          "username": "JhatesLG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862477654815088709",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17253
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862161859887194392",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JhatesLG: ผมเคยถามแฟนของผมว่า\n\n“ถ้าคาริน่า aespa ทักผมมา เธอจะหึงไหม”\n\nเธอตอบว่า หึง\n\nหึงคาริน่า"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          }
+        ],
+        "conversation_id": "1862477654815088709",
+        "created_at": "2024-11-29T12:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T13:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862477654815088709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1037335802500575233",
+              "start": 3,
+              "username": "JhatesLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862477654815088709",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17253
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862161859887194392",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JhatesLG: ผมเคยถามแฟนของผมว่า\n\n“ถ้าคาริน่า aespa ทักผมมา เธอจะหึงไหม”\n\nเธอตอบว่า หึง\n\nหึงคาริน่า"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1037335802500575233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Hip-Hop",
+              "id": "1014161314971709441",
+              "name": "K-hip hop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1445358176312782848",
+              "name": "Aespa"
+            }
+          }
+        ],
+        "conversation_id": "1862161859887194392",
+        "created_at": "2024-11-28T15:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T16:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862161859887194392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862161859887194392",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 393,
+          "impression_count": 354267,
+          "like_count": 8072,
+          "quote_count": 37,
+          "reply_count": 2,
+          "retweet_count": 17253
+        },
+        "reply_settings": "everyone",
+        "text": "ผมเคยถามแฟนของผมว่า\n\n“ถ้าคาริน่า aespa ทักผมมา เธอจะหึงไหม”\n\nเธอตอบว่า หึง\n\nหึงคาริน่า"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1592,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 84
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-05T13:45:02.000Z",
+        "description": "Write something, even if it's just a suicide note. — Gore Vidal, 1925-2012 | writer for - https://t.co/sLdwh6V2zg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "urstories.link",
+                "end": 113,
+                "expanded_url": "http://urstories.link",
+                "start": 90,
+                "url": "https://t.co/sLdwh6V2zg"
+              }
+            ]
+          }
+        },
+        "id": "1037335802500575233",
+        "location": "ข้างหลังคุณ",
+        "name": "J",
+        "pinned_tweet_id": "1814349886407815187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850736862811549696/xB4Kj8pT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7007,
+          "following_count": 320,
+          "like_count": 374,
+          "listed_count": 9,
+          "media_count": 5153,
+          "tweet_count": 146507
+        },
+        "username": "JhatesLG",
+        "verified": false
+      }
+    ]
+  }
+}

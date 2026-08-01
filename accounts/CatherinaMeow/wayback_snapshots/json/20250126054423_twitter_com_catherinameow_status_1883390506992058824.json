@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1883390506992058824",
+    "created_at": "2025-01-26T05:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T06:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883390506992058824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "842726235478212608",
+          "start": 3,
+          "username": "Wworaton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883390506992058824",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13551
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883173695990226974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wworaton: มึง ละนางดึงเมียมายืนข้างกันด้วยนะ ไม่ทรีตเมียเหมือนตัวประกอบเลย ดันบาร์ชายไทยสูงมาก"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1883390506992058824",
+        "created_at": "2025-01-26T05:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T06:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883390506992058824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "842726235478212608",
+              "start": 3,
+              "username": "Wworaton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883390506992058824",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13551
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883173695990226974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wworaton: มึง ละนางดึงเมียมายืนข้างกันด้วยนะ ไม่ทรีตเมียเหมือนตัวประกอบเลย ดันบาร์ชายไทยสูงมาก"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "842726235478212608",
+        "conversation_id": "1883173695990226974",
+        "created_at": "2025-01-25T15:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T16:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883173695990226974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoochoty/statu…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/yoochoty/status/1883124742695399810",
+              "start": 85,
+              "url": "https://t.co/xixFOhBteE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883173695990226974",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 338,
+          "impression_count": 324603,
+          "like_count": 5546,
+          "quote_count": 45,
+          "reply_count": 0,
+          "retweet_count": 13551
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883124742695399810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "มึง ละนางดึงเมียมายืนข้างกันด้วยนะ ไม่ทรีตเมียเหมือนตัวประกอบเลย ดันบาร์ชายไทยสูงมาก https://t.co/xixFOhBteE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 29,
+          "like_count": 2125,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 154
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-17T13:16:06.000Z",
+        "description": "(✌️😌)\nfan account\nSupport #MartinFreeman #CharlieCox #OscarIsaac #PedroPascal #EarthPirapat #LeungChiuWai Love #Marvel #Saw And #Pokemon",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 26,
+                "tag": "MartinFreeman"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "tag": "CharlieCox"
+              },
+              {
+                "end": 64,
+                "start": 53,
+                "tag": "OscarIsaac"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "tag": "PedroPascal"
+              },
+              {
+                "end": 91,
+                "start": 78,
+                "tag": "EarthPirapat"
+              },
+              {
+                "end": 105,
+                "start": 92,
+                "tag": "LeungChiuWai"
+              },
+              {
+                "end": 118,
+                "start": 111,
+                "tag": "Marvel"
+              },
+              {
+                "end": 123,
+                "start": 119,
+                "tag": "Saw"
+              },
+              {
+                "end": 136,
+                "start": 128,
+                "tag": "Pokemon"
+              }
+            ]
+          }
+        },
+        "id": "842726235478212608",
+        "name": "เล่นทวิตทั้งที ก็โดนเคะแก่ตกซะแล้ว แล้วมันก็จะไอนั",
+        "pinned_tweet_id": "1642907662152269825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880479436585472001/3XGW1O-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 337,
+          "like_count": 325395,
+          "listed_count": 3,
+          "media_count": 8311,
+          "tweet_count": 172837
+        },
+        "username": "Wworaton",
+        "verified": false
+      }
+    ]
+  }
+}

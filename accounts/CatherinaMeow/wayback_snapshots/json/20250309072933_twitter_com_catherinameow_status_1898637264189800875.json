@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898637264189800875",
+    "created_at": "2025-03-09T07:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T08:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898637264189800875"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 45,
+          "tag": "Alevel68"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1826821897742680070",
+          "start": 3,
+          "username": "zeensoxee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898637264189800875",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 380
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898610571886702661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zeensoxee: รี/เฟบ อิ้ง80ตามเป้าแจก 999฿  #Alevel68"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898637264189800875",
+        "created_at": "2025-03-09T07:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898637264189800875"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "Alevel68"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1826821897742680070",
+              "start": 3,
+              "username": "zeensoxee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898637264189800875",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 380
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898610571886702661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zeensoxee: รี/เฟบ อิ้ง80ตามเป้าแจก 999฿  #Alevel68"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826821897742680070",
+        "conversation_id": "1898610571886702661",
+        "created_at": "2025-03-09T05:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T06:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898610571886702661"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "Alevel68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898610571886702661",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 11984,
+          "like_count": 304,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 380
+        },
+        "reply_settings": "everyone",
+        "text": "รี/เฟบ อิ้ง80ตามเป้าแจก 999฿  #Alevel68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2511,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 201
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T03:21:20.000Z",
+        "description": "ir 𓂃 🛋 ✿ enfp 𓏔 🪜 ˙𐃷˙ 可爱 dm24/7ㅋㅋ 🐈‍⬛ —( stanten&najaemin&kris ) /. ‘fake it until I make it",
+        "id": "1826821897742680070",
+        "name": "taiwan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897252557510389760/Ghrmfe-V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 159,
+          "like_count": 13382,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 627
+        },
+        "username": "zeensoxee",
+        "verified": false
+      }
+    ]
+  }
+}

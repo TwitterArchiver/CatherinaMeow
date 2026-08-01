@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898637320070578546",
+    "created_at": "2025-03-09T07:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T08:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898637320070578546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1780055914411884544",
+          "start": 3,
+          "username": "BabyAngel1neC4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898637320070578546",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 501
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898616811421356432",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BabyAngel1neC4: Alevel ชีวะ\n50+ แจก200\n45+ แจก150\n40+ แจก100\n\nAlevel คณิต1\n50+ แจก200\n40+ แจก150\n45+ แจก100\n35+ แจก50\n\nAlevel อังกฤษ\n80…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898637320070578546",
+        "created_at": "2025-03-09T07:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898637320070578546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1780055914411884544",
+              "start": 3,
+              "username": "BabyAngel1neC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898637320070578546",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 501
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898616811421356432",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BabyAngel1neC4: Alevel ชีวะ\n50+ แจก200\n45+ แจก150\n40+ แจก100\n\nAlevel คณิต1\n50+ แจก200\n40+ แจก150\n45+ แจก100\n35+ แจก50\n\nAlevel อังกฤษ\n80…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780055914411884544",
+        "conversation_id": "1898616811421356432",
+        "created_at": "2025-03-09T06:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T07:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898616811421356432"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 248,
+              "start": 242,
+              "tag": "dek68"
+            },
+            {
+              "end": 258,
+              "start": 249,
+              "tag": "Alevel68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898616811421356432",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 11223,
+          "like_count": 176,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 501
+        },
+        "reply_settings": "everyone",
+        "text": "Alevel ชีวะ\n50+ แจก200\n45+ แจก150\n40+ แจก100\n\nAlevel คณิต1\n50+ แจก200\n40+ แจก150\n45+ แจก100\n35+ แจก50\n\nAlevel อังกฤษ\n80+ แจก500\n75+ แจก100\n70+ แจก80\n68+ แจก50\n\nAlevel เคมี\n45+ แจก200\n40+ แจก150\n35+ แจก100\n\nไม่ต้องฟอลเฟบ รีเฉยๆคั้บ\n* แจกแยก *\n#dek68 #Alevel68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2511,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 202
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T02:09:50.000Z",
+        "description": "",
+        "id": "1780055914411884544",
+        "name": "fluffyb4by",
+        "pinned_tweet_id": "1896956691402682578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892794142184337408/aVRhgCKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 39,
+          "like_count": 12548,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1594
+        },
+        "username": "BabyAngel1neC4",
+        "verified": false
+      }
+    ]
+  }
+}

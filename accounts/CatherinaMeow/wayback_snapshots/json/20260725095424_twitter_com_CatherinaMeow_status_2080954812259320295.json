@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2080907069998395640",
+    "created_at": "2026-07-25T09:54:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T10:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080954812259320295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "623965569",
+          "start": 0,
+          "username": "nothousand"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080954812259320295",
+    "in_reply_to_user_id": "623965569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080907069998395640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nothousand 是的是的 是这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2080907069998395640",
+        "created_at": "2026-07-25T09:54:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T10:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080954812259320295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "623965569",
+              "start": 0,
+              "username": "nothousand"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080954812259320295",
+        "in_reply_to_user_id": "623965569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080907069998395640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nothousand 是的是的 是这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "623965569",
+        "conversation_id": "2080907069998395640",
+        "created_at": "2026-07-25T06:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080907069998395640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nothousand/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/nothousand/status/2080902236218224656",
+              "start": 36,
+              "url": "https://t.co/XBnfxpioFq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080907069998395640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 675,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080902236218224656",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仔细感觉了一下，感觉下面是一种中间向下折叠，两边向上折叠的奇怪组合感觉 https://t.co/XBnfxpioFq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7345,
+          "following_count": 1094,
+          "like_count": 91794,
+          "listed_count": 22,
+          "media_count": 2253,
+          "tweet_count": 27191
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-01T16:27:02.000Z",
+        "description": "并非这个世界的生命体",
+        "id": "623965569",
+        "location": "earth",
+        "name": "菁芊镜華",
+        "pinned_tweet_id": "2067307566095556947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079387399390695424/1IPeK7Oz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953,
+          "following_count": 125,
+          "like_count": 9248,
+          "listed_count": 8,
+          "media_count": 571,
+          "tweet_count": 5847
+        },
+        "url": "",
+        "username": "nothousand",
+        "verified": false
+      }
+    ]
+  }
+}

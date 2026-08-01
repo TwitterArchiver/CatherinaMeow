@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898739077685342704",
+    "created_at": "2025-03-09T14:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T15:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898739077685342704"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 64,
+          "start": 55,
+          "tag": "Alevel68"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1697907353121947648",
+          "start": 3,
+          "username": "Queenni008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898739077685342704",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 328
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898650261226406395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Queenni008: แจก1000 ถ้าได้เคมี40 \nอังกฤษ40 รีเลยยย #Alevel68"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898739077685342704",
+        "created_at": "2025-03-09T14:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T15:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898739077685342704"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 64,
+              "start": 55,
+              "tag": "Alevel68"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1697907353121947648",
+              "start": 3,
+              "username": "Queenni008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898739077685342704",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898650261226406395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Queenni008: แจก1000 ถ้าได้เคมี40 \nอังกฤษ40 รีเลยยย #Alevel68"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697907353121947648",
+        "conversation_id": "1898650261226406395",
+        "created_at": "2025-03-09T08:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T09:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898650261226406395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 39,
+              "tag": "Alevel68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898650261226406395",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8103,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 328
+        },
+        "reply_settings": "everyone",
+        "text": "แจก1000 ถ้าได้เคมี40 \nอังกฤษ40 รีเลยยย #Alevel68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2515,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 230
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T09:40:43.000Z",
+        "description": "รับทำการบ้าน",
+        "id": "1697907353121947648",
+        "name": "Queenni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745335565107744768/oNCLs-3c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 78,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 164
+        },
+        "username": "Queenni008",
+        "verified": false
+      }
+    ]
+  }
+}

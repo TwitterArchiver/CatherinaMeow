@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2078094570181812335",
+    "created_at": "2026-07-18T15:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T16:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078499384036401558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1711945664966582272",
+          "start": 0,
+          "username": "o0x80t"
+        },
+        {
+          "end": 16,
+          "id": "1167792264795394048",
+          "start": 8,
+          "username": "leetfs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078499384036401558",
+    "in_reply_to_user_id": "1711945664966582272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078461060261232671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o0x80t @leetfs1 因为我和lee一个公司的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2078094570181812335",
+        "created_at": "2026-07-18T15:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078499384036401558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1711945664966582272",
+              "start": 0,
+              "username": "o0x80t"
+            },
+            {
+              "end": 16,
+              "id": "1167792264795394048",
+              "start": 8,
+              "username": "leetfs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078499384036401558",
+        "in_reply_to_user_id": "1711945664966582272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078461060261232671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o0x80t @leetfs1 因为我和lee一个公司的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711945664966582272",
+        "conversation_id": "2078094570181812335",
+        "created_at": "2026-07-18T12:45:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T13:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078461060261232671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1167792264795394048",
+              "start": 0,
+              "username": "leetfs1"
+            },
+            {
+              "end": 23,
+              "id": "1600208165269741570",
+              "start": 9,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078461060261232671",
+        "in_reply_to_user_id": "1167792264795394048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078099206909341951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leetfs1 @CatherinaMeow 好神奇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/Z1VaPh2ITC"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7336,
+          "following_count": 1093,
+          "like_count": 91476,
+          "listed_count": 22,
+          "media_count": 2248,
+          "tweet_count": 27137
+        },
+        "url": "https://t.co/Z1VaPh2ITC",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-11T03:24:03.000Z",
+        "description": "ZH/EN/JP, NO POLITIC, Undergraduate college student in Asia\n友善交友🥰",
+        "id": "1711945664966582272",
+        "location": "Beijing",
+        "name": "Space75",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068273732586745856/MCTLKHr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 111,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 293
+        },
+        "url": "",
+        "username": "o0x80t",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "Member of @MtFwiki & @RLEwiki & @AB_aboutTrans | Intern at https://t.co/dkwoFb9hyL | Love front-end and RISC-V | Trans ally 🏳️‍⚧️ | They/Them | 可爱猫卷 @itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 29,
+                "start": 21,
+                "username": "RLEwiki"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "AB_aboutTrans"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "itsCatRoll"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "is.cas.cn",
+                "end": 82,
+                "expanded_url": "http://is.cas.cn",
+                "start": 59,
+                "url": "https://t.co/dkwoFb9hyL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "leetfs.com",
+                "end": 23,
+                "expanded_url": "https://leetfs.com/",
+                "start": 0,
+                "url": "https://t.co/US8IASVs7i"
+              }
+            ]
+          }
+        },
+        "id": "1167792264795394048",
+        "name": "Lee🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028353368008339456/o3OhBxWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4477,
+          "following_count": 2201,
+          "like_count": 2518,
+          "listed_count": 23,
+          "media_count": 986,
+          "tweet_count": 6245
+        },
+        "url": "https://t.co/US8IASVs7i",
+        "username": "leetfs1",
+        "verified": true
+      }
+    ]
+  }
+}

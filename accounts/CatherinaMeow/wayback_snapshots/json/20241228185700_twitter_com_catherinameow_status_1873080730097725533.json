@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1873080730097725533",
+    "created_at": "2024-12-28T18:57:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T19:57:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873080730097725533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "622743444",
+          "start": 3,
+          "username": "_nabcden"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873080730097725533",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12743
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872624850336207214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @_nabcden: (แอบอีโมอะ พวกเขาอยู่ด้วยกันมาตั้งแต่รุกกี้นี่น่าจะเป็นไม่กี่ครั้งที่เมมกับเตนได้อยู่งานเดียวกัน งานนี้เตนได้รางวัลด้วยพอเห็น…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1873080730097725533",
+        "created_at": "2024-12-28T18:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T19:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873080730097725533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "622743444",
+              "start": 3,
+              "username": "_nabcden"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873080730097725533",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12743
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872624850336207214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @_nabcden: (แอบอีโมอะ พวกเขาอยู่ด้วยกันมาตั้งแต่รุกกี้นี่น่าจะเป็นไม่กี่ครั้งที่เมมกับเตนได้อยู่งานเดียวกัน งานนี้เตนได้รางวัลด้วยพอเห็น…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1872616318828195840"
+          ],
+          "media_source_tweet_id": [
+            "1872616833259549121"
+          ]
+        },
+        "author_id": "622743444",
+        "conversation_id": "1872624850336207214",
+        "created_at": "2024-12-27T12:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T13:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872624850336207214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mftkpeEG9D",
+              "end": 178,
+              "expanded_url": "https://x.com/99diealone/status/1872616833259549121/video/1",
+              "media_key": "13_1872616318828195840",
+              "start": 155,
+              "url": "https://t.co/mftkpeEG9D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872624850336207214",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 477,
+          "impression_count": 123906,
+          "like_count": 6582,
+          "quote_count": 10,
+          "reply_count": 1,
+          "retweet_count": 12743
+        },
+        "reply_settings": "following",
+        "text": "(แอบอีโมอะ พวกเขาอยู่ด้วยกันมาตั้งแต่รุกกี้นี่น่าจะเป็นไม่กี่ครั้งที่เมมกับเตนได้อยู่งานเดียวกัน งานนี้เตนได้รางวัลด้วยพอเห็นเมมทุกคนหันไปมองละแบบบ 🥹🥹🥹🥹)\n https://t.co/mftkpeEG9D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1915,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 125
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-30T09:13:24.000Z",
+        "description": "ชอบเดาตัวเลขมากเป็นพิเศษ|แอคนี้ต้องรวยถูกทุกงวด|บ่นเรื่องตัวเอง|ไม่รับเอตดูเขตทุกเรื่อง|สาววาย1427%|สถานะSmini JAETEN👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "docs.google.com/spreadsheets/d…",
+                "end": 23,
+                "expanded_url": "https://docs.google.com/spreadsheets/d/1e-XcMY2nDnSMyoctNf-RC3Aci4gDM83OIxR-AC4H6rs/edit",
+                "start": 0,
+                "url": "https://t.co/L5aTRhYd1V"
+              }
+            ]
+          }
+        },
+        "id": "622743444",
+        "location": "ᴊᴀᴇᴛᴇɴᴅᴏ ≈ ᴊᴀᴇᴛᴇɴ ᴅᴏᴛᴇɴ\nɴᴏᴍɪɴʀᴇɴ ≈ ɴᴏᴍɪɴ ɴᴏʀᴇɴ ᴊᴀᴍʀᴇɴ\nᴀɴᴅ ᴀʟʟᴛᴇɴ ᴀʟʟ₀₀ʟɪɴᴇᴡɪᴛʜ ʀᴊ ♥︎\nวิเคราะห์nct/ลงคลิปที่tiktok ᐧ༚̮ᐧ",
+        "name": "⟡ ̫ นุเอง𝑓𝑡.𝐵𝑎𝑔𝑔𝑦 𝑗𝑒𝑎𝑛𝑠 🍑🐱",
+        "pinned_tweet_id": "1852274886863098259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868282050584965120/7P73ToP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3209,
+          "following_count": 185,
+          "like_count": 94912,
+          "listed_count": 10,
+          "media_count": 41301,
+          "tweet_count": 555886
+        },
+        "url": "https://t.co/L5aTRhYd1V",
+        "username": "_nabcden",
+        "verified": false
+      }
+    ]
+  }
+}

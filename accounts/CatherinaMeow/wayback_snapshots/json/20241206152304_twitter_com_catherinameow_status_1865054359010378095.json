@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864953380080357377"
+      ],
+      "media_source_tweet_id": [
+        "1864953388930392220"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1865054359010378095",
+    "created_at": "2024-12-06T15:23:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T16:23:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865054359010378095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1425842739833307146",
+          "start": 3,
+          "username": "engwithpmo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uw6ppPs5BA",
+          "end": 71,
+          "expanded_url": "https://x.com/engwithpmo/status/1864953388930392220/photo/1",
+          "media_key": "3_1864953380080357377",
+          "start": 48,
+          "url": "https://t.co/uw6ppPs5BA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865054359010378095",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4896
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864953388930392220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @engwithpmo: ยันต์กันตก แชร์แล้วทำข้อสอบได้🪄 https://t.co/uw6ppPs5BA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_1864953380080357377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeGlN95akAEDHzY.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864953380080357377"
+          ],
+          "media_source_tweet_id": [
+            "1864953388930392220"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1865054359010378095",
+        "created_at": "2024-12-06T15:23:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T16:23:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865054359010378095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1425842739833307146",
+              "start": 3,
+              "username": "engwithpmo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uw6ppPs5BA",
+              "end": 71,
+              "expanded_url": "https://x.com/engwithpmo/status/1864953388930392220/photo/1",
+              "media_key": "3_1864953380080357377",
+              "start": 48,
+              "url": "https://t.co/uw6ppPs5BA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865054359010378095",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4896
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864953388930392220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @engwithpmo: ยันต์กันตก แชร์แล้วทำข้อสอบได้🪄 https://t.co/uw6ppPs5BA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864953380080357377"
+          ]
+        },
+        "author_id": "1425842739833307146",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1864953388930392220",
+        "created_at": "2024-12-06T08:41:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T09:41:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864953388930392220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uw6ppPs5BA",
+              "end": 55,
+              "expanded_url": "https://x.com/engwithpmo/status/1864953388930392220/photo/1",
+              "media_key": "3_1864953380080357377",
+              "start": 32,
+              "url": "https://t.co/uw6ppPs5BA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864953388930392220",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 406,
+          "impression_count": 92341,
+          "like_count": 4067,
+          "quote_count": 16,
+          "reply_count": 0,
+          "retweet_count": 4896
+        },
+        "reply_settings": "everyone",
+        "text": "ยันต์กันตก แชร์แล้วทำข้อสอบได้🪄 https://t.co/uw6ppPs5BA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1699,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 99
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T15:33:04.000Z",
+        "description": "สอนภาษาอังกฤษคลาสสดonline สำหรับม.ต้น-ปลาย เตรียมสอบเข้าม.4 TGAT ONET A-Level NETSAT TUGET CUTEP | สอบถาม/สมัครเรียน : https://t.co/NWuRChqTyL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lin.ee/YVt2SZn",
+                "end": 142,
+                "expanded_url": "https://lin.ee/YVt2SZn",
+                "start": 119,
+                "url": "https://t.co/NWuRChqTyL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/eng.with.pmo?i…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/eng.with.pmo?igshid=YTQwZjQ0NmI0OA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/eM0KetemqV"
+              }
+            ]
+          }
+        },
+        "id": "1425842739833307146",
+        "location": "Bangkok, Thailand",
+        "name": "English with P’Mo",
+        "pinned_tweet_id": "1853376681630945726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1425842970016636932/TnsoqdYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17902,
+          "following_count": 1,
+          "like_count": 123,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 404
+        },
+        "url": "https://t.co/eM0KetemqV",
+        "username": "engwithpmo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1873072905191620694",
+    "created_at": "2024-12-28T18:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T19:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873072905191620694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1537042540070809602",
+          "start": 3,
+          "username": "piji_ka1999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873072905191620694",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57024
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872648267391209803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @piji_ka1999: ความรักของเรามันเป็นไปไม่ได้หรอกน้อง พี่เปนทอม น้องเปนกะเทย เราไปกันไม่ได้ #.เตนตี้"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1873072905191620694",
+        "created_at": "2024-12-28T18:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T19:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873072905191620694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1537042540070809602",
+              "start": 3,
+              "username": "piji_ka1999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873072905191620694",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57024
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872648267391209803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @piji_ka1999: ความรักของเรามันเป็นไปไม่ได้หรอกน้อง พี่เปนทอม น้องเปนกะเทย เราไปกันไม่ได้ #.เตนตี้"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537042540070809602",
+        "conversation_id": "1872648267391209803",
+        "created_at": "2024-12-27T14:18:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T15:18:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872648267391209803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/itsmesuperten/…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/itsmesuperten/status/1872628665944858701",
+              "start": 84,
+              "url": "https://t.co/xDpW0uSUwc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872648267391209803",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1633,
+          "impression_count": 1557602,
+          "like_count": 21686,
+          "quote_count": 151,
+          "reply_count": 33,
+          "retweet_count": 57024
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872628665944858701",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ความรักของเรามันเป็นไปไม่ได้หรอกน้อง พี่เปนทอม น้องเปนกะเทย เราไปกันไม่ได้ #.เตนตี้ https://t.co/xDpW0uSUwc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1835,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 115
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T12:01:21.000Z",
+        "description": "นัก(ฝึก)เขียน ชื่นชอบการแต่งกาพย์ กลอน โคลง หลงใหลในวัฒนธรรมทางภาษา และชอบประวัติศาสตร์เป็นชีวิตจิตใจ",
+        "id": "1537042540070809602",
+        "name": "คุณพิจิกา",
+        "pinned_tweet_id": "1871252016036778112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1537044878558842880/KAyFCmV9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 73,
+          "like_count": 14484,
+          "listed_count": 1,
+          "media_count": 1237,
+          "tweet_count": 6622
+        },
+        "username": "piji_ka1999",
+        "verified": false
+      }
+    ]
+  }
+}

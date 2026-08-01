@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898638238824476795",
+    "created_at": "2025-03-09T07:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T08:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898638238824476795"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 48,
+          "tag": "Alevel68"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1382729758123823104",
+          "start": 3,
+          "username": "hugjaeminsumfah"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898638238824476795",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 396
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898577202721272105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hugjaeminsumfah: คณิต 1 เกิน 15 แจก200 มามา #Alevel68"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898638238824476795",
+        "created_at": "2025-03-09T07:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898638238824476795"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 48,
+              "tag": "Alevel68"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1382729758123823104",
+              "start": 3,
+              "username": "hugjaeminsumfah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898638238824476795",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 396
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898577202721272105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hugjaeminsumfah: คณิต 1 เกิน 15 แจก200 มามา #Alevel68"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1382729758123823104",
+        "conversation_id": "1898577202721272105",
+        "created_at": "2025-03-09T03:30:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:30:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898577202721272105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "Alevel68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898577202721272105",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14120,
+          "like_count": 150,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 396
+        },
+        "reply_settings": "everyone",
+        "text": "คณิต 1 เกิน 15 แจก200 มามา #Alevel68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2512,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 209
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-15T16:17:34.000Z",
+        "description": "ปีนี้(2025)ขอเรียนที่ทุ่งรังสิต tu91",
+        "id": "1382729758123823104",
+        "location": "อัลมอนด์พีนัทบัตเต้อบ้อกแบ้ก",
+        "name": "ฮักแจมินส่ำฟ้าพู้นนน",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892454613930168320/5ZzPTWrf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 267,
+          "like_count": 7655,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 15529
+        },
+        "username": "hugjaeminsumfah",
+        "verified": false
+      }
+    ]
+  }
+}

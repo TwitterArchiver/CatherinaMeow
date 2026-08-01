@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2082484405592002776",
+    "created_at": "2026-07-29T17:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T18:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082521086231716178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1259887178",
+          "start": 0,
+          "username": "AsadaYuki_Art"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082521086231716178",
+    "in_reply_to_user_id": "1259887178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082496750921896372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsadaYuki_Art 警灯一开 悠哉悠哉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2082484405592002776",
+        "created_at": "2026-07-29T17:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T18:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082521086231716178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1259887178",
+              "start": 0,
+              "username": "AsadaYuki_Art"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082521086231716178",
+        "in_reply_to_user_id": "1259887178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082496750921896372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsadaYuki_Art 警灯一开 悠哉悠哉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1259887178",
+        "conversation_id": "2082484405592002776",
+        "created_at": "2026-07-29T16:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082496750921896372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082496750921896372",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082484405592002776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 土澳也天天上演罪恶都市？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7354,
+          "following_count": 1095,
+          "like_count": 92124,
+          "listed_count": 22,
+          "media_count": 2262,
+          "tweet_count": 27262
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2013-03-11T16:41:09.000Z",
+        "description": "if…\n\nINFP-T / 极度厌蠢症 / 不吃压力之人，你压我就碎\n\n第三者視点の世界線観測者\n\nUltimate Skill - ｢Raphael/シエル｣ Lord of Knowledge\n\nLet's start fresh.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuki.art",
+                "end": 23,
+                "expanded_url": "https://www.yuki.art/",
+                "start": 0,
+                "url": "https://t.co/NGsZjhYaWm"
+              }
+            ]
+          }
+        },
+        "id": "1259887178",
+        "location": "ジュラ・テンペスト連邦国",
+        "name": "Asada-Yuki Genderless Blue Slime (Egoist)",
+        "pinned_tweet_id": "2078483037877412100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048200063709769728/38_-oKvM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7767,
+          "following_count": 539,
+          "like_count": 5096,
+          "listed_count": 18,
+          "media_count": 901,
+          "tweet_count": 6944
+        },
+        "url": "https://t.co/NGsZjhYaWm",
+        "username": "AsadaYuki_Art",
+        "verified": false
+      }
+    ]
+  }
+}

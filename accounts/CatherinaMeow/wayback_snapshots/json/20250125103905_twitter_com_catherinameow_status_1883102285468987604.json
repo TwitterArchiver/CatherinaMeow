@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1883064867588075520"
+      ],
+      "media_source_tweet_id": [
+        "1883064891185246704"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "conversation_id": "1883102285468987604",
+    "created_at": "2025-01-25T10:39:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T11:39:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883102285468987604"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 39,
+          "tag": "THEDnDxNCTDREAM"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "945391413100818432",
+          "start": 3,
+          "username": "apaeonia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OFWv8jg2Jv",
+          "end": 79,
+          "expanded_url": "https://x.com/apaeonia/status/1883064891185246704/video/1",
+          "media_key": "7_1883064867588075520",
+          "start": 56,
+          "url": "https://t.co/OFWv8jg2Jv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883102285468987604",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6292
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883064891185246704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @apaeonia: อห. โน่เรียก \"หม่ามี๊\" 😭\n#THEDnDxNCTDREAM https://t.co/OFWv8jg2Jv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3503,
+        "height": 720,
+        "media_key": "7_1883064867588075520",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1883064867588075520/pu/img/gWYBKo4jpj58t_D1.jpg",
+        "public_metrics": {
+          "view_count": 22146
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883064867588075520/pu/vid/avc1/320x320/0mkKBOHU81EYz1Tq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883064867588075520/pu/vid/avc1/540x540/RTFaoph4vMeyh6cd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1883064867588075520/pu/vid/avc1/720x720/ImO0Q7EbckvDaFoE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1883064867588075520/pu/pl/C-eSc4AtwfLdhpfv.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883064867588075520"
+          ],
+          "media_source_tweet_id": [
+            "1883064891185246704"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "conversation_id": "1883102285468987604",
+        "created_at": "2025-01-25T10:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T11:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883102285468987604"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 39,
+              "tag": "THEDnDxNCTDREAM"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "945391413100818432",
+              "start": 3,
+              "username": "apaeonia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFWv8jg2Jv",
+              "end": 79,
+              "expanded_url": "https://x.com/apaeonia/status/1883064891185246704/video/1",
+              "media_key": "7_1883064867588075520",
+              "start": 56,
+              "url": "https://t.co/OFWv8jg2Jv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883102285468987604",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6292
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883064891185246704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @apaeonia: อห. โน่เรียก \"หม่ามี๊\" 😭\n#THEDnDxNCTDREAM https://t.co/OFWv8jg2Jv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1883064867588075520"
+          ]
+        },
+        "author_id": "945391413100818432",
+        "conversation_id": "1883064891185246704",
+        "created_at": "2025-01-25T08:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T09:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883064891185246704"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 25,
+              "tag": "THEDnDxNCTDREAM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OFWv8jg2Jv",
+              "end": 65,
+              "expanded_url": "https://x.com/apaeonia/status/1883064891185246704/video/1",
+              "media_key": "7_1883064867588075520",
+              "start": 42,
+              "url": "https://t.co/OFWv8jg2Jv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883064891185246704",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 388,
+          "impression_count": 57048,
+          "like_count": 3243,
+          "quote_count": 52,
+          "reply_count": 0,
+          "retweet_count": 6292
+        },
+        "reply_settings": "everyone",
+        "text": "อห. โน่เรียก \"หม่ามี๊\" 😭\n#THEDnDxNCTDREAM https://t.co/OFWv8jg2Jv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 29,
+          "like_count": 2066,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 149
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-25T20:30:52.000Z",
+        "description": "Yeah! Yeah! That's me.​ 💚🐱🍑",
+        "id": "945391413100818432",
+        "name": "𝓳𝓮𝓸𝓷𝓰𝔂𝓾𝓷𝓸 ◡̈",
+        "pinned_tweet_id": "1871794784580624557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837156604313227269/f9safa52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 327,
+          "like_count": 4108,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 3015
+        },
+        "username": "apaeonia",
+        "verified": false
+      }
+    ]
+  }
+}

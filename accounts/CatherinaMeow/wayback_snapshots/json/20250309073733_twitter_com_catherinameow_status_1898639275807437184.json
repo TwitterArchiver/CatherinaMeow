@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898639275807437184",
+    "created_at": "2025-03-09T07:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T08:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898639275807437184"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 98,
+          "start": 89,
+          "tag": "Alevel68"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1399271337353355268",
+          "start": 3,
+          "username": "pariheeq_rose"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898639275807437184",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898636347432440305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pariheeq_rose: ถ้าติดมหาลัยที่อยาก เข้าคณะที่อยากเรียน สาขาที่ลิสต์ แจก 1,000  1 คน  #Alevel68"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898639275807437184",
+        "created_at": "2025-03-09T07:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898639275807437184"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 89,
+              "tag": "Alevel68"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1399271337353355268",
+              "start": 3,
+              "username": "pariheeq_rose"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898639275807437184",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898636347432440305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pariheeq_rose: ถ้าติดมหาลัยที่อยาก เข้าคณะที่อยากเรียน สาขาที่ลิสต์ แจก 1,000  1 คน  #Alevel68"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1399271337353355268",
+        "conversation_id": "1898636347432440305",
+        "created_at": "2025-03-09T07:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898636347432440305"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 70,
+              "tag": "Alevel68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898636347432440305",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1936,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "ถ้าติดมหาลัยที่อยาก เข้าคณะที่อยากเรียน สาขาที่ลิสต์ แจก 1,000  1 คน  #Alevel68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2514,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 222
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-31T07:48:18.000Z",
+        "description": "มจพ.ดิ่ว่ะ",
+        "id": "1399271337353355268",
+        "name": "ฮ๊อบเหยิน",
+        "pinned_tweet_id": "1898636347432440305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893889521147678720/5US0Qzvs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 175,
+          "like_count": 1445,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 1795
+        },
+        "username": "pariheeq_rose",
+        "verified": false
+      }
+    ]
+  }
+}

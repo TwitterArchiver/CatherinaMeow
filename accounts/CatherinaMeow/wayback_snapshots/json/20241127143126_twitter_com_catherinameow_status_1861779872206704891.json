@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1861438050691322313"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "conversation_id": "1861779872206704891",
+    "created_at": "2024-11-27T14:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-27T15:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861779872206704891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1377606219037175810",
+          "start": 3,
+          "username": "prxwbara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SaEzghmmUd",
+          "end": 68,
+          "expanded_url": "https://x.com/prxwbara/status/1861438050691322313/photo/1",
+          "media_key": "3_1861438046987788294",
+          "start": 45,
+          "url": "https://t.co/SaEzghmmUd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861779872206704891",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5096
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861438050691322313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "verified",
+    "text": "RT @prxwbara: ขอให้มีแฟนใส่แว่นหล่อๆ ตรงสเปค https://t.co/SaEzghmmUd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1861438050691322313"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "conversation_id": "1861779872206704891",
+        "created_at": "2024-11-27T14:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-27T15:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861779872206704891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1377606219037175810",
+              "start": 3,
+              "username": "prxwbara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaEzghmmUd",
+              "end": 68,
+              "expanded_url": "https://x.com/prxwbara/status/1861438050691322313/photo/1",
+              "media_key": "3_1861438046987788294",
+              "start": 45,
+              "url": "https://t.co/SaEzghmmUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861779872206704891",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5096
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861438050691322313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "RT @prxwbara: ขอให้มีแฟนใส่แว่นหล่อๆ ตรงสเปค https://t.co/SaEzghmmUd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861438046987788294"
+          ]
+        },
+        "author_id": "1377606219037175810",
+        "conversation_id": "1861438050691322313",
+        "created_at": "2024-11-26T15:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T16:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861438050691322313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SaEzghmmUd",
+              "end": 54,
+              "expanded_url": "https://x.com/prxwbara/status/1861438050691322313/photo/1",
+              "media_key": "3_1861438046987788294",
+              "start": 31,
+              "url": "https://t.co/SaEzghmmUd"
+            },
+            {
+              "display_url": "x.com/140otan/status…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/140otan/status/1861064587728347166",
+              "start": 55,
+              "url": "https://t.co/ChvPDioiEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861438050691322313",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 181889,
+          "like_count": 4651,
+          "quote_count": 35,
+          "reply_count": 3,
+          "retweet_count": 5096
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861064587728347166",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "verified",
+        "text": "ขอให้มีแฟนใส่แว่นหล่อๆ ตรงสเปค https://t.co/SaEzghmmUd https://t.co/ChvPDioiEU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 27,
+          "like_count": 1511,
+          "listed_count": 0,
+          "tweet_count": 74
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-01T12:58:37.000Z",
+        "description": "20↑  ꒰ multifandom ꒱ \n✿ ⊹ ˚  𓂃 anime | webtoon | series | PLAVE 💙💜💗❤🖤\n\n          ♡ ทาสรักหนุ่มแว่น",
+        "id": "1377606219037175810",
+        "name": "praew .☘︎ ݁",
+        "pinned_tweet_id": "1825415236985434523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861350720798367745/6sT-rvSm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8315,
+          "following_count": 253,
+          "like_count": 1594,
+          "listed_count": 10,
+          "tweet_count": 88879
+        },
+        "username": "prxwbara",
+        "verified": false
+      }
+    ]
+  }
+}

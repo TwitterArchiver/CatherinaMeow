@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1865973205657383100",
+    "created_at": "2024-12-09T04:14:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T05:14:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865973205657383100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1315598139106230274",
+          "start": 3,
+          "username": "mxsurie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865973205657383100",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13176
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865829459569602817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mxsurie: อหหห ประกาศสุดช็อกแฟน ๆ ไยบะ 😭😭😭 อฟช.ประกาศกำหนดฉายภาคปราสาทไร้ขอบเขตปี 2025 นี้เลยกรี๊ดดดดดด 🗣️❤️‍🔥\n\nปีหน้าคือยุคทองอนิเมะจริ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1865973205657383100",
+        "created_at": "2024-12-09T04:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T05:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865973205657383100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1315598139106230274",
+              "start": 3,
+              "username": "mxsurie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865973205657383100",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13176
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865829459569602817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mxsurie: อหหห ประกาศสุดช็อกแฟน ๆ ไยบะ 😭😭😭 อฟช.ประกาศกำหนดฉายภาคปราสาทไร้ขอบเขตปี 2025 นี้เลยกรี๊ดดดดดด 🗣️❤️‍🔥\n\nปีหน้าคือยุคทองอนิเมะจริ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1865829388664946688"
+          ]
+        },
+        "author_id": "1315598139106230274",
+        "conversation_id": "1865829459569602817",
+        "created_at": "2024-12-08T18:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T19:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865829459569602817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9L3w8SXdzk",
+              "end": 253,
+              "expanded_url": "https://x.com/mxsurie/status/1865829459569602817/video/1",
+              "media_key": "7_1865829388664946688",
+              "start": 230,
+              "url": "https://t.co/9L3w8SXdzk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865829459569602817",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 400,
+          "impression_count": 339951,
+          "like_count": 5695,
+          "quote_count": 160,
+          "reply_count": 12,
+          "retweet_count": 13176
+        },
+        "reply_settings": "everyone",
+        "text": "อหหห ประกาศสุดช็อกแฟน ๆ ไยบะ 😭😭😭 อฟช.ประกาศกำหนดฉายภาคปราสาทไร้ขอบเขตปี 2025 นี้เลยกรี๊ดดดดดด 🗣️❤️‍🔥\n\nปีหน้าคือยุคทองอนิเมะจริงจัง เรื่องใหม่ ซซ.ใหม่ มาหมด โอตาคุเกียมทรัพย์เกียมใจให้พร้อม มันสุดจริงคุณพี่อ้ากกกก ตื่นเต้วววฮึกฟฟฟ https://t.co/9L3w8SXdzk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1751,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 108
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T10:20:29.000Z",
+        "description": "18↑ 𓐄 🍛 ̇ multifandom ❨ 🚥 spoiler alert ❩ 𓇢 🩹🐈‍⬛ sosk ngro 𓂃 mainly wbk ♡゙ anime 𓈒 manga 𓈒 etc. ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀",
+        "id": "1315598139106230274",
+        "location": "🪜 fub free ✩ late reply",
+        "name": "🧃⁺ อุมึ่ง ⌯",
+        "pinned_tweet_id": "1829820080827613515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865127192478547968/GFbaUH_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7162,
+          "following_count": 307,
+          "like_count": 43385,
+          "listed_count": 15,
+          "media_count": 5846,
+          "tweet_count": 79358
+        },
+        "username": "mxsurie",
+        "verified": false
+      }
+    ]
+  }
+}

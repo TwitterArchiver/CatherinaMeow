@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2080965526831116426",
+    "created_at": "2026-07-25T10:46:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T11:46:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080967832742019441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799009511333830656",
+          "start": 0,
+          "username": "canmi21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080967832742019441",
+    "in_reply_to_user_id": "1799009511333830656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080967166665379970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canmi21 （其实这不是机场 是我自己家的宽带）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2080965526831116426",
+        "created_at": "2026-07-25T10:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080967832742019441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799009511333830656",
+              "start": 0,
+              "username": "canmi21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080967832742019441",
+        "in_reply_to_user_id": "1799009511333830656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080967166665379970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canmi21 （其实这不是机场 是我自己家的宽带）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799009511333830656",
+        "conversation_id": "2080965526831116426",
+        "created_at": "2026-07-25T10:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080967166665379970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080967166665379970",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080965526831116426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 好好好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7344,
+          "following_count": 1093,
+          "like_count": 91813,
+          "listed_count": 22,
+          "media_count": 2254,
+          "tweet_count": 27194
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-07T09:24:43.000Z",
+        "description": "猫不错 摸摸 | Rust x TS\nSoftware & Hardware Developer\nhttps://t.co/jCJSpcweqM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/canmimua",
+                "end": 72,
+                "expanded_url": "https://t.me/canmimua",
+                "start": 49,
+                "url": "https://t.co/jCJSpcweqM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ill.li",
+                "end": 23,
+                "expanded_url": "https://ill.li",
+                "start": 0,
+                "url": "https://t.co/4w4PKDF6lx"
+              }
+            ]
+          }
+        },
+        "id": "1799009511333830656",
+        "location": "Carolina",
+        "name": "Canmi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043309116349915136/HEoWBPua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 188,
+          "like_count": 21841,
+          "listed_count": 16,
+          "media_count": 1049,
+          "tweet_count": 5762
+        },
+        "url": "https://t.co/4w4PKDF6lx",
+        "username": "canmi21",
+        "verified": true
+      }
+    ]
+  }
+}

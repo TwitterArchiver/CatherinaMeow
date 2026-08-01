@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079830246116020224"
+      ]
+    },
+    "author_id": "1600208165269741570",
+    "conversation_id": "2079830258703057124",
+    "created_at": "2026-07-22T07:25:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:25:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079830258703057124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kIeDY6OKFj",
+          "end": 50,
+          "expanded_url": "https://x.com/CatherinaMeow/status/2079830258703057124/photo/1",
+          "media_key": "3_2079830246116020224",
+          "start": 27,
+          "url": "https://t.co/kIeDY6OKFj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079830258703057124",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "耶耶 是战利品！ （虽然花了差不多60刀啊）（哀嚎） https://t.co/kIeDY6OKFj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3526,
+        "media_key": "3_2079830246116020224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0KluTb0AAhs6D.jpg",
+        "width": 1675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079830246116020224"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "conversation_id": "2079830258703057124",
+        "created_at": "2026-07-22T07:25:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079830258703057124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIeDY6OKFj",
+              "end": 50,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2079830258703057124/photo/1",
+              "media_key": "3_2079830246116020224",
+              "start": 27,
+              "url": "https://t.co/kIeDY6OKFj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079830258703057124",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耶耶 是战利品！ （虽然花了差不多60刀啊）（哀嚎） https://t.co/kIeDY6OKFj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7340,
+          "following_count": 1095,
+          "like_count": 91650,
+          "listed_count": 22,
+          "media_count": 2252,
+          "tweet_count": 27166
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      }
+    ]
+  }
+}

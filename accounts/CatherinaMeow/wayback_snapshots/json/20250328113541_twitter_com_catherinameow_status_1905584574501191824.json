@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1905584574501191824",
+    "created_at": "2025-03-28T11:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T12:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905584574501191824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1289822103194095616",
+          "start": 3,
+          "username": "ffragilee__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905584574501191824",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24794
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905513895445627327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ffragilee__: กุเข้าใจชาวโลกตอนเอเรนสั่งพสุธากัมปนาทละ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1905584574501191824",
+        "created_at": "2025-03-28T11:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T12:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905584574501191824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1289822103194095616",
+              "start": 3,
+              "username": "ffragilee__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905584574501191824",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24794
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905513895445627327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ffragilee__: กุเข้าใจชาวโลกตอนเอเรนสั่งพสุธากัมปนาทละ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1289822103194095616",
+        "conversation_id": "1905513895445627327",
+        "created_at": "2025-03-28T06:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T07:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905513895445627327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905513895445627327",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1074,
+          "impression_count": 606736,
+          "like_count": 13483,
+          "quote_count": 131,
+          "reply_count": 7,
+          "retweet_count": 24794
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "กุเข้าใจชาวโลกตอนเอเรนสั่งพสุธากัมปนาทละ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2600,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 253
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-02T07:15:36.000Z",
+        "description": "ขอให้ทุกคนสู้ๆ แต่ไม่ใช่มาสู้กับกุ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀",
+        "id": "1289822103194095616",
+        "location": "𝙍𝙏 𝗡𝗦𝗙𝗪 🔞 for work dm",
+        "name": "ฟจ⁷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868540141385682944/l41bBtw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34216,
+          "following_count": 176,
+          "like_count": 11590,
+          "listed_count": 28,
+          "media_count": 7062,
+          "tweet_count": 103794
+        },
+        "username": "ffragilee__",
+        "verified": false
+      }
+    ]
+  }
+}

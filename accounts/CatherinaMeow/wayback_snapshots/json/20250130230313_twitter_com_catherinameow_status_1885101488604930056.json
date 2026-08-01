@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1885101488604930056",
+    "created_at": "2025-01-30T23:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T00:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885101488604930056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2428549794",
+          "start": 3,
+          "username": "doublepp__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885101488604930056",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9232
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884939806939222223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @doublepp__: ฮ้าท: กุก็ช่วยน้องกุอยู่นี่ไง\nเป้อ: แล้วกุไม่ใช่น้องมึงหรอ มึงทำแบบนี้กับทุกคนได้ไง กุก็น้องมึงปะ\nฮ้าท: มึง! ไม่มีสิทธิ์! ม…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1885101488604930056",
+        "created_at": "2025-01-30T23:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T00:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885101488604930056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2428549794",
+              "start": 3,
+              "username": "doublepp__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885101488604930056",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9232
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884939806939222223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @doublepp__: ฮ้าท: กุก็ช่วยน้องกุอยู่นี่ไง\nเป้อ: แล้วกุไม่ใช่น้องมึงหรอ มึงทำแบบนี้กับทุกคนได้ไง กุก็น้องมึงปะ\nฮ้าท: มึง! ไม่มีสิทธิ์! ม…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1884939729516593153"
+          ]
+        },
+        "author_id": "2428549794",
+        "conversation_id": "1884939806939222223",
+        "created_at": "2025-01-30T12:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T13:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884939806939222223"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 247,
+              "start": 236,
+              "tag": "BUSข้นคนจำ"
+            },
+            {
+              "end": 263,
+              "start": 248,
+              "tag": "HEARTchuthiwat"
+            },
+            {
+              "end": 279,
+              "start": 264,
+              "tag": "COPPERdechawat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iFDWPE98tI",
+              "end": 303,
+              "expanded_url": "https://x.com/doublepp__/status/1884939806939222223/video/1",
+              "media_key": "13_1884939729516593153",
+              "start": 280,
+              "url": "https://t.co/iFDWPE98tI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884939806939222223",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 494,
+          "impression_count": 136670,
+          "like_count": 7354,
+          "quote_count": 49,
+          "reply_count": 7,
+          "retweet_count": 9232
+        },
+        "reply_settings": "everyone",
+        "text": "ฮ้าท: กุก็ช่วยน้องกุอยู่นี่ไง\nเป้อ: แล้วกุไม่ใช่น้องมึงหรอ มึงทำแบบนี้กับทุกคนได้ไง กุก็น้องมึงปะ\nฮ้าท: มึง! ไม่มีสิทธิ์! มาเรียกกุว่าพี่! /เธอบแกว่าฉันแค่น้องชาย\n\n/อรืมเอาาา52515151525255255 นี่กำลังจะร้องไห้ ทำไรทำ ไอบ้าตลกมาก5525252\n#BUSข้นคนจำ\n#HEARTchuthiwat #COPPERdechawat https://t.co/iFDWPE98tI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2358,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 183
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-05T08:33:34.000Z",
+        "description": "because of you i shine 🚌⭐️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_jeongjaehyun?…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/_jeongjaehyun?utm_medium=copy_link",
+                "start": 0,
+                "url": "https://t.co/4mRlgbNZX1"
+              }
+            ]
+          }
+        },
+        "id": "2428549794",
+        "location": "127 ♡",
+        "name": "doublepp!🫶🏻",
+        "pinned_tweet_id": "1707726272829550846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1696174811272065024/Vg1UJ_F4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23398,
+          "following_count": 115,
+          "like_count": 2845,
+          "listed_count": 78,
+          "media_count": 28041,
+          "tweet_count": 208556
+        },
+        "url": "https://t.co/4mRlgbNZX1",
+        "username": "doublepp__",
+        "verified": true
+      }
+    ]
+  }
+}

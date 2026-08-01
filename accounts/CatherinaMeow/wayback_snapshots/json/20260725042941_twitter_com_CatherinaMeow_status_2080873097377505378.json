@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2080866568163250188",
+    "created_at": "2026-07-25T04:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080873097377505378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886796352283402250",
+          "start": 0,
+          "username": "TheCyclist400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080873097377505378",
+    "in_reply_to_user_id": "1886796352283402250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080866568163250188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheCyclist400 猫猫给自己所有的包里都放了至少一盒 QvQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2080866568163250188",
+        "created_at": "2026-07-25T04:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080873097377505378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886796352283402250",
+              "start": 0,
+              "username": "TheCyclist400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080873097377505378",
+        "in_reply_to_user_id": "1886796352283402250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080866568163250188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheCyclist400 猫猫给自己所有的包里都放了至少一盒 QvQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886796352283402250",
+        "conversation_id": "2080866568163250188",
+        "created_at": "2026-07-25T04:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080866568163250188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080866568163250188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我这…想了一百次要带糖…\n\n结果又忘记了…还好嘴里还含着一个dose…\n\n我这…可以叫D长了…\n\nADHD的D😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7345,
+          "following_count": 1094,
+          "like_count": 91768,
+          "listed_count": 22,
+          "media_count": 2253,
+          "tweet_count": 27189
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-04T15:18:12.000Z",
+        "description": "邪修术娘/TransParent/Gardener/2nd hand carpenter/Ex-handyman/Retired photographer/Former 021er/MMA/4WD/ISFJ我有ADHD也许有ASD/SRS 26.9.2025/我们一定都能战胜depression",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lulu.c12177",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lulu.c12177",
+                "start": 0,
+                "url": "https://t.co/aKXta2M7vf"
+              }
+            ]
+          }
+        },
+        "id": "1886796352283402250",
+        "location": "匿名向我提问吧→",
+        "name": "Lulu.C",
+        "pinned_tweet_id": "1961013729388351563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063558643765882881/vF7BqGMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1867,
+          "following_count": 538,
+          "like_count": 10770,
+          "listed_count": 4,
+          "media_count": 678,
+          "tweet_count": 5214
+        },
+        "url": "https://t.co/aKXta2M7vf",
+        "username": "TheCyclist400",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2082484405592002776",
+    "created_at": "2026-07-29T16:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082496396712870144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "923051228614897664",
+          "start": 0,
+          "username": "Lisa_Queen_Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082496396712870144",
+    "in_reply_to_user_id": "923051228614897664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082495973235056890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lisa_Queen_Me 我前天才买了箱冰红茶）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2082484405592002776",
+        "created_at": "2026-07-29T16:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082496396712870144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "923051228614897664",
+              "start": 0,
+              "username": "Lisa_Queen_Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082496396712870144",
+        "in_reply_to_user_id": "923051228614897664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082495973235056890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lisa_Queen_Me 我前天才买了箱冰红茶）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "923051228614897664",
+        "conversation_id": "2082484405592002776",
+        "created_at": "2026-07-29T15:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082495973235056890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082495973235056890",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082484405592002776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 挂个大号的24号球服👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7356,
+          "following_count": 1097,
+          "like_count": 92113,
+          "listed_count": 22,
+          "media_count": 2261,
+          "tweet_count": 27259
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2017-10-25T04:58:57.000Z",
+        "description": "谐音梗扣钱 | intj | 猫猫&🏳️‍⚧️ & les | 社恐形态(不够熟悉时) | 工具开发 项目经理 python Java 并不断丰富技能ing | 意面爱好者 & 美食制作者 | 老诗人(现在不怎么写了) | 三只喵星人的好朋友 | 欢迎同类及朋友互fo | 最高の黒猫 @CatherinaMeow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 143,
+                "username": "CatherinaMeow"
+              }
+            ]
+          }
+        },
+        "id": "923051228614897664",
+        "name": "LisaQueen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003671193430392832/cr96Siu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 920,
+          "like_count": 3392,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 476
+        },
+        "url": "",
+        "username": "Lisa_Queen_Me",
+        "verified": true
+      }
+    ]
+  }
+}

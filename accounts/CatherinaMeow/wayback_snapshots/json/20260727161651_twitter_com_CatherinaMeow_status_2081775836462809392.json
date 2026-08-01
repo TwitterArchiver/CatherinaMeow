@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081775799112552448",
+        "3_2081775797560627200"
+      ]
+    },
+    "author_id": "1600208165269741570",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2081775836462809392",
+    "created_at": "2026-07-27T16:16:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T17:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081775836462809392"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 66,
+          "tag": "奈酱今天吃什么"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MkLIl60TlF",
+          "end": 98,
+          "expanded_url": "https://x.com/CatherinaMeow/status/2081775836462809392/video/1",
+          "media_key": "13_2081775799112552448",
+          "start": 75,
+          "url": "https://t.co/MkLIl60TlF"
+        },
+        {
+          "display_url": "pic.x.com/MkLIl60TlF",
+          "end": 98,
+          "expanded_url": "https://x.com/CatherinaMeow/status/2081775836462809392/video/1",
+          "media_key": "3_2081775797560627200",
+          "start": 75,
+          "url": "https://t.co/MkLIl60TlF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081775836462809392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做个饭把烟雾报警器弄响了（） \n\n不过还好就自己室内的 响了不到一分钟就没了（）  也没什么严重后果\n\n所以看看猫今天吃什么吧 \n\n#奈酱今天吃什么 https://t.co/MkLIl60TlF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3468,
+        "height": 1920,
+        "media_key": "13_2081775799112552448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081775799112552448/img/wvxywxRvNpdChSiO.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081775799112552448/vid/avc1/480x852/TOAVvNqsw4DcHe0p.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081775799112552448/vid/avc1/1080x1920/OwtxUn9VpyEamR1y.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081775799112552448/pl/xM4L_NxRWXknOoyY.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081775799112552448/vid/avc1/320x568/VJ-CxojbR2Iay0d8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081775799112552448/vid/avc1/720x1280/FwEuAESk5yburUjI.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2081775797560627200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOP0DuObUAAC06Y.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081775799112552448",
+            "3_2081775797560627200"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081775836462809392",
+        "created_at": "2026-07-27T16:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081775836462809392"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 66,
+              "tag": "奈酱今天吃什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MkLIl60TlF",
+              "end": 98,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2081775836462809392/video/1",
+              "media_key": "13_2081775799112552448",
+              "start": 75,
+              "url": "https://t.co/MkLIl60TlF"
+            },
+            {
+              "display_url": "pic.x.com/MkLIl60TlF",
+              "end": 98,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2081775836462809392/video/1",
+              "media_key": "3_2081775797560627200",
+              "start": 75,
+              "url": "https://t.co/MkLIl60TlF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081775836462809392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做个饭把烟雾报警器弄响了（） \n\n不过还好就自己室内的 响了不到一分钟就没了（）  也没什么严重后果\n\n所以看看猫今天吃什么吧 \n\n#奈酱今天吃什么 https://t.co/MkLIl60TlF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7360,
+          "following_count": 1093,
+          "like_count": 91938,
+          "listed_count": 22,
+          "media_count": 2257,
+          "tweet_count": 27231
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      }
+    ]
+  }
+}

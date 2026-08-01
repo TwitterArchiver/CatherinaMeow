@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898638300501643441",
+    "created_at": "2025-03-09T07:33:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T08:33:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898638300501643441"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 44,
+          "tag": "Alevel68"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "931749173673705473",
+          "start": 3,
+          "username": "budri_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898638300501643441",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 620
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898322500171473084",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @budri_: ถ้าหนูได้จุฬา หนูแจกพันนึงค่ะ😞😞 #Alevel68"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898638300501643441",
+        "created_at": "2025-03-09T07:33:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:33:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898638300501643441"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 44,
+              "tag": "Alevel68"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "931749173673705473",
+              "start": 3,
+              "username": "budri_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898638300501643441",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 620
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898322500171473084",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @budri_: ถ้าหนูได้จุฬา หนูแจกพันนึงค่ะ😞😞 #Alevel68"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "931749173673705473",
+        "conversation_id": "1898322500171473084",
+        "created_at": "2025-03-08T10:38:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T11:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898322500171473084"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 32,
+              "tag": "Alevel68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898322500171473084",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 25565,
+          "like_count": 236,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 620
+        },
+        "reply_settings": "everyone",
+        "text": "ถ้าหนูได้จุฬา หนูแจกพันนึงค่ะ😞😞 #Alevel68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2512,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 213
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-18T05:01:28.000Z",
+        "description": "BKPP ยืนหลับstand",
+        "id": "931749173673705473",
+        "name": "บอบุด",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781758868361732096/Eq-O0Apd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 847,
+          "like_count": 118045,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 30505
+        },
+        "username": "budri_",
+        "verified": false
+      }
+    ]
+  }
+}

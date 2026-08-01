@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1862110602140803073"
+      ],
+      "media_source_tweet_id": [
+        "1862110701424415198"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "conversation_id": "1862360789442854995",
+    "created_at": "2024-11-29T04:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T05:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862360789442854995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1387026821024124934",
+          "start": 3,
+          "username": "Gamerxgod_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ozIqfe2hve",
+          "end": 95,
+          "expanded_url": "https://x.com/Gamerxgod_/status/1862110701424415198/video/1",
+          "media_key": "13_1862110602140803073",
+          "start": 72,
+          "url": "https://t.co/ozIqfe2hve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862360789442854995",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4640
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862110701424415198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gamerxgod_: คุณ ฮันจูลี่ คูณรู้ตัวบ้างไหมว่าทำคนใจแตกไปเท่าไหร่แล้ว https://t.co/ozIqfe2hve"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22834,
+        "height": 1440,
+        "media_key": "13_1862110602140803073",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1862110602140803073/img/CO2Dc8qzasCchNhw.jpg",
+        "public_metrics": {
+          "view_count": 45309
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1862110602140803073/vid/avc1/480x640/h9zOpx2mt75cWwu-.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1862110602140803073/vid/avc1/720x960/JHvLjneIhmoB9rxs.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1862110602140803073/vid/avc1/320x426/IOeslc9F5l5hgHyQ.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1862110602140803073/pl/Kptzj_wGSptPoZ8B.m3u8?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1862110602140803073/vid/avc1/1080x1440/kOjU7Ewh1PesUEnB.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1862110602140803073"
+          ],
+          "media_source_tweet_id": [
+            "1862110701424415198"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "conversation_id": "1862360789442854995",
+        "created_at": "2024-11-29T04:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T05:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862360789442854995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1387026821024124934",
+              "start": 3,
+              "username": "Gamerxgod_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozIqfe2hve",
+              "end": 95,
+              "expanded_url": "https://x.com/Gamerxgod_/status/1862110701424415198/video/1",
+              "media_key": "13_1862110602140803073",
+              "start": 72,
+              "url": "https://t.co/ozIqfe2hve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862360789442854995",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4640
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862110701424415198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gamerxgod_: คุณ ฮันจูลี่ คูณรู้ตัวบ้างไหมว่าทำคนใจแตกไปเท่าไหร่แล้ว https://t.co/ozIqfe2hve"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1862110602140803073"
+          ]
+        },
+        "author_id": "1387026821024124934",
+        "conversation_id": "1862110701424415198",
+        "created_at": "2024-11-28T12:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T13:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862110701424415198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozIqfe2hve",
+              "end": 79,
+              "expanded_url": "https://x.com/Gamerxgod_/status/1862110701424415198/video/1",
+              "media_key": "13_1862110602140803073",
+              "start": 56,
+              "url": "https://t.co/ozIqfe2hve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862110701424415198",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 276,
+          "impression_count": 99738,
+          "like_count": 4025,
+          "quote_count": 25,
+          "reply_count": 0,
+          "retweet_count": 4640
+        },
+        "reply_settings": "everyone",
+        "text": "คุณ ฮันจูลี่ คูณรู้ตัวบ้างไหมว่าทำคนใจแตกไปเท่าไหร่แล้ว https://t.co/ozIqfe2hve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 83
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-27T12:52:29.000Z",
+        "description": "psn accയ✨ɞ 00s | - 🚨💅🏻 ୨⎯\" ᴋɪssᴏғʟɪғᴇ \"⎯୧ 💅🏻🚨- | • 🔥🖤🐈‍⬛ 𝗡𝗔𝗧𝗧𝗬 🤍🐶🔥 • | ɪꜰ ᴜ ᴛᴀʟᴋ ʙᴀᴅ ᴀʙᴏᴜᴛ ᴍᴇ ɪᴛ'ꜱ ɢᴏɴɴᴀ ᴄᴏᴍᴇ ʙᴀᴄᴋ ᴛᴏ ᴜ ꜱᴏᴏɴ #เม่อเม่อ_Reviewz",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 142,
+                "start": 125,
+                "tag": "เม่อเม่อ_Reviewz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/yXRlrix-pPk?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/yXRlrix-pPk?si=9PoM71F1pzGuEHb2",
+                "start": 0,
+                "url": "https://t.co/8BlfPR3yeN"
+              }
+            ]
+          }
+        },
+        "id": "1387026821024124934",
+        "location": "🎧 ☉🤍 @FORX1XR ・❥・ ",
+        "name": "mer🌖",
+        "pinned_tweet_id": "1853050021190705376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818143138403545088/UMI312gE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5763,
+          "following_count": 181,
+          "like_count": 14186,
+          "listed_count": 8,
+          "media_count": 9365,
+          "tweet_count": 118877
+        },
+        "url": "https://t.co/8BlfPR3yeN",
+        "username": "Gamerxgod_",
+        "verified": true
+      }
+    ]
+  }
+}

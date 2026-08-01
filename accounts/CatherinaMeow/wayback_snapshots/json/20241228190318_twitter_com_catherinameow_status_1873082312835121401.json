@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872706297092624384"
+      ],
+      "media_source_tweet_id": [
+        "1872706314423726197"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "conversation_id": "1873082312835121401",
+    "created_at": "2024-12-28T19:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T20:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873082312835121401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1320691589447077888",
+          "start": 3,
+          "username": "skymlees"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZRdLuYyB2U",
+          "end": 66,
+          "expanded_url": "https://x.com/skymlees/status/1872706314423726197/photo/1",
+          "media_key": "3_1872706297092624384",
+          "start": 43,
+          "url": "https://t.co/ZRdLuYyB2U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873082312835121401",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6913
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872706314423726197",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @skymlees: the freaking coolest I swear https://t.co/ZRdLuYyB2U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1872706297092624384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf0wdIbX0AAIcfi.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872706297092624384"
+          ],
+          "media_source_tweet_id": [
+            "1872706314423726197"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "conversation_id": "1873082312835121401",
+        "created_at": "2024-12-28T19:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T20:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873082312835121401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1320691589447077888",
+              "start": 3,
+              "username": "skymlees"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZRdLuYyB2U",
+              "end": 66,
+              "expanded_url": "https://x.com/skymlees/status/1872706314423726197/photo/1",
+              "media_key": "3_1872706297092624384",
+              "start": 43,
+              "url": "https://t.co/ZRdLuYyB2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873082312835121401",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6913
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872706314423726197",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @skymlees: the freaking coolest I swear https://t.co/ZRdLuYyB2U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872706297092624384"
+          ]
+        },
+        "author_id": "1320691589447077888",
+        "conversation_id": "1872706314423726197",
+        "created_at": "2024-12-27T18:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T19:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872706314423726197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZRdLuYyB2U",
+              "end": 52,
+              "expanded_url": "https://x.com/skymlees/status/1872706314423726197/photo/1",
+              "media_key": "3_1872706297092624384",
+              "start": 29,
+              "url": "https://t.co/ZRdLuYyB2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872706314423726197",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 823,
+          "impression_count": 203726,
+          "like_count": 18175,
+          "quote_count": 207,
+          "reply_count": 4,
+          "retweet_count": 6913
+        },
+        "reply_settings": "following",
+        "text": "the freaking coolest I swear https://t.co/ZRdLuYyB2U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1940,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 129
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-26T11:39:54.000Z",
+        "description": "lmk1 loading . . . april stay tuned !",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/_GS3nQQex1g?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/_GS3nQQex1g?si=zFYc4pdh2jqkujdt",
+                "start": 0,
+                "url": "https://t.co/9PMtKdkTUO"
+              }
+            ]
+          }
+        },
+        "id": "1320691589447077888",
+        "name": "24 #FRAKTSIYA",
+        "pinned_tweet_id": "1748481083195244644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863836231584350208/aP7_SGm1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18928,
+          "following_count": 212,
+          "like_count": 30475,
+          "listed_count": 258,
+          "media_count": 2174,
+          "tweet_count": 8506
+        },
+        "url": "https://t.co/9PMtKdkTUO",
+        "username": "skymlees",
+        "verified": false
+      }
+    ]
+  }
+}

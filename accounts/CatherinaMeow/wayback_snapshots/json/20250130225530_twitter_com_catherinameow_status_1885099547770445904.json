@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884582522832531457"
+      ],
+      "media_source_tweet_id": [
+        "1884582525944934710"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596891185152",
+          "name": "Jewelry - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Rolex",
+          "id": "1107717379310514176",
+          "name": "Rolex"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "846449261914996736",
+          "name": "Watches"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rolex",
+          "id": "1107717379310514176",
+          "name": "Rolex"
+        }
+      }
+    ],
+    "conversation_id": "1885099547770445904",
+    "created_at": "2025-01-30T22:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T23:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885099547770445904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "946754355377586176",
+          "start": 3,
+          "username": "merlynsie"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TyI4HH7oqU",
+          "end": 137,
+          "expanded_url": "https://x.com/merlynsie/status/1884582525944934710/photo/1",
+          "media_key": "3_1884582522832531457",
+          "start": 114,
+          "url": "https://t.co/TyI4HH7oqU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885099547770445904",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9081
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884582525944934710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @merlynsie: มาร์คเห็นโพสละมาคอมเม้นเรียบร้อย \n\n🐯: ไอกูวㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ🥹\n\nฮือๆๆ ม้าคน่ารักอะ พิมร้องไห้มาซะยาวเลย https://t.co/TyI4HH7oqU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 502,
+        "media_key": "3_1884582522832531457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gidh0c9XsAEMaTm.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884582522832531457"
+          ],
+          "media_source_tweet_id": [
+            "1884582525944934710"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596891185152",
+              "name": "Jewelry - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rolex",
+              "id": "1107717379310514176",
+              "name": "Rolex"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846449261914996736",
+              "name": "Watches"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rolex",
+              "id": "1107717379310514176",
+              "name": "Rolex"
+            }
+          }
+        ],
+        "conversation_id": "1885099547770445904",
+        "created_at": "2025-01-30T22:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T23:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885099547770445904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "946754355377586176",
+              "start": 3,
+              "username": "merlynsie"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TyI4HH7oqU",
+              "end": 137,
+              "expanded_url": "https://x.com/merlynsie/status/1884582525944934710/photo/1",
+              "media_key": "3_1884582522832531457",
+              "start": 114,
+              "url": "https://t.co/TyI4HH7oqU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885099547770445904",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9081
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884582525944934710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @merlynsie: มาร์คเห็นโพสละมาคอมเม้นเรียบร้อย \n\n🐯: ไอกูวㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ🥹\n\nฮือๆๆ ม้าคน่ารักอะ พิมร้องไห้มาซะยาวเลย https://t.co/TyI4HH7oqU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884582522832531457"
+          ]
+        },
+        "author_id": "946754355377586176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596891185152",
+              "name": "Jewelry - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Rolex",
+              "id": "1107717379310514176",
+              "name": "Rolex"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846449261914996736",
+              "name": "Watches"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rolex",
+              "id": "1107717379310514176",
+              "name": "Rolex"
+            }
+          }
+        ],
+        "conversation_id": "1884582525944934710",
+        "created_at": "2025-01-29T12:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T13:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884582525944934710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TyI4HH7oqU",
+              "end": 122,
+              "expanded_url": "https://x.com/merlynsie/status/1884582525944934710/photo/1",
+              "media_key": "3_1884582522832531457",
+              "start": 99,
+              "url": "https://t.co/TyI4HH7oqU"
+            },
+            {
+              "display_url": "x.com/merlynsie/stat…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/merlynsie/status/1884575199561240845",
+              "start": 123,
+              "url": "https://t.co/8f5OAMBKJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884582525944934710",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 205776,
+          "like_count": 4019,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 9081
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884575199561240845",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "มาร์คเห็นโพสละมาคอมเม้นเรียบร้อย \n\n🐯: ไอกูวㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ🥹\n\nฮือๆๆ ม้าคน่ารักอะ พิมร้องไห้มาซะยาวเลย https://t.co/TyI4HH7oqU https://t.co/8f5OAMBKJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2344,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 182
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-29T14:46:42.000Z",
+        "description": "be thankful and spread love (♡) , fan account ❊｡* ✩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/VbIf3z2SqHg",
+                "end": 23,
+                "expanded_url": "https://youtu.be/VbIf3z2SqHg",
+                "start": 0,
+                "url": "https://t.co/RU0geEmCsN"
+              }
+            ]
+          }
+        },
+        "id": "946754355377586176",
+        "location": "맠프 + rem",
+        "name": "mlyn lee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745401554633723904/6cRJvgfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85571,
+          "following_count": 141,
+          "like_count": 4478,
+          "listed_count": 121,
+          "media_count": 22489,
+          "tweet_count": 142343
+        },
+        "url": "https://t.co/RU0geEmCsN",
+        "username": "merlynsie",
+        "verified": true
+      }
+    ]
+  }
+}

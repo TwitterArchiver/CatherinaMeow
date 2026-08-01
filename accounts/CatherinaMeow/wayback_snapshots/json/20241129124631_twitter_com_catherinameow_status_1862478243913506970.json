@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1862478243913506970",
+    "created_at": "2024-11-29T12:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T13:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862478243913506970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1720352953339678720",
+          "start": 3,
+          "username": "BUS_SONRAY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862478243913506970",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7248
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862401502939423225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BUS_SONRAY: เนื่องจากสถานการณ์น้ำท่วมของภาคใต้ตอนนี้ อยากขอความร่วมมือแฟน ๆ งดเทรนด์ #.BvlgarixPEEMWASU เพื่อให้ทุกคนสามารถติดตามข่าวสา…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1862478243913506970",
+        "created_at": "2024-11-29T12:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T13:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862478243913506970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1720352953339678720",
+              "start": 3,
+              "username": "BUS_SONRAY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862478243913506970",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7248
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862401502939423225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BUS_SONRAY: เนื่องจากสถานการณ์น้ำท่วมของภาคใต้ตอนนี้ อยากขอความร่วมมือแฟน ๆ งดเทรนด์ #.BvlgarixPEEMWASU เพื่อให้ทุกคนสามารถติดตามข่าวสา…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720352953339678720",
+        "conversation_id": "1862401502939423225",
+        "created_at": "2024-11-29T07:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T08:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862401502939423225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1862401502939423225",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 221755,
+          "like_count": 4869,
+          "quote_count": 47,
+          "reply_count": 209,
+          "retweet_count": 7248
+        },
+        "reply_settings": "everyone",
+        "text": "เนื่องจากสถานการณ์น้ำท่วมของภาคใต้ตอนนี้ อยากขอความร่วมมือแฟน ๆ งดเทรนด์ #.BvlgarixPEEMWASU เพื่อให้ทุกคนสามารถติดตามข่าวสารสำคัญได้โดยสะดวก\n\nพวกเรา BUS ขอเป็นกำลังใจให้พี่ ๆ น้อง ๆ และเพื่อน ๆ ในภาคใต้ ขอให้ทุกคนผ่านช่วงเวลานี้ไปได้อย่างปลอดภัย และผ่านพ้นไปได้โดยเร็วนะครับ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1594,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 85
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-03T08:11:53.000Z",
+        "description": "#BUSbecauseofyouishine Official Account Follow us on YouTube/ Facebook/ TikTok/ Weibo : bus.becauseofyouishine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 0,
+                "tag": "BUSbecauseofyouishine"
+              }
+            ]
+          }
+        },
+        "id": "1720352953339678720",
+        "name": "BUS because of you i shine",
+        "pinned_tweet_id": "1851595893352342004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812707609738088448/hLgggyaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250240,
+          "following_count": 13,
+          "like_count": 155,
+          "listed_count": 99,
+          "media_count": 3451,
+          "tweet_count": 5682
+        },
+        "username": "BUS_SONRAY",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1865452801364783104"
+      ],
+      "media_source_tweet_id": [
+        "1865452868146467289"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1865974155960823913",
+    "created_at": "2024-12-09T04:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T05:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865974155960823913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "986268302455418881",
+          "start": 3,
+          "username": "cuddlejamm_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KUB0hQMwb0",
+          "end": 121,
+          "expanded_url": "https://x.com/cuddlejamm_/status/1865452868146467289/video/1",
+          "media_key": "13_1865452801364783104",
+          "start": 98,
+          "url": "https://t.co/KUB0hQMwb0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865974155960823913",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3811
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865452868146467289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cuddlejamm_: รู้ว่าน้องแจมินชอบทำตามม้าคเเหละ แต่ไม่คิดว่าจะเยอะขนาดนี้ 555555555555555555555 https://t.co/KUB0hQMwb0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52933,
+        "height": 768,
+        "media_key": "13_1865452801364783104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1865452801364783104/img/mx1l4h6Rckgl7JHV.jpg",
+        "public_metrics": {
+          "view_count": 29550
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1865452801364783104/vid/avc1/320x426/J2f-Hbj9tKsDCkfv.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1865452801364783104/vid/avc1/480x640/rnAGmSMOzjwNIwNQ.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1865452801364783104/vid/avc1/576x768/piqSHv68-hTbjtY1.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1865452801364783104/pl/xRLUkrq-UHMqOuqm.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1865452801364783104"
+          ],
+          "media_source_tweet_id": [
+            "1865452868146467289"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1865974155960823913",
+        "created_at": "2024-12-09T04:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T05:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865974155960823913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "986268302455418881",
+              "start": 3,
+              "username": "cuddlejamm_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KUB0hQMwb0",
+              "end": 121,
+              "expanded_url": "https://x.com/cuddlejamm_/status/1865452868146467289/video/1",
+              "media_key": "13_1865452801364783104",
+              "start": 98,
+              "url": "https://t.co/KUB0hQMwb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865974155960823913",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3811
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865452868146467289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cuddlejamm_: รู้ว่าน้องแจมินชอบทำตามม้าคเเหละ แต่ไม่คิดว่าจะเยอะขนาดนี้ 555555555555555555555 https://t.co/KUB0hQMwb0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1865452801364783104"
+          ]
+        },
+        "author_id": "986268302455418881",
+        "conversation_id": "1865452868146467289",
+        "created_at": "2024-12-07T17:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T18:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865452868146467289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KUB0hQMwb0",
+              "end": 104,
+              "expanded_url": "https://x.com/cuddlejamm_/status/1865452868146467289/video/1",
+              "media_key": "13_1865452801364783104",
+              "start": 81,
+              "url": "https://t.co/KUB0hQMwb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865452868146467289",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 401,
+          "impression_count": 59438,
+          "like_count": 2913,
+          "quote_count": 25,
+          "reply_count": 2,
+          "retweet_count": 3811
+        },
+        "reply_settings": "everyone",
+        "text": "รู้ว่าน้องแจมินชอบทำตามม้าคเเหละ แต่ไม่คิดว่าจะเยอะขนาดนี้ 555555555555555555555 https://t.co/KUB0hQMwb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1752,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 109
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-17T15:41:02.000Z",
+        "description": "— for every shade of blue and markmin // 𝙮𝙤𝙪 𝙢𝙖𝙠𝙚 𝙢𝙮 𝙬𝙝𝙤𝙡𝙚 𝙡𝙞𝙛𝙚 𝙨𝙤 𝙢𝙪𝙘𝙝 𝙗𝙧𝙞𝙜𝙝𝙩𝙚𝙧, 𝙟𝙖𝙚𝙢𝙞𝙣𝙣𝙖 ო̤̫ ₍^. ·̫ .^₎ ♡ | 맠잼 젠런 톤넨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "29yiwha.readawrite.com",
+                "end": 23,
+                "expanded_url": "http://29yiwha.readawrite.com",
+                "start": 0,
+                "url": "https://t.co/fDt8kQPK7U"
+              }
+            ]
+          }
+        },
+        "id": "986268302455418881",
+        "location": "jaemjen & anton's mami (.◜◡◝)",
+        "name": "29°yw🦋",
+        "pinned_tweet_id": "1201523232282537984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855463356196679680/sSVq2mjv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13955,
+          "following_count": 274,
+          "like_count": 36854,
+          "listed_count": 30,
+          "media_count": 38105,
+          "tweet_count": 687456
+        },
+        "url": "https://t.co/fDt8kQPK7U",
+        "username": "cuddlejamm_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1865972868036837807",
+    "created_at": "2024-12-09T04:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T05:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865972868036837807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "229790304",
+          "start": 3,
+          "username": "Minebaeju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865972868036837807",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39465
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865674800510968284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minebaeju: สาเหตที่ป่วยแล้วไม่ไปหาหมอ = หมอถามยากตอบไม่ถูก จริงค่ะ 555555555555555555555555555555555555555555555555555555555555 https:/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1865972868036837807",
+        "created_at": "2024-12-09T04:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T05:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865972868036837807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "229790304",
+              "start": 3,
+              "username": "Minebaeju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865972868036837807",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39465
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865674800510968284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minebaeju: สาเหตที่ป่วยแล้วไม่ไปหาหมอ = หมอถามยากตอบไม่ถูก จริงค่ะ 555555555555555555555555555555555555555555555555555555555555 https:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1865674725944684544"
+          ]
+        },
+        "author_id": "229790304",
+        "conversation_id": "1865674800510968284",
+        "created_at": "2024-12-08T08:28:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T09:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865674800510968284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfDg8903s4",
+              "end": 140,
+              "expanded_url": "https://x.com/Minebaeju/status/1865674800510968284/video/1",
+              "media_key": "13_1865674725944684544",
+              "start": 117,
+              "url": "https://t.co/wfDg8903s4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865674800510968284",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1879,
+          "impression_count": 1265243,
+          "like_count": 20404,
+          "quote_count": 430,
+          "reply_count": 21,
+          "retweet_count": 39465
+        },
+        "reply_settings": "everyone",
+        "text": "สาเหตที่ป่วยแล้วไม่ไปหาหมอ = หมอถามยากตอบไม่ถูก จริงค่ะ 555555555555555555555555555555555555555555555555555555555555 https://t.co/wfDg8903s4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1751,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 107
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-23T10:01:50.000Z",
+        "description": "ᴛᴀᴇʏᴇᴏɴ | ɪʀᴇɴᴇ | sᴀᴋᴜʀᴀ | ғɪᴍᴍɪᴇ | ᴡɪɴᴛᴇʀ | ʟɪɴɢᴏʀᴍ",
+        "id": "229790304",
+        "location": "ประเทศไทย",
+        "name": "𝓂𝓎³⁹🌸 #CRAZY",
+        "pinned_tweet_id": "1512097376257081348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863520501630709760/-qxAdt6-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29874,
+          "following_count": 808,
+          "like_count": 8115,
+          "listed_count": 33,
+          "media_count": 39107,
+          "tweet_count": 700863
+        },
+        "username": "Minebaeju",
+        "verified": true
+      }
+    ]
+  }
+}

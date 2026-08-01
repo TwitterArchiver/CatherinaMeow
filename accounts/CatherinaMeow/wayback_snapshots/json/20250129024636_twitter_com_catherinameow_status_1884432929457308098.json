@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1884253796664008704"
+      ],
+      "media_source_tweet_id": [
+        "1884253800594301332"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "conversation_id": "1884432929457308098",
+    "created_at": "2025-01-29T02:46:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-29T03:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884432929457308098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1416595987905368064",
+          "start": 3,
+          "username": "cry4lmk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/obUSkMUZca",
+          "end": 39,
+          "expanded_url": "https://x.com/cry4lmk/status/1884253800594301332/photo/1",
+          "media_key": "3_1884253796664008704",
+          "start": 16,
+          "url": "https://t.co/obUSkMUZca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884432929457308098",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1257
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884253800594301332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cry4lmk: ‹𝟹 https://t.co/obUSkMUZca"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1884253796664008704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GiY22EjW4AAi-gb.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884253796664008704"
+          ],
+          "media_source_tweet_id": [
+            "1884253800594301332"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "conversation_id": "1884432929457308098",
+        "created_at": "2025-01-29T02:46:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T03:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884432929457308098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1416595987905368064",
+              "start": 3,
+              "username": "cry4lmk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/obUSkMUZca",
+              "end": 39,
+              "expanded_url": "https://x.com/cry4lmk/status/1884253800594301332/photo/1",
+              "media_key": "3_1884253796664008704",
+              "start": 16,
+              "url": "https://t.co/obUSkMUZca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884432929457308098",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1257
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884253800594301332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cry4lmk: ‹𝟹 https://t.co/obUSkMUZca"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884253796664008704"
+          ]
+        },
+        "author_id": "1416595987905368064",
+        "conversation_id": "1884253800594301332",
+        "created_at": "2025-01-28T14:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T15:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884253800594301332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/obUSkMUZca",
+              "end": 26,
+              "expanded_url": "https://x.com/cry4lmk/status/1884253800594301332/photo/1",
+              "media_key": "3_1884253796664008704",
+              "start": 3,
+              "url": "https://t.co/obUSkMUZca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884253800594301332",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 25716,
+          "like_count": 3163,
+          "quote_count": 17,
+          "reply_count": 1,
+          "retweet_count": 1257
+        },
+        "reply_settings": "everyone",
+        "text": "‹𝟹 https://t.co/obUSkMUZca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2224,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 173
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-18T03:09:51.000Z",
+        "description": "for mark",
+        "id": "1416595987905368064",
+        "location": "semi ia",
+        "name": "ً",
+        "pinned_tweet_id": "1791846465167307146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859077812663316482/pwEnCFM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14909,
+          "following_count": 141,
+          "like_count": 28811,
+          "listed_count": 139,
+          "media_count": 5407,
+          "tweet_count": 15895
+        },
+        "username": "cry4lmk",
+        "verified": false
+      }
+    ]
+  }
+}

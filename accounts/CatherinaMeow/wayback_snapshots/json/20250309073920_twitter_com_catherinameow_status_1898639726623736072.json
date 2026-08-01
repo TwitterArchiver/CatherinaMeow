@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898639726623736072",
+    "created_at": "2025-03-09T07:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T08:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898639726623736072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1553068530530402306",
+          "start": 3,
+          "username": "nrrr_y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898639726623736072",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898632806559064076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nrrr_y: ขอให้คะแนนออกมาดีพอที่จะทำให้ติดมหาลัยที่อยากเข้าได้ด้วยเถอะ สาธุ\nถ้าติดคณะที่อยากเข้า มหาลัยที่อยากเรียนได้ แจก 500 2คน รีได้เ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898639726623736072",
+        "created_at": "2025-03-09T07:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898639726623736072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1553068530530402306",
+              "start": 3,
+              "username": "nrrr_y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898639726623736072",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898632806559064076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nrrr_y: ขอให้คะแนนออกมาดีพอที่จะทำให้ติดมหาลัยที่อยากเข้าได้ด้วยเถอะ สาธุ\nถ้าติดคณะที่อยากเข้า มหาลัยที่อยากเรียนได้ แจก 500 2คน รีได้เ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553068530530402306",
+        "conversation_id": "1898632806559064076",
+        "created_at": "2025-03-09T07:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898632806559064076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 144,
+              "start": 135,
+              "tag": "Alevel68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898632806559064076",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3355,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "ขอให้คะแนนออกมาดีพอที่จะทำให้ติดมหาลัยที่อยากเข้าได้ด้วยเถอะ สาธุ\nถ้าติดคณะที่อยากเข้า มหาลัยที่อยากเรียนได้ แจก 500 2คน รีได้เลยค่าาา\n#Alevel68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2514,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 227
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T17:23:06.000Z",
+        "description": "BUS",
+        "id": "1553068530530402306",
+        "name": "ซอซอ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851482898412814336/j-QSy6rp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 405,
+          "like_count": 1234,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 8854
+        },
+        "username": "nrrr_y",
+        "verified": false
+      }
+    ]
+  }
+}

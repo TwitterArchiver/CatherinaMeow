@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1862477504810033552",
+    "created_at": "2024-11-29T12:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T13:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862477504810033552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1788972806484684801",
+          "start": 3,
+          "username": "ab0utdesi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862477504810033552",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29133
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862214968013463676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ab0utdesi: อยากให้ทุกคนกลับมาสนใจเรื่องนี้หน่อย ตอนนี้ 143 มันเอาน้องกาอึนออกจากวง ลบตัวตนน้องออกจาก sns หมดเลย น้องยังไม่ได้รับความยุ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1862477504810033552",
+        "created_at": "2024-11-29T12:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T13:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862477504810033552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1788972806484684801",
+              "start": 3,
+              "username": "ab0utdesi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862477504810033552",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29133
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862214968013463676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ab0utdesi: อยากให้ทุกคนกลับมาสนใจเรื่องนี้หน่อย ตอนนี้ 143 มันเอาน้องกาอึนออกจากวง ลบตัวตนน้องออกจาก sns หมดเลย น้องยังไม่ได้รับความยุ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788972806484684801",
+        "conversation_id": "1862214968013463676",
+        "created_at": "2024-11-28T19:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T20:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862214968013463676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kchartsmaster/…",
+              "end": 303,
+              "expanded_url": "https://twitter.com/kchartsmaster/status/1862160088477081939",
+              "start": 280,
+              "url": "https://t.co/Q4icANsSVi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862214968013463676",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 297,
+          "impression_count": 574322,
+          "like_count": 4240,
+          "quote_count": 16,
+          "reply_count": 9,
+          "retweet_count": 29133
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862160088477081939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "อยากให้ทุกคนกลับมาสนใจเรื่องนี้หน่อย ตอนนี้ 143 มันเอาน้องกาอึนออกจากวง ลบตัวตนน้องออกจาก sns หมดเลย น้องยังไม่ได้รับความยุติธรรมอะไรทั้งนั้น ช่วยดันข่าวเรื่องนี้ทีค่ะ อย่าปล่อยให้ไอดอลคนไหนต้องเจอเรื่องแบบนี้อีกเลย แค่โดน sh จากผู้ใหญ่ก็แย่มากแล้ว แล้วนี่น้องแค่ 19 ตัวคนเดียวอะ https://t.co/Q4icANsSVi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1590,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 83
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T16:42:29.000Z",
+        "description": "และนี่คือ จ่าฟ้",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kep1ian.co",
+                "end": 23,
+                "expanded_url": "http://kep1ian.co",
+                "start": 0,
+                "url": "https://t.co/aXmEQeJ2tM"
+              }
+            ]
+          }
+        },
+        "id": "1788972806484684801",
+        "location": "live laugh love 홍승한 & 서영은",
+        "name": "폭스 JUSTICE FOR GAEUN",
+        "pinned_tweet_id": "1813578427079004221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861786809367470080/eIbjqR0__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 165,
+          "like_count": 6046,
+          "listed_count": 1,
+          "media_count": 660,
+          "tweet_count": 11994
+        },
+        "url": "https://t.co/aXmEQeJ2tM",
+        "username": "ab0utdesi",
+        "verified": false
+      }
+    ]
+  }
+}

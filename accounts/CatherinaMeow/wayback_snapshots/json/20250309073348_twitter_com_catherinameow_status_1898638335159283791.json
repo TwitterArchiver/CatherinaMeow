@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898638335159283791",
+    "created_at": "2025-03-09T07:33:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T08:33:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898638335159283791"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 103,
+          "start": 94,
+          "tag": "Alevel68"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1641031898746224641",
+          "start": 3,
+          "username": "1vZVQhzDQZ98062"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898638335159283791",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 519
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898333151291957281",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1vZVQhzDQZ98062: ฟิสิกส์ 60+\nชีวะ 50+\nไทย 70+\nสังคม 40+\nคณิต 70+\nเคมี 30 +\nแจก300\nรี+เฟบ\n #Alevel68"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898638335159283791",
+        "created_at": "2025-03-09T07:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898638335159283791"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 94,
+              "tag": "Alevel68"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1641031898746224641",
+              "start": 3,
+              "username": "1vZVQhzDQZ98062"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898638335159283791",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 519
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898333151291957281",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1vZVQhzDQZ98062: ฟิสิกส์ 60+\nชีวะ 50+\nไทย 70+\nสังคม 40+\nคณิต 70+\nเคมี 30 +\nแจก300\nรี+เฟบ\n #Alevel68"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641031898746224641",
+        "conversation_id": "1898333151291957281",
+        "created_at": "2025-03-08T11:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T12:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898333151291957281"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 73,
+              "tag": "Alevel68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898333151291957281",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 38856,
+          "like_count": 496,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 519
+        },
+        "reply_settings": "everyone",
+        "text": "ฟิสิกส์ 60+\nชีวะ 50+\nไทย 70+\nสังคม 40+\nคณิต 70+\nเคมี 30 +\nแจก300\nรี+เฟบ\n #Alevel68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2512,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 214
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-29T10:57:59.000Z",
+        "description": "",
+        "id": "1641031898746224641",
+        "name": ";-;",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 24,
+          "like_count": 7560,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 584
+        },
+        "username": "1vZVQhzDQZ98062",
+        "verified": false
+      }
+    ]
+  }
+}

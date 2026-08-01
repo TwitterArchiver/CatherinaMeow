@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1873073738201415929",
+    "created_at": "2024-12-28T18:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T19:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873073738201415929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3389365934",
+          "start": 3,
+          "username": "Mew_TFreedom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873073738201415929",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11707
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872557834296263101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mew_TFreedom: จูบชีวิตมาไทยทีไรชุดเยี่ยวแตกตลอด งี้แหละค่ะ ดินแดนแห่งการอวย อยากทำไรทำเลย ทุกคนพร้อมลุกปรบมือแล้วพูดว่าเยี่ยวจริงๆ เยี่…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1873073738201415929",
+        "created_at": "2024-12-28T18:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T19:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873073738201415929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3389365934",
+              "start": 3,
+              "username": "Mew_TFreedom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873073738201415929",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11707
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872557834296263101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mew_TFreedom: จูบชีวิตมาไทยทีไรชุดเยี่ยวแตกตลอด งี้แหละค่ะ ดินแดนแห่งการอวย อยากทำไรทำเลย ทุกคนพร้อมลุกปรบมือแล้วพูดว่าเยี่ยวจริงๆ เยี่…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872557825962147841"
+          ]
+        },
+        "author_id": "3389365934",
+        "conversation_id": "1872557834296263101",
+        "created_at": "2024-12-27T08:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T09:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872557834296263101"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 157,
+              "start": 146,
+              "tag": "KISSOFLIFE"
+            },
+            {
+              "end": 172,
+              "start": 159,
+              "tag": "AAA2024inBKK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5d5bkdJe4Z",
+              "end": 196,
+              "expanded_url": "https://x.com/Mew_TFreedom/status/1872557834296263101/photo/1",
+              "media_key": "3_1872557825962147841",
+              "start": 173,
+              "url": "https://t.co/5d5bkdJe4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872557834296263101",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 180288,
+          "like_count": 5596,
+          "quote_count": 32,
+          "reply_count": 6,
+          "retweet_count": 11707
+        },
+        "reply_settings": "everyone",
+        "text": "จูบชีวิตมาไทยทีไรชุดเยี่ยวแตกตลอด งี้แหละค่ะ ดินแดนแห่งการอวย อยากทำไรทำเลย ทุกคนพร้อมลุกปรบมือแล้วพูดว่าเยี่ยวจริงๆ เยี่ยวจริงๆ เยี่ยวจริงๆ 👍💅🫦💋\n#KISSOFLIFE ##AAA2024inBKK https://t.co/5d5bkdJe4Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1851,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 118
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-30T05:31:02.000Z",
+        "description": "🏳️‍🌈Bi #나띠 ♡ @KISSOFLIFE_S2 #GOT7 #CLC #INTO1 #Kep1er #XG #KimHyeYoon FF7•Tifa&Zack | Nurarihyon▪︎Yuri on Ice▪︎Titan▪︎Haikyuu▪︎PSYCHO PASS▪︎Given▪︎B Exocist |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 7,
+                "tag": "나띠"
+              },
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "GOT7"
+              },
+              {
+                "end": 38,
+                "start": 34,
+                "tag": "CLC"
+              },
+              {
+                "end": 45,
+                "start": 39,
+                "tag": "INTO1"
+              },
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "Kep1er"
+              },
+              {
+                "end": 57,
+                "start": 54,
+                "tag": "XG"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "tag": "KimHyeYoon"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 13,
+                "username": "KISSOFLIFE_S2"
+              }
+            ]
+          }
+        },
+        "id": "3389365934",
+        "location": "《The Sandman ▪︎ Avatar》",
+        "name": "🦋Tifa Said (Busy)🍷🌠",
+        "pinned_tweet_id": "1788240135957717203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862888613605691392/8ycUYUVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3356,
+          "following_count": 481,
+          "like_count": 4874,
+          "listed_count": 7,
+          "media_count": 3790,
+          "tweet_count": 112058
+        },
+        "username": "Mew_TFreedom",
+        "verified": false
+      }
+    ]
+  }
+}

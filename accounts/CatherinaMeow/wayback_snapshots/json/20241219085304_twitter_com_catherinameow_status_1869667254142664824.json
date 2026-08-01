@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1869667254142664824",
+    "created_at": "2024-12-19T08:53:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T09:53:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869667254142664824"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 110,
+          "start": 89,
+          "tag": "KUOpenhouse2024xTHAI"
+        },
+        {
+          "end": 124,
+          "start": 111,
+          "tag": "THAIchayanon"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1706912111757303808",
+          "start": 3,
+          "username": "mun0ll_ptcl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869667254142664824",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9647
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869585579488555311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mun0ll_ptcl: ได้คำแนะนำมาจากรุ่นพี่ครับ…มารดาผมเอง \n5545665456664456665455554565555\n\n#KUOpenhouse2024xTHAI\n#THAIchayanon https://t.co/C…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1869667254142664824",
+        "created_at": "2024-12-19T08:53:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T09:53:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869667254142664824"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 89,
+              "tag": "KUOpenhouse2024xTHAI"
+            },
+            {
+              "end": 124,
+              "start": 111,
+              "tag": "THAIchayanon"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1706912111757303808",
+              "start": 3,
+              "username": "mun0ll_ptcl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869667254142664824",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9647
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869585579488555311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mun0ll_ptcl: ได้คำแนะนำมาจากรุ่นพี่ครับ…มารดาผมเอง \n5545665456664456665455554565555\n\n#KUOpenhouse2024xTHAI\n#THAIchayanon https://t.co/C…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1869585514950737920"
+          ]
+        },
+        "author_id": "1706912111757303808",
+        "conversation_id": "1869585579488555311",
+        "created_at": "2024-12-19T03:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T04:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869585579488555311"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 72,
+              "tag": "KUOpenhouse2024xTHAI"
+            },
+            {
+              "end": 107,
+              "start": 94,
+              "tag": "THAIchayanon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAtsn49xos",
+              "end": 131,
+              "expanded_url": "https://x.com/mun0ll_ptcl/status/1869585579488555311/video/1",
+              "media_key": "13_1869585514950737920",
+              "start": 108,
+              "url": "https://t.co/CAtsn49xos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869585579488555311",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 494,
+          "impression_count": 115122,
+          "like_count": 6610,
+          "quote_count": 26,
+          "reply_count": 7,
+          "retweet_count": 9647
+        },
+        "reply_settings": "everyone",
+        "text": "ได้คำแนะนำมาจากรุ่นพี่ครับ…มารดาผมเอง \n5545665456664456665455554565555\n\n#KUOpenhouse2024xTHAI\n#THAIchayanon https://t.co/CAtsn49xos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1813,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 113
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-27T06:02:33.000Z",
+        "description": "#THAIchayanon & #NEXnattakit - kratakkk🐔❤️ fan acc",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 0,
+                "tag": "THAIchayanon"
+              },
+              {
+                "end": 28,
+                "start": 16,
+                "tag": "NEXnattakit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@mun0ll_ptd?_t…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@mun0ll_ptd?_t=8kEjC4vTZBg&_r=1",
+                "start": 0,
+                "url": "https://t.co/GASWro6uvS"
+              }
+            ]
+          }
+        },
+        "id": "1706912111757303808",
+        "location": "1942 station",
+        "name": "มุนหนัย🐽",
+        "pinned_tweet_id": "1843323598792224947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813034603948699650/FH_T-gHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5232,
+          "following_count": 136,
+          "like_count": 576,
+          "listed_count": 2,
+          "media_count": 6970,
+          "tweet_count": 55204
+        },
+        "url": "https://t.co/GASWro6uvS",
+        "username": "mun0ll_ptcl",
+        "verified": true
+      }
+    ]
+  }
+}

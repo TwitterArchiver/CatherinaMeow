@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1865403609544028312",
+    "created_at": "2024-12-07T14:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-07T15:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865403609544028312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1065950301176229894",
+          "start": 3,
+          "username": "stqk_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865403609544028312",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7782
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865022756204761509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stqk_: มีด้วยหรอคะ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1865403609544028312",
+        "created_at": "2024-12-07T14:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T15:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865403609544028312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1065950301176229894",
+              "start": 3,
+              "username": "stqk_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865403609544028312",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7782
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865022756204761509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stqk_: มีด้วยหรอคะ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1065950301176229894",
+        "conversation_id": "1865022756204761509",
+        "created_at": "2024-12-06T13:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T14:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865022756204761509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bnxyw/status/1…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/bnxyw/status/1864983711655301486",
+              "start": 12,
+              "url": "https://t.co/CXhUqFWDBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865022756204761509",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 277000,
+          "like_count": 1876,
+          "quote_count": 53,
+          "reply_count": 9,
+          "retweet_count": 7782
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864983711655301486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "มีด้วยหรอคะ https://t.co/CXhUqFWDBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1720,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 104
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-23T12:48:50.000Z",
+        "description": "ง่วง / กดเว็บ/หิ้วไต้หวัน",
+        "id": "1065950301176229894",
+        "location": "思成/지성 | 🇹🇼",
+        "name": "運qi ˚⟡˖ หิ้วไต้หวัน ธค.",
+        "pinned_tweet_id": "1834649097581842568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1769419478104969216/LXYBCJ71_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32820,
+          "following_count": 205,
+          "like_count": 93454,
+          "listed_count": 12,
+          "media_count": 8642,
+          "tweet_count": 199832
+        },
+        "username": "stqk_",
+        "verified": false
+      }
+    ]
+  }
+}

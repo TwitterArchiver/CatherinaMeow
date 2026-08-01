@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898739090406904001",
+    "created_at": "2025-03-09T14:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T15:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898739090406904001"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 63,
+          "start": 57,
+          "tag": "dek68"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1407015406552838145",
+          "start": 3,
+          "username": "jeayunsuhyok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898739090406904001",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1526
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898557366683213930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jeayunsuhyok: บนค่ะ ติดจุฬาแจก500🫳🏻✨ รีเฟบเลยพี่น้อง #dek68"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898739090406904001",
+        "created_at": "2025-03-09T14:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T15:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898739090406904001"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 63,
+              "start": 57,
+              "tag": "dek68"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1407015406552838145",
+              "start": 3,
+              "username": "jeayunsuhyok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898739090406904001",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1526
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898557366683213930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jeayunsuhyok: บนค่ะ ติดจุฬาแจก500🫳🏻✨ รีเฟบเลยพี่น้อง #dek68"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407015406552838145",
+        "conversation_id": "1898557366683213930",
+        "created_at": "2025-03-09T02:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T03:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898557366683213930"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 39,
+              "tag": "dek68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898557366683213930",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 23747,
+          "like_count": 1136,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1526
+        },
+        "reply_settings": "everyone",
+        "text": "บนค่ะ ติดจุฬาแจก500🫳🏻✨ รีเฟบเลยพี่น้อง #dek68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2515,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 231
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-21T16:39:56.000Z",
+        "description": "ㅋᩚㅋᩚㅋᩚ🎀",
+        "id": "1407015406552838145",
+        "location": "esfp",
+        "name": "เเซนซิ๊",
+        "pinned_tweet_id": "1857949570996777432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892425789540618244/eZI99POi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 93,
+          "like_count": 3120,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 69618
+        },
+        "username": "jeayunsuhyok",
+        "verified": false
+      }
+    ]
+  }
+}

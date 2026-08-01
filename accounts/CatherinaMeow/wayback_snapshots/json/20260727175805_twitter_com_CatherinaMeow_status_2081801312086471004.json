@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2081746667314073699",
+    "created_at": "2026-07-27T17:58:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T18:58:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081801312086471004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892143528140267520",
+          "start": 0,
+          "username": "fufu1367612"
+        },
+        {
+          "end": 29,
+          "id": "1004362078956613632",
+          "start": 13,
+          "username": "OliviaWantsHugs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081801312086471004",
+    "in_reply_to_user_id": "1892143528140267520",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081746667314073699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufu1367612 @OliviaWantsHugs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2081746658707324929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOPZjnibQAEuyOO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2081746667314073699",
+        "created_at": "2026-07-27T17:58:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:58:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081801312086471004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892143528140267520",
+              "start": 0,
+              "username": "fufu1367612"
+            },
+            {
+              "end": 29,
+              "id": "1004362078956613632",
+              "start": 13,
+              "username": "OliviaWantsHugs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081801312086471004",
+        "in_reply_to_user_id": "1892143528140267520",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081746667314073699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufu1367612 @OliviaWantsHugs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081746658707324929"
+          ]
+        },
+        "author_id": "1892143528140267520",
+        "conversation_id": "2081746667314073699",
+        "created_at": "2026-07-27T14:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081746667314073699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMQWwnj5tD",
+              "end": 52,
+              "expanded_url": "https://x.com/fufu1367612/status/2081746667314073699/photo/1",
+              "media_key": "3_2081746658707324929",
+              "start": 29,
+              "url": "https://t.co/uMQWwnj5tD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081746667314073699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 308,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去找萨摩耶玩了！\n\n她叫嘟嘟，特别漂亮的赛级萨摩耶。 https://t.co/uMQWwnj5tD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7359,
+          "following_count": 1093,
+          "like_count": 91967,
+          "listed_count": 22,
+          "media_count": 2259,
+          "tweet_count": 27239
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-19T09:25:57.000Z",
+        "description": "我爱fufu！\n分享23岁的退休生活\n长住酒店的酒店爱好者\n全职交易员\n只会hello world的cs本\n舒适旅行专家\n电子硬件发烧友",
+        "id": "1892143528140267520",
+        "name": "0xfufu",
+        "pinned_tweet_id": "2079100574663061937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892143640912543744/-Fx-HI81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 511,
+          "like_count": 8232,
+          "listed_count": 3,
+          "media_count": 257,
+          "tweet_count": 3523
+        },
+        "url": "",
+        "username": "fufu1367612",
+        "verified": true
+      },
+      {
+        "created_at": "2018-06-06T13:59:14.000Z",
+        "description": "🇸🇬 / Traveller / Samoyed lover / Enjoying and exploring the world as you read this / work in Vietnam 🇻🇳 now",
+        "id": "1004362078956613632",
+        "location": "Singapore",
+        "name": "狗白白 🇸🇬",
+        "pinned_tweet_id": "2026234699723727291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047656161365893120/9K7zUYPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4692,
+          "following_count": 538,
+          "like_count": 26925,
+          "listed_count": 17,
+          "media_count": 1563,
+          "tweet_count": 29124
+        },
+        "url": "",
+        "username": "OliviaWantsHugs",
+        "verified": false
+      }
+    ]
+  }
+}

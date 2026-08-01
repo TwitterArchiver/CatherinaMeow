@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898639295701021096",
+    "created_at": "2025-03-09T07:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T08:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898639295701021096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1869364979977408512",
+          "start": 3,
+          "username": "qwirxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898639295701021096",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898633919492485582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qwirxs: ได้คะแนนตามนี้แจกวิชาละ 100/คน\n+ ติดมกแจก 1000 กับอมเท้าลง close friend\nแต่ถ้าทุกวิชา 80+ อมเท้าแมวลงทวิต\nรี/เฟบเลยคับ\n#Alevel6…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 344,
+        "media_key": "3_1898633914568310784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GllNfGRagAAf5y0.jpg",
+        "width": 612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898639295701021096",
+        "created_at": "2025-03-09T07:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898639295701021096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1869364979977408512",
+              "start": 3,
+              "username": "qwirxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898639295701021096",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898633919492485582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qwirxs: ได้คะแนนตามนี้แจกวิชาละ 100/คน\n+ ติดมกแจก 1000 กับอมเท้าลง close friend\nแต่ถ้าทุกวิชา 80+ อมเท้าแมวลงทวิต\nรี/เฟบเลยคับ\n#Alevel6…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898633914568310784"
+          ]
+        },
+        "author_id": "1869364979977408512",
+        "conversation_id": "1898633919492485582",
+        "created_at": "2025-03-09T07:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898633919492485582"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 128,
+              "start": 119,
+              "tag": "Alevel68"
+            },
+            {
+              "end": 135,
+              "start": 129,
+              "tag": "DEK68"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjY7XawsbP",
+              "end": 159,
+              "expanded_url": "https://x.com/qwirxs/status/1898633919492485582/photo/1",
+              "media_key": "3_1898633914568310784",
+              "start": 136,
+              "url": "https://t.co/kjY7XawsbP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898633919492485582",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2695,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "ได้คะแนนตามนี้แจกวิชาละ 100/คน\n+ ติดมกแจก 1000 กับอมเท้าลง close friend\nแต่ถ้าทุกวิชา 80+ อมเท้าแมวลงทวิต\nรี/เฟบเลยคับ\n#Alevel68 #DEK68 https://t.co/kjY7XawsbP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2514,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 222
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T12:52:06.000Z",
+        "description": "",
+        "id": "1869364979977408512",
+        "name": "dexf",
+        "pinned_tweet_id": "1898633919492485582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895432317125963776/Ea4TLnKc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 36,
+          "like_count": 895,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 838
+        },
+        "username": "qwirxs",
+        "verified": false
+      }
+    ]
+  }
+}

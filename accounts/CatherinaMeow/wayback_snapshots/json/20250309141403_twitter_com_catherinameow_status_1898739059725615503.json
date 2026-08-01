@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1898739059725615503",
+    "created_at": "2025-03-09T14:14:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T15:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898739059725615503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845747753022029824",
+          "start": 3,
+          "username": "TianWo888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898739059725615503",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 627
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898653693735473564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TianWo888: ขอบนตรงนี้ค่ะ ถ้า\n\nคณิต1 15คะแนน+ /15เป๊ะๆ\nแจก500 (2)\n\nชีวะ 55/55+\nแจก 500 (2)\n\nอังกฤษ 50/50+ \nแจก100 (1)\n\nภาษาไทย 70\nแจก100…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1898739059725615503",
+        "created_at": "2025-03-09T14:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T15:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898739059725615503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845747753022029824",
+              "start": 3,
+              "username": "TianWo888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898739059725615503",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 627
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898653693735473564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TianWo888: ขอบนตรงนี้ค่ะ ถ้า\n\nคณิต1 15คะแนน+ /15เป๊ะๆ\nแจก500 (2)\n\nชีวะ 55/55+\nแจก 500 (2)\n\nอังกฤษ 50/50+ \nแจก100 (1)\n\nภาษาไทย 70\nแจก100…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845747753022029824",
+        "conversation_id": "1898653693735473564",
+        "created_at": "2025-03-09T08:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T09:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898653693735473564"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 208,
+              "start": 199,
+              "tag": "Alevel68"
+            },
+            {
+              "end": 215,
+              "start": 209,
+              "tag": "dek68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898653693735473564",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 15108,
+          "like_count": 281,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 627
+        },
+        "reply_settings": "everyone",
+        "text": "ขอบนตรงนี้ค่ะ ถ้า\n\nคณิต1 15คะแนน+ /15เป๊ะๆ\nแจก500 (2)\n\nชีวะ 55/55+\nแจก 500 (2)\n\nอังกฤษ 50/50+ \nแจก100 (1)\n\nภาษาไทย 70\nแจก100 (1)\n\nสังคม45+ \nแจก100 (1)\n\n🙏🏼🙏🏼🙏🏼🙏🏼\nไม่ลบ ไม่หาย รอหลังคะแนนออกจะมาแจก  \n\n#Alevel68 #dek68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2515,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 229
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T08:45:51.000Z",
+        "description": "เอาหน่อยดิวะ!!!",
+        "id": "1845747753022029824",
+        "name": "🙏🏼",
+        "pinned_tweet_id": "1898044314808467903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893973364953505792/-H4xLxdj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 15,
+          "like_count": 693,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 192
+        },
+        "username": "TianWo888",
+        "verified": false
+      }
+    ]
+  }
+}

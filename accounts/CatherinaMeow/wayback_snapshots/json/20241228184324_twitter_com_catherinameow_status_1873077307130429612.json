@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1873077307130429612",
+    "created_at": "2024-12-28T18:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T19:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873077307130429612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1290640218052341761",
+          "start": 3,
+          "username": "thaichayanon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873077307130429612",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23072
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872699402487537751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thaichayanon: วันนี้รู้สึกใจฟูมากๆ ไม่คิดว่าวันนึงเราจะได้มางานแบบนี้ ยิ่งตอนที่พี่อลันตะโกนชื่อบีอัส ตอนนั้นคือรู้สึกเต้มเปี่ยมไปด้วยค…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1873077307130429612",
+        "created_at": "2024-12-28T18:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T19:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873077307130429612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1290640218052341761",
+              "start": 3,
+              "username": "thaichayanon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873077307130429612",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23072
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872699402487537751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thaichayanon: วันนี้รู้สึกใจฟูมากๆ ไม่คิดว่าวันนึงเราจะได้มางานแบบนี้ ยิ่งตอนที่พี่อลันตะโกนชื่อบีอัส ตอนนั้นคือรู้สึกเต้มเปี่ยมไปด้วยค…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872699394799353860",
+            "3_1872699394799415296"
+          ]
+        },
+        "author_id": "1290640218052341761",
+        "conversation_id": "1872699402487537751",
+        "created_at": "2024-12-27T17:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T18:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872699402487537751"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 193,
+              "start": 180,
+              "tag": "THAIchayanon"
+            },
+            {
+              "end": 216,
+              "start": 194,
+              "tag": "BUSbecauseofyouishine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2dGPUQeojA",
+              "end": 240,
+              "expanded_url": "https://x.com/thaichayanon/status/1872699402487537751/photo/1",
+              "media_key": "3_1872699394799353860",
+              "start": 217,
+              "url": "https://t.co/2dGPUQeojA"
+            },
+            {
+              "display_url": "pic.x.com/2dGPUQeojA",
+              "end": 240,
+              "expanded_url": "https://x.com/thaichayanon/status/1872699402487537751/photo/1",
+              "media_key": "3_1872699394799415296",
+              "start": 217,
+              "url": "https://t.co/2dGPUQeojA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872699402487537751",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 443,
+          "impression_count": 208154,
+          "like_count": 23342,
+          "quote_count": 203,
+          "reply_count": 1861,
+          "retweet_count": 23072
+        },
+        "reply_settings": "everyone",
+        "text": "วันนี้รู้สึกใจฟูมากๆ ไม่คิดว่าวันนึงเราจะได้มางานแบบนี้ ยิ่งตอนที่พี่อลันตะโกนชื่อบีอัส ตอนนั้นคือรู้สึกเต้มเปี่ยมไปด้วยความสุข ขอบคุณทุกคนที่ร่วมเดินทางมาพร้อมพวกเรานะครับ ❤️❤️❤️ #THAIchayanon #BUSbecauseofyouishine https://t.co/2dGPUQeojA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1883,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 122
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-04T13:27:00.000Z",
+        "description": "because of you i shine #THAIchayanon #BUSbecauseofyouishine",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 23,
+                "tag": "THAIchayanon"
+              },
+              {
+                "end": 59,
+                "start": 37,
+                "tag": "BUSbecauseofyouishine"
+              }
+            ]
+          }
+        },
+        "id": "1290640218052341761",
+        "name": "thaichaya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862954309173825536/K219sMEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320503,
+          "following_count": 34,
+          "like_count": 460,
+          "listed_count": 144,
+          "media_count": 345,
+          "tweet_count": 1097
+        },
+        "username": "thaichayanon",
+        "verified": true
+      }
+    ]
+  }
+}

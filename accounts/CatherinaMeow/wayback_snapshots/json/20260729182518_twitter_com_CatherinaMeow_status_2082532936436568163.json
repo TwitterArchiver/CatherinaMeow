@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2082528495356518824",
+    "created_at": "2026-07-29T18:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T19:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082532936436568163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1487849248905646080",
+          "start": 0,
+          "username": "CutePlank_meow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082532936436568163",
+    "in_reply_to_user_id": "1487849248905646080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082531784148050269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CutePlank_meow 问题是 海外版的咖啡因加的超级多 我觉得很划算"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2082528495356518824",
+        "created_at": "2026-07-29T18:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082532936436568163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1487849248905646080",
+              "start": 0,
+              "username": "CutePlank_meow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082532936436568163",
+        "in_reply_to_user_id": "1487849248905646080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082531784148050269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CutePlank_meow 问题是 海外版的咖啡因加的超级多 我觉得很划算"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487849248905646080",
+        "conversation_id": "2082528495356518824",
+        "created_at": "2026-07-29T18:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T19:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082531784148050269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082531784148050269",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082530759794217334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 如果 1:1 的话好划算（但可惜不是）\npdd 叠券能做到 24 罐 72 块钱 330ml"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7353,
+          "following_count": 1095,
+          "like_count": 92138,
+          "listed_count": 22,
+          "media_count": 2262,
+          "tweet_count": 27267
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-30T18:04:43.000Z",
+        "description": "喵~ 什么时候上线随缘，不 ghs，不讨论郑智，只作为正经的无关生活分享的小角落。 PS: 推止于推，为了避免不必要的麻烦，未经允许请勿随意转发本木在这里的内容至其他平台。",
+        "id": "1487849248905646080",
+        "location": "China",
+        "name": "萌木超可爱",
+        "pinned_tweet_id": "1988264046198677664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758528956888932352/yC6RyoDV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 151,
+          "like_count": 23951,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 2777
+        },
+        "url": "",
+        "username": "CutePlank_meow",
+        "verified": false
+      }
+    ]
+  }
+}

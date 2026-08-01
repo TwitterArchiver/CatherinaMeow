@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2079830258703057124",
+    "created_at": "2026-07-22T09:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T10:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079857609285513572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356940397956620288",
+          "start": 0,
+          "username": "NyaCookieNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079857609285513572",
+    "in_reply_to_user_id": "1356940397956620288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079850980842336744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaCookieNeko 科研暂缓 酒精启动！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2079830258703057124",
+        "created_at": "2026-07-22T09:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T10:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079857609285513572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356940397956620288",
+              "start": 0,
+              "username": "NyaCookieNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079857609285513572",
+        "in_reply_to_user_id": "1356940397956620288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079850980842336744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaCookieNeko 科研暂缓 酒精启动！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356940397956620288",
+        "conversation_id": "2079830258703057124",
+        "created_at": "2026-07-22T08:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079850980842336744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079850980842336744",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079830258703057124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 酒蒙子猫！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7340,
+          "following_count": 1095,
+          "like_count": 91654,
+          "listed_count": 22,
+          "media_count": 2252,
+          "tweet_count": 27167
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-03T12:19:48.000Z",
+        "description": "🛒🍪🐱｜入睡困难｜阴间作息｜社恐但不完全社恐｜性别是饼干｜有两只小黑猫，一只叫多多，一只叫@CatherinaMeow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "CatherinaMeow"
+              }
+            ]
+          }
+        },
+        "id": "1356940397956620288",
+        "location": "Shijiazhuang/Beijing/Suzhou",
+        "name": "手推饼干猫🛒🍪🐱",
+        "pinned_tweet_id": "2042983254421340219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018637275614363648/vW4y4RPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9379,
+          "following_count": 2925,
+          "like_count": 17767,
+          "listed_count": 15,
+          "media_count": 981,
+          "tweet_count": 9916
+        },
+        "url": "",
+        "username": "NyaCookieNeko",
+        "verified": true
+      }
+    ]
+  }
+}

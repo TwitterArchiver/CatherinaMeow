@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1582962750959284225"
+      ],
+      "media_source_tweet_id": [
+        "1582963932134010880"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "conversation_id": "1865972448744886474",
+    "created_at": "2024-12-09T04:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T05:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1865972448744886474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2510716278",
+          "start": 3,
+          "username": "noknang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LNQGlaSpoa",
+          "end": 75,
+          "expanded_url": "https://x.com/junkyufilms_/status/1582963932134010880/video/1",
+          "media_key": "7_1582962750959284225",
+          "start": 52,
+          "url": "https://t.co/LNQGlaSpoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1865972448744886474",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1747
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865428454617022854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noknang: เสียงของจุนกยู อยากให้ถูกค้นพบเยอะ ๆ \n\nhttps://t.co/LNQGlaSpoa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 107866,
+        "height": 1080,
+        "media_key": "7_1582962750959284225",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1582962750959284225/pu/img/D_GaH3PFZONx8-S_.jpg",
+        "public_metrics": {
+          "view_count": 337267
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1582962750959284225/pu/vid/320x320/vat1BNX-gw2QubCf.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1582962750959284225/pu/vid/540x540/23KgBMc4xKE39FPH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1582962750959284225/pu/vid/720x720/4Qgc7X-ujFcP3_hJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1582962750959284225/pu/pl/D5TJ_qGoZ7cueQgt.m3u8?tag=12&v=804"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1582962750959284225"
+          ],
+          "media_source_tweet_id": [
+            "1582963932134010880"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "conversation_id": "1865972448744886474",
+        "created_at": "2024-12-09T04:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-09T05:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1865972448744886474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2510716278",
+              "start": 3,
+              "username": "noknang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNQGlaSpoa",
+              "end": 75,
+              "expanded_url": "https://x.com/junkyufilms_/status/1582963932134010880/video/1",
+              "media_key": "7_1582962750959284225",
+              "start": 52,
+              "url": "https://t.co/LNQGlaSpoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865972448744886474",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1747
+        },
+        "referenced_tweets": [
+          {
+            "id": "1865428454617022854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noknang: เสียงของจุนกยู อยากให้ถูกค้นพบเยอะ ๆ \n\nhttps://t.co/LNQGlaSpoa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1582962750959284225"
+          ],
+          "media_source_tweet_id": [
+            "1582963932134010880"
+          ]
+        },
+        "author_id": "2510716278",
+        "conversation_id": "1865428454617022854",
+        "created_at": "2024-12-07T16:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-07T17:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865428454617022854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LNQGlaSpoa",
+              "end": 62,
+              "expanded_url": "https://x.com/junkyufilms_/status/1582963932134010880/video/1",
+              "media_key": "7_1582962750959284225",
+              "start": 39,
+              "url": "https://t.co/LNQGlaSpoa"
+            },
+            {
+              "display_url": "x.com/200xty/status/…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/200xty/status/1730227274115383328",
+              "start": 63,
+              "url": "https://t.co/mJiHjOhVXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865428454617022854",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 54577,
+          "like_count": 2091,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 1747
+        },
+        "referenced_tweets": [
+          {
+            "id": "1730227274115383328",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "เสียงของจุนกยู อยากให้ถูกค้นพบเยอะ ๆ \n\nhttps://t.co/LNQGlaSpoa https://t.co/mJiHjOhVXI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1751,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 106
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-20T15:43:03.000Z",
+        "description": "˚* #rwnnx 🤸🏻‍♀️🌳.• 준규 엄마, 마마후니 : 🍅) ˚* | #nnxartwork",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 3,
+                "tag": "rwnnx"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "tag": "nnxartwork"
+              }
+            ]
+          }
+        },
+        "id": "2510716278",
+        "location": "♡ 지훈 • 준규 ♡ ",
+        "name": "◟ナニ 🧫´-",
+        "pinned_tweet_id": "1861742342598009244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857255784595468288/wzEVqGhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2766,
+          "following_count": 242,
+          "like_count": 35455,
+          "listed_count": 7,
+          "media_count": 24452,
+          "tweet_count": 293002
+        },
+        "username": "noknang",
+        "verified": true
+      }
+    ]
+  }
+}

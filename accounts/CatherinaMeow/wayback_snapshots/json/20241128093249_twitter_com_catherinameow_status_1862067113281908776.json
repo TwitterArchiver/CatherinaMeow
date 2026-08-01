@@ -1,0 +1,621 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1861449503854993410"
+      ],
+      "media_source_tweet_id": [
+        "1861449555419766841"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Christmas for all years.",
+          "id": "1250078501849280512",
+          "name": "Christmas"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1853510897634873344",
+          "name": "Christmas 2024"
+        }
+      }
+    ],
+    "conversation_id": "1862067113281908776",
+    "created_at": "2024-11-28T09:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T10:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862067113281908776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1834216892569190400",
+          "start": 3,
+          "username": "is2mandu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qCKBwWZ3hp",
+          "end": 88,
+          "expanded_url": "https://x.com/is2mandu/status/1861449555419766841/video/1",
+          "media_key": "7_1861449503854993410",
+          "start": 65,
+          "url": "https://t.co/qCKBwWZ3hp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862067113281908776",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2456
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861449555419766841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @is2mandu: 근데 나는 진짜로 크리스마스 하나도 기대 안 됨 매년 챙겨야 하는 거 너무 징글징글 징글벨 https://t.co/qCKBwWZ3hp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 84119,
+        "height": 1024,
+        "media_key": "7_1861449503854993410",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1861449503854993410/pu/img/x8TQX1zKMW_skDBi.jpg",
+        "public_metrics": {
+          "view_count": 52284
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861449503854993410/pu/vid/avc1/320x568/CZcVuDbrF4lBuBlp.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861449503854993410/pu/vid/avc1/480x852/Y473EuY0Cav-Vg4I.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1861449503854993410/pu/vid/avc1/576x1024/tCmGT6MXXtv_i7ZJ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1861449503854993410/pu/pl/mMNqE8v_XLEZqOzr.m3u8?tag=12&v=6dd"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1861449503854993410"
+          ],
+          "media_source_tweet_id": [
+            "1861449555419766841"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1862067113281908776",
+        "created_at": "2024-11-28T09:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T10:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862067113281908776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1834216892569190400",
+              "start": 3,
+              "username": "is2mandu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCKBwWZ3hp",
+              "end": 88,
+              "expanded_url": "https://x.com/is2mandu/status/1861449555419766841/video/1",
+              "media_key": "7_1861449503854993410",
+              "start": 65,
+              "url": "https://t.co/qCKBwWZ3hp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862067113281908776",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2456
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861449555419766841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @is2mandu: 근데 나는 진짜로 크리스마스 하나도 기대 안 됨 매년 챙겨야 하는 거 너무 징글징글 징글벨 https://t.co/qCKBwWZ3hp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1861449503854993410"
+          ]
+        },
+        "author_id": "1834216892569190400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Christmas for all years.",
+              "id": "1250078501849280512",
+              "name": "Christmas"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1853510897634873344",
+              "name": "Christmas 2024"
+            }
+          }
+        ],
+        "conversation_id": "1861449555419766841",
+        "created_at": "2024-11-26T16:38:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T17:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861449555419766841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCKBwWZ3hp",
+              "end": 74,
+              "expanded_url": "https://x.com/is2mandu/status/1861449555419766841/video/1",
+              "media_key": "7_1861449503854993410",
+              "start": 51,
+              "url": "https://t.co/qCKBwWZ3hp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861449555419766841",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1061,
+          "impression_count": 136682,
+          "like_count": 5612,
+          "quote_count": 443,
+          "reply_count": 0,
+          "retweet_count": 2456
+        },
+        "reply_settings": "following",
+        "text": "근데 나는 진짜로 크리스마스 하나도 기대 안 됨 매년 챙겨야 하는 거 너무 징글징글 징글벨 https://t.co/qCKBwWZ3hp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 29,
+          "like_count": 1557,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-12T13:06:15.000Z",
+        "description": "말랑이만두고양이",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spinspin.net/is2mandu",
+                "end": 23,
+                "expanded_url": "https://spinspin.net/is2mandu",
+                "start": 0,
+                "url": "https://t.co/RWk58DG0br"
+              }
+            ]
+          }
+        },
+        "id": "1834216892569190400",
+        "name": "강식이",
+        "pinned_tweet_id": "1849008841167622620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842084589449445376/zokkCzQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 50,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 288,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/RWk58DG0br",
+        "username": "is2mandu",
+        "verified": false
+      }
+    ]
+  }
+}

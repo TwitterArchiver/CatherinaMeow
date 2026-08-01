@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple iPad",
+          "id": "972153731067273222",
+          "name": "Apple iPad"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "1898637904802611663",
+    "created_at": "2025-03-09T07:32:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T08:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898637904802611663"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 82,
+          "start": 73,
+          "tag": "Alevel68"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1366597849543188484",
+          "start": 3,
+          "username": "Cigarettewithm2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898637904802611663",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 942
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898576385385591290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cigarettewithm2: ถ้าได้คณิต1 เกิน85 แจก ipad pro พร้อมiphone 16 ครับ #Alevel68"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1898637904802611663",
+        "created_at": "2025-03-09T07:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T08:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898637904802611663"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 82,
+              "start": 73,
+              "tag": "Alevel68"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1366597849543188484",
+              "start": 3,
+              "username": "Cigarettewithm2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898637904802611663",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 942
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898576385385591290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cigarettewithm2: ถ้าได้คณิต1 เกิน85 แจก ipad pro พร้อมiphone 16 ครับ #Alevel68"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1366597849543188484",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1898576385385591290",
+        "created_at": "2025-03-09T03:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T04:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898576385385591290"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 52,
+              "tag": "Alevel68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898576385385591290",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 30589,
+          "like_count": 408,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 942
+        },
+        "reply_settings": "everyone",
+        "text": "ถ้าได้คณิต1 เกิน85 แจก ipad pro พร้อมiphone 16 ครับ #Alevel68"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2511,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 204
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-02T03:55:31.000Z",
+        "description": "รีทวิตเเต่เรื่องไร้สาระ",
+        "id": "1366597849543188484",
+        "location": "femdom",
+        "name": "BEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819757890896576512/pFrMrXIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 130,
+          "like_count": 4436,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 3839
+        },
+        "username": "Cigarettewithm2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2081277400093167964",
+    "created_at": "2026-07-27T00:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T01:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081530649299857796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892143528140267520",
+          "start": 0,
+          "username": "fufu1367612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081530649299857796",
+    "in_reply_to_user_id": "1892143528140267520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081277400093167964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fufu1367612 很多时候你并没有办法知道会不会有严重后遗症（思考）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2081277400093167964",
+        "created_at": "2026-07-27T00:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081530649299857796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892143528140267520",
+              "start": 0,
+              "username": "fufu1367612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081530649299857796",
+        "in_reply_to_user_id": "1892143528140267520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081277400093167964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fufu1367612 很多时候你并没有办法知道会不会有严重后遗症（思考）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892143528140267520",
+        "conversation_id": "2081277400093167964",
+        "created_at": "2026-07-26T07:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T08:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081277400093167964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081277400093167964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“会留后遗症的就别救，快点死就得了”\n\n这是我妈每年都要对我重复一次的话。\n\n作为三甲医院康复科主任的她见过太多太多脑出血脑梗后遗症患者，我印象最深刻的呢，是一个老头，退休前是常委副县长，刚一退休就脑出血，不光全身瘫痪，还留下了非常严重的秽语症：不会好好说话，只会骂人。\n他媳妇跟他倒是非常恩爱，每天都把他从家里搬到医院来，治疗后再搬回去。这老头满嘴都是脏话，不管对谁都是“我操你妈”“你妈逼”“狗篮子东西”诸如此类，他怎么骂他媳妇，他媳妇都不生气，只会叹一口气。\n他在康复科治疗了三年多后，勉强能坐起来了，也恢复了一点语言能力。当时我还在上小学，我就记得他扶着床头坐着，问他媳妇“晚上吃啥？”\n“晚上家里炖了鸡汤，有你二哥从镜泊湖钓的大鲤鱼，还想吃点什么？”他媳妇笑着说道\n“你妈逼”他突然大吼一声，把坐在一边玩手机的我差点吓死。\n这样的生活有什么质量呢？这还是恢复的有一定效果的，效果不好的呢？前任北方工具厂厂长退休后也是脑出血，卧床之后一直在骂天骂地，骂了半年就死了。这完全就不如当时别救，快点死过去。\n\n所以我同样会对我所有的亲友报备，如果有一天我需要抢救，大夫告诉你我会留严重后遗症，那就千万别救，让我快死。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 7372,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "“会留后遗症的就别救，快点死就得了”\n\n这是我妈每年都要对我重复一次的话。\n\n作为三甲医院康复科主任的她见过太多太多脑出血脑梗后遗症患者，我印象最深刻的呢，是一个老头，退休前是常委副县长，刚一退休就脑出血，不光全身瘫痪，还留下了非常严重的秽语症：不会好好说话，只会骂人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7355,
+          "following_count": 1093,
+          "like_count": 91876,
+          "listed_count": 22,
+          "media_count": 2254,
+          "tweet_count": 27212
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-19T09:25:57.000Z",
+        "description": "我爱fufu！\n分享23岁的退休生活\n长住酒店的酒店爱好者\n全职交易员\n只会hello world的cs本\n舒适旅行专家\n电子硬件发烧友",
+        "id": "1892143528140267520",
+        "name": "0xfufu",
+        "pinned_tweet_id": "2079100574663061937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892143640912543744/-Fx-HI81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 846,
+          "following_count": 499,
+          "like_count": 8111,
+          "listed_count": 3,
+          "media_count": 252,
+          "tweet_count": 3461
+        },
+        "url": "",
+        "username": "fufu1367612",
+        "verified": true
+      }
+    ]
+  }
+}

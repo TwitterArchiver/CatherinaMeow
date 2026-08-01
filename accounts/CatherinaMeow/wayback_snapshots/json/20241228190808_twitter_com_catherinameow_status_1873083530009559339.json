@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1872705745403428869",
+        "3_1872705745403428865"
+      ],
+      "media_source_tweet_id": [
+        "1872705776969761210",
+        "1872705776969761210"
+      ]
+    },
+    "author_id": "1753398273925337088",
+    "conversation_id": "1873083530009559339",
+    "created_at": "2024-12-28T19:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-28T20:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873083530009559339"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "MARK LEE",
+          "probability": 0.9973,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1310522939343687681",
+          "start": 3,
+          "username": "jaeminners"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cHIYpfn4nd",
+          "end": 60,
+          "expanded_url": "https://x.com/jaeminners/status/1872705776969761210/photo/1",
+          "media_key": "3_1872705745403428869",
+          "start": 37,
+          "url": "https://t.co/cHIYpfn4nd"
+        },
+        {
+          "display_url": "pic.x.com/cHIYpfn4nd",
+          "end": 60,
+          "expanded_url": "https://x.com/jaeminners/status/1872705776969761210/photo/1",
+          "media_key": "3_1872705745403428865",
+          "start": 37,
+          "url": "https://t.co/cHIYpfn4nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873083530009559339",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1407
+    },
+    "referenced_tweets": [
+      {
+        "id": "1872705776969761210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jaeminners: MARK LEE HELLO?????? https://t.co/cHIYpfn4nd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1872705745403428869",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf0v9BOawAUAMgq.jpg",
+        "width": 1366
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1872705745403428865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf0v9BOawAEPUBI.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872705745403428869",
+            "3_1872705745403428865"
+          ],
+          "media_source_tweet_id": [
+            "1872705776969761210",
+            "1872705776969761210"
+          ]
+        },
+        "author_id": "1753398273925337088",
+        "conversation_id": "1873083530009559339",
+        "created_at": "2024-12-28T19:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-28T20:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873083530009559339"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "MARK LEE",
+              "probability": 0.9973,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1310522939343687681",
+              "start": 3,
+              "username": "jaeminners"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHIYpfn4nd",
+              "end": 60,
+              "expanded_url": "https://x.com/jaeminners/status/1872705776969761210/photo/1",
+              "media_key": "3_1872705745403428869",
+              "start": 37,
+              "url": "https://t.co/cHIYpfn4nd"
+            },
+            {
+              "display_url": "pic.x.com/cHIYpfn4nd",
+              "end": 60,
+              "expanded_url": "https://x.com/jaeminners/status/1872705776969761210/photo/1",
+              "media_key": "3_1872705745403428865",
+              "start": 37,
+              "url": "https://t.co/cHIYpfn4nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873083530009559339",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1407
+        },
+        "referenced_tweets": [
+          {
+            "id": "1872705776969761210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jaeminners: MARK LEE HELLO?????? https://t.co/cHIYpfn4nd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1872705745403428869",
+            "3_1872705745403428865"
+          ]
+        },
+        "author_id": "1310522939343687681",
+        "conversation_id": "1872705776969761210",
+        "created_at": "2024-12-27T18:07:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-27T19:07:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1872705776969761210"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "MARK LEE",
+              "probability": 0.9972,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cHIYpfn4nd",
+              "end": 44,
+              "expanded_url": "https://x.com/jaeminners/status/1872705776969761210/photo/1",
+              "media_key": "3_1872705745403428869",
+              "start": 21,
+              "url": "https://t.co/cHIYpfn4nd"
+            },
+            {
+              "display_url": "pic.x.com/cHIYpfn4nd",
+              "end": 44,
+              "expanded_url": "https://x.com/jaeminners/status/1872705776969761210/photo/1",
+              "media_key": "3_1872705745403428865",
+              "start": 21,
+              "url": "https://t.co/cHIYpfn4nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872705776969761210",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 278,
+          "impression_count": 54142,
+          "like_count": 5400,
+          "quote_count": 92,
+          "reply_count": 10,
+          "retweet_count": 1407
+        },
+        "reply_settings": "everyone",
+        "text": "MARK LEE HELLO?????? https://t.co/cHIYpfn4nd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 1953,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 132
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-28T10:13:19.000Z",
+        "description": "@na_rcissism_ ౨ৎ₊˚⟡",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "na_rcissism_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/nawoals",
+                "end": 23,
+                "expanded_url": "https://rentry.co/nawoals",
+                "start": 0,
+                "url": "https://t.co/1U6OKLbHwI"
+              }
+            ]
+          }
+        },
+        "id": "1310522939343687681",
+        "name": "ꕤ",
+        "pinned_tweet_id": "1840285659162128725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863210397572157440/qrLsSYDJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22077,
+          "following_count": 484,
+          "like_count": 33066,
+          "listed_count": 24,
+          "media_count": 12585,
+          "tweet_count": 44888
+        },
+        "url": "https://t.co/1U6OKLbHwI",
+        "username": "jaeminners",
+        "verified": true
+      }
+    ]
+  }
+}

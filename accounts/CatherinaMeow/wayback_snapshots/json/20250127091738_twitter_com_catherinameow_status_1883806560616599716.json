@@ -1,0 +1,493 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027522539",
+          "name": "Ralph Lauren"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1256236649253449729",
+          "name": "Fashion & beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion",
+          "id": "845354777613512704",
+          "name": "Fashion models"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "839543390668673024",
+          "name": "Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027522539",
+          "name": "Ralph Lauren"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1255950086699315200",
+          "name": "Designer fashion"
+        }
+      }
+    ],
+    "conversation_id": "1883806560616599716",
+    "created_at": "2025-01-27T09:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-27T10:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883806560616599716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "946754355377586176",
+          "start": 3,
+          "username": "merlynsie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883806560616599716",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9195
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883368013317152965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @merlynsie: ทุกคน Polo Ralph Lauren ให้มาร์คแฝดกับเรามา !!! 😭😭😭 คนพี่ประธานนักเรียน ขวัญใจรุ่นน้อง คนน้องนักกีฬา แชมป์เทนนิส ทั้งหล่อทั้…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027522539",
+              "name": "Ralph Lauren"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845354777613512704",
+              "name": "Fashion models"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027522539",
+              "name": "Ralph Lauren"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255950086699315200",
+              "name": "Designer fashion"
+            }
+          }
+        ],
+        "conversation_id": "1883806560616599716",
+        "created_at": "2025-01-27T09:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-27T10:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883806560616599716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "946754355377586176",
+              "start": 3,
+              "username": "merlynsie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883806560616599716",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9195
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883368013317152965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @merlynsie: ทุกคน Polo Ralph Lauren ให้มาร์คแฝดกับเรามา !!! 😭😭😭 คนพี่ประธานนักเรียน ขวัญใจรุ่นน้อง คนน้องนักกีฬา แชมป์เทนนิส ทั้งหล่อทั้…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1883367961181745152"
+          ]
+        },
+        "author_id": "946754355377586176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027522539",
+              "name": "Ralph Lauren"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "845354777613512704",
+              "name": "Fashion models"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027522539",
+              "name": "Ralph Lauren"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1255950086699315200",
+              "name": "Designer fashion"
+            }
+          }
+        ],
+        "conversation_id": "1883368013317152965",
+        "created_at": "2025-01-26T04:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T05:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883368013317152965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KUxj7wXCb9",
+              "end": 165,
+              "expanded_url": "https://x.com/merlynsie/status/1883368013317152965/video/1",
+              "media_key": "13_1883367961181745152",
+              "start": 142,
+              "url": "https://t.co/KUxj7wXCb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883368013317152965",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 113989,
+          "like_count": 4892,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 9195
+        },
+        "reply_settings": "following",
+        "text": "ทุกคน Polo Ralph Lauren ให้มาร์คแฝดกับเรามา !!! 😭😭😭 คนพี่ประธานนักเรียน ขวัญใจรุ่นน้อง คนน้องนักกีฬา แชมป์เทนนิส ทั้งหล่อทั้งน่ารักทั้งสองลุค https://t.co/KUxj7wXCb9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2196,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 169
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-29T14:46:42.000Z",
+        "description": "be thankful and spread love (♡) , fan account ❊｡* ✩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/VbIf3z2SqHg",
+                "end": 23,
+                "expanded_url": "https://youtu.be/VbIf3z2SqHg",
+                "start": 0,
+                "url": "https://t.co/RU0geEmCsN"
+              }
+            ]
+          }
+        },
+        "id": "946754355377586176",
+        "location": "맠프 + rem",
+        "name": "mlyn lee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745401554633723904/6cRJvgfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85491,
+          "following_count": 141,
+          "like_count": 4469,
+          "listed_count": 120,
+          "media_count": 22447,
+          "tweet_count": 142255
+        },
+        "url": "https://t.co/RU0geEmCsN",
+        "username": "merlynsie",
+        "verified": true
+      }
+    ]
+  }
+}

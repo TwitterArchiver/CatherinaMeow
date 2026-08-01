@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1753398273925337088",
+    "conversation_id": "1885101722965791105",
+    "created_at": "2025-01-30T23:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T00:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885101722965791105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "902422646389841923",
+          "start": 3,
+          "username": "usedtobefound"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885101722965791105",
+    "lang": "th",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27880
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884613798721659094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @usedtobefound: ยังเป็นคนขี้เบื่อที่ชอบกินข้าวเมนูซ้ำ ๆ ฟังเพลงเดิมจนกว่าจะเบื่อ อยู่คนเดียวได้ดีมาเสมอ ยังคงมีวันที่รู้สึกว่าตัวเองเจ๋ง…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753398273925337088",
+        "conversation_id": "1885101722965791105",
+        "created_at": "2025-01-30T23:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T00:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885101722965791105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "902422646389841923",
+              "start": 3,
+              "username": "usedtobefound"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885101722965791105",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27880
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884613798721659094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @usedtobefound: ยังเป็นคนขี้เบื่อที่ชอบกินข้าวเมนูซ้ำ ๆ ฟังเพลงเดิมจนกว่าจะเบื่อ อยู่คนเดียวได้ดีมาเสมอ ยังคงมีวันที่รู้สึกว่าตัวเองเจ๋ง…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "902422646389841923",
+        "conversation_id": "1884613798721659094",
+        "created_at": "2025-01-29T14:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-29T15:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884613798721659094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884613798721659094",
+        "lang": "th",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2671,
+          "impression_count": 647248,
+          "like_count": 17367,
+          "quote_count": 40,
+          "reply_count": 0,
+          "retweet_count": 27880
+        },
+        "reply_settings": "following",
+        "text": "ยังเป็นคนขี้เบื่อที่ชอบกินข้าวเมนูซ้ำ ๆ ฟังเพลงเดิมจนกว่าจะเบื่อ อยู่คนเดียวได้ดีมาเสมอ ยังคงมีวันที่รู้สึกว่าตัวเองเจ๋งและห่วยไปพร้อม ๆ กัน โตขึ้นปีละ 1 ขวบ ปลงกับชีวิตมากขึ้น เพราะกับบางเรื่องลองช่างแม่งบ้างก็ได้ ชีวิตมันสั้น อยากทำไรเพื่อตัวเองก็ทำได้เลย อย่ารอใคร"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-02-02T12:41:48.000Z",
+        "description": "⋆˚࿔ @thaichayanon 𝜗𝜚˚⋆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "thaichayanon"
+              }
+            ]
+          }
+        },
+        "id": "1753398273925337088",
+        "name": "𐙚🐈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861218826916143104/Eu3FaYEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 30,
+          "like_count": 2364,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 185
+        },
+        "username": "catherinameow",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-29T06:48:19.000Z",
+        "description": "will always love you until i'm gone i will",
+        "id": "902422646389841923",
+        "location": "for work (DM) only",
+        "name": "‏ًً",
+        "pinned_tweet_id": "1421111434792947715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1731688941294682112/kh2oiwIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94898,
+          "following_count": 54,
+          "like_count": 17989,
+          "listed_count": 28,
+          "media_count": 31,
+          "tweet_count": 63959
+        },
+        "username": "usedtobefound",
+        "verified": false
+      }
+    ]
+  }
+}
