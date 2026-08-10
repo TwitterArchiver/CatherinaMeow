@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2084324863683293561",
+    "created_at": "2026-08-03T17:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084329664265511396"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084329664265511396",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "使用规则： \n\n1. 黑猫智能猫窝为猫猫私人住所，仅接受预约/受邀访客进入。猫窝一般开放时间约为 10:00–21:00，可能根据实际情况调整。黑猫智能猫窝仅提供现场体验，原则上不提供住宿或长期驻留。\n\n2. 请遵守房屋管理要求，不得影响邻居或其他访客。\n\n3. 禁止通过 Tailscale、VPN、远程桌面、端口转发等任何方式，为任何不在场的人员或设备提供访问。\n\n4. 提供的模型、额度、规则及服务内容可能根据实际情况调整，请以现场实际提供为准。\n\n5. 黑猫智能猫窝保留拒绝提供相关服务、限制额度、暂停或终止访问权限的权利，包括但不限于违反本规则、滥用资源、影响他人使用、绕过限制、自动化调用、转供他人等情形。\n\n6. 黑猫智能猫窝保留拒绝任何人进入、要求离开或停止使用相关设施及服务的权利，无需说明理由。\n\n（2/2）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084324863683293561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "使用规则： \n\n1. 黑猫智能猫窝为猫猫私人住所，仅接受预约/受邀访客进入。猫窝一般开放时间约为 10:00–21:00，可能根据实际情况调整。黑猫智能猫窝仅提供现场体验，原则上不提供住宿或长期驻留。\n\n2. 请遵守房屋管理要求，不得影响邻居或其他访客。\n\n3. 禁止通过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2084324863683293561",
+        "created_at": "2026-08-03T17:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084329664265511396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084329664265511396",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "使用规则： \n\n1. 黑猫智能猫窝为猫猫私人住所，仅接受预约/受邀访客进入。猫窝一般开放时间约为 10:00–21:00，可能根据实际情况调整。黑猫智能猫窝仅提供现场体验，原则上不提供住宿或长期驻留。\n\n2. 请遵守房屋管理要求，不得影响邻居或其他访客。\n\n3. 禁止通过 Tailscale、VPN、远程桌面、端口转发等任何方式，为任何不在场的人员或设备提供访问。\n\n4. 提供的模型、额度、规则及服务内容可能根据实际情况调整，请以现场实际提供为准。\n\n5. 黑猫智能猫窝保留拒绝提供相关服务、限制额度、暂停或终止访问权限的权利，包括但不限于违反本规则、滥用资源、影响他人使用、绕过限制、自动化调用、转供他人等情形。\n\n6. 黑猫智能猫窝保留拒绝任何人进入、要求离开或停止使用相关设施及服务的权利，无需说明理由。\n\n（2/2）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084324863683293561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "使用规则： \n\n1. 黑猫智能猫窝为猫猫私人住所，仅接受预约/受邀访客进入。猫窝一般开放时间约为 10:00–21:00，可能根据实际情况调整。黑猫智能猫窝仅提供现场体验，原则上不提供住宿或长期驻留。\n\n2. 请遵守房屋管理要求，不得影响邻居或其他访客。\n\n3. 禁止通过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2084324863683293561",
+        "created_at": "2026-08-03T17:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084324863683293561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084324863683293561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黑猫智能猫窝（Mel分窝）已完成免费tokens的调试工作 抵达猫窝后连接Wi-Fi，即可免费获得:\n\n不限量的gpt5.4，gpt-5.6-terra，gemini-3.1-pro，gemini-3.6-flash，claude-sonnet-5\n\n和 限速的 gpt5.6 sol，opus-5 （ 1M tokens/6h ）\n\n和 限量供应的 claude-fable-5（500K tokens/人/24h）\n\n（1/2）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7354,
+          "following_count": 1096,
+          "like_count": 92467,
+          "listed_count": 22,
+          "media_count": 2269,
+          "tweet_count": 27330
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      }
+    ]
+  }
+}

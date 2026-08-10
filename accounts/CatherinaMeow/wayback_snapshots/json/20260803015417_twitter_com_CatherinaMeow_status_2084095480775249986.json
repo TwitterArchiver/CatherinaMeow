@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2083732427697246391",
+    "created_at": "2026-08-03T01:54:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:54:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084095480775249986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1401739070771019779",
+          "start": 0,
+          "username": "LucasYomo"
+        },
+        {
+          "end": 25,
+          "id": "1986342959533768704",
+          "start": 11,
+          "username": "Harold_W_Chen"
+        },
+        {
+          "end": 36,
+          "id": "1619910362119405570",
+          "start": 26,
+          "username": "fiapp_pro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084095480775249986",
+    "in_reply_to_user_id": "1401739070771019779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083847439245795671",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LucasYomo @Harold_W_Chen @fiapp_pro 还有驾照 比如 维洲驾照上就有地址  并且 按照法律规定 原则上你换住址7天内就要修改"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2083732427697246391",
+        "created_at": "2026-08-03T01:54:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:54:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084095480775249986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1401739070771019779",
+              "start": 0,
+              "username": "LucasYomo"
+            },
+            {
+              "end": 25,
+              "id": "1986342959533768704",
+              "start": 11,
+              "username": "Harold_W_Chen"
+            },
+            {
+              "end": 36,
+              "id": "1619910362119405570",
+              "start": 26,
+              "username": "fiapp_pro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084095480775249986",
+        "in_reply_to_user_id": "1401739070771019779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083847439245795671",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LucasYomo @Harold_W_Chen @fiapp_pro 还有驾照 比如 维洲驾照上就有地址  并且 按照法律规定 原则上你换住址7天内就要修改"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401739070771019779",
+        "conversation_id": "2083732427697246391",
+        "created_at": "2026-08-02T09:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083847439245795671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986342959533768704",
+              "start": 0,
+              "username": "Harold_W_Chen"
+            },
+            {
+              "end": 25,
+              "id": "1619910362119405570",
+              "start": 15,
+              "username": "fiapp_pro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083847439245795671",
+        "in_reply_to_user_id": "1986342959533768704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 716,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083735623349997968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Harold_W_Chen @fiapp_pro 因为人家根本没有户籍的概念，房子只能证明是你的，但和个体是分开的，人家是自由人，随便移动，想到哪到哪，唯一的证明就是你现在住哪点证据，就是水电气和钱，而且钱就是信用卡，所以信用卡账单成了关键，而且信用的体现就是信用卡提醒的最直观"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7352,
+          "following_count": 1096,
+          "like_count": 92448,
+          "listed_count": 22,
+          "media_count": 2268,
+          "tweet_count": 27321
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-07T03:13:41.000Z",
+        "description": "**为保护隐私，重新新申请账号，望谅解.专为clubhouse开通，方便私信联系. **Switch to Clubhouse, you can contact me if you have anything. 对于clubhouse23.09.07的更新，令用户失望",
+        "id": "1401739070771019779",
+        "location": "Minato-ku, Tokyo",
+        "name": "Lucas Yomo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1556339838982377472/o6FLuYPu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 220,
+          "like_count": 647,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 1205
+        },
+        "url": "",
+        "username": "LucasYomo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T08:00:56.000Z",
+        "description": "Bioinformatician | Ph.D. in Biology | Lecturer @ University | AI tinkerer & perpetual learner\n博士 · 生物信息学 · AI | 在大学教书，在X写AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "drcook.ai",
+                "end": 23,
+                "expanded_url": "https://drcook.ai",
+                "start": 0,
+                "url": "https://t.co/xk2azHtPqY"
+              }
+            ]
+          }
+        },
+        "id": "1986342959533768704",
+        "location": "Changsha, China",
+        "name": "Harold W. Chen (左尔文)",
+        "pinned_tweet_id": "2083544373015490824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062802991355494400/FiH7cdTb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5994,
+          "following_count": 2432,
+          "like_count": 5753,
+          "listed_count": 11,
+          "media_count": 302,
+          "tweet_count": 3966
+        },
+        "url": "https://t.co/xk2azHtPqY",
+        "username": "Harold_W_Chen",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-30T04:08:29.000Z",
+        "description": "量化机构工程师\n加州大学 ucsd 计算机\n量化：https://t.co/CqyB1rBhRR \n社群：https://t.co/rcquyCkUke \ntg：@fiapp_sls\nfounder of AnyUni, Inc.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "fiapp_sls"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fiapp.pro",
+                "end": 48,
+                "expanded_url": "http://fiapp.pro",
+                "start": 25,
+                "url": "https://t.co/CqyB1rBhRR"
+              },
+              {
+                "display_url": "t.me/fiappPro",
+                "end": 76,
+                "expanded_url": "http://t.me/fiappPro",
+                "start": 53,
+                "url": "https://t.co/rcquyCkUke"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fiapp.pro",
+                "end": 23,
+                "expanded_url": "https://fiapp.pro/",
+                "start": 0,
+                "url": "https://t.co/ttonRTJrN4"
+              }
+            ]
+          }
+        },
+        "id": "1619910362119405570",
+        "location": "CA | NY",
+        "name": "索螺丝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906550794033430528/STO9o_aH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13650,
+          "following_count": 273,
+          "like_count": 11743,
+          "listed_count": 105,
+          "media_count": 1162,
+          "tweet_count": 5764
+        },
+        "url": "https://t.co/ttonRTJrN4",
+        "username": "fiapp_pro",
+        "verified": true
+      }
+    ]
+  }
+}

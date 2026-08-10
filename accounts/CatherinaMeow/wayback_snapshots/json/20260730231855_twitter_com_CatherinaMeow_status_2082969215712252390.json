@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2082752659220762758",
+    "created_at": "2026-07-30T23:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082969215712252390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1562185023377268736",
+          "start": 0,
+          "username": "GBU24PavewayIII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082969215712252390",
+    "in_reply_to_user_id": "1562185023377268736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082861833493553612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GBU24PavewayIII 抱住qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2082752659220762758",
+        "created_at": "2026-07-30T23:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082969215712252390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1562185023377268736",
+              "start": 0,
+              "username": "GBU24PavewayIII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082969215712252390",
+        "in_reply_to_user_id": "1562185023377268736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082861833493553612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GBU24PavewayIII 抱住qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562185023377268736",
+        "conversation_id": "2082752659220762758",
+        "created_at": "2026-07-30T16:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082861833493553612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082861833493553612",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082803891025195279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 呜呜呜奈酱（抱住哭）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7357,
+          "following_count": 1096,
+          "like_count": 92262,
+          "listed_count": 22,
+          "media_count": 2264,
+          "tweet_count": 27291
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-23T21:08:47.000Z",
+        "description": "🇫🇴🏳️‍⚧️ Trans girl 🐈‍⬛私を弔う為の 花束はいらない",
+        "id": "1562185023377268736",
+        "location": "Battlestar Galactica",
+        "name": "雲雀AIM-54C+",
+        "pinned_tweet_id": "2076827144219689230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939979614962479104/qZnFHChK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2393,
+          "following_count": 970,
+          "like_count": 1862,
+          "listed_count": 15,
+          "media_count": 131,
+          "tweet_count": 876
+        },
+        "url": "",
+        "username": "GBU24PavewayIII",
+        "verified": false
+      }
+    ]
+  }
+}

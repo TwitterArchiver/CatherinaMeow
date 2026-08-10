@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2083859296627167695",
+    "created_at": "2026-08-03T01:54:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T02:54:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084095589726478539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1643779014694408193",
+          "start": 0,
+          "username": "Freya_LXY"
+        },
+        {
+          "end": 23,
+          "id": "1892143528140267520",
+          "start": 11,
+          "username": "fufu1367612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084095589726478539",
+    "in_reply_to_user_id": "1643779014694408193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084089187305972107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freya_LXY @fufu1367612 啊 对的对的 忘了这个事儿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2083859296627167695",
+        "created_at": "2026-08-03T01:54:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:54:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084095589726478539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643779014694408193",
+              "start": 0,
+              "username": "Freya_LXY"
+            },
+            {
+              "end": 23,
+              "id": "1892143528140267520",
+              "start": 11,
+              "username": "fufu1367612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084095589726478539",
+        "in_reply_to_user_id": "1643779014694408193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084089187305972107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freya_LXY @fufu1367612 啊 对的对的 忘了这个事儿了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643779014694408193",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "GPS & Maps",
+              "id": "1037076248877395968",
+              "name": "GPS and maps"
+            }
+          }
+        ],
+        "conversation_id": "2083859296627167695",
+        "created_at": "2026-08-03T01:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084089187305972107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            },
+            {
+              "end": 27,
+              "id": "1892143528140267520",
+              "start": 15,
+              "username": "fufu1367612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084089187305972107",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083866133309047034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow @fufu1367612 其实这不是重点，而是蜂窝功能内置物理gps模块，Wi-Fi版无法准确定位。我之前尝试过用我的Wi-Fi版本导航，结果差远了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7352,
+          "following_count": 1096,
+          "like_count": 92450,
+          "listed_count": 22,
+          "media_count": 2268,
+          "tweet_count": 27322
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-06T00:53:59.000Z",
+        "description": "整活 废话 照片💖",
+        "id": "1643779014694408193",
+        "location": "2.75km",
+        "name": "Freya😇",
+        "pinned_tweet_id": "1888913451587911680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935559252245905408/nOkWLac9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4140,
+          "following_count": 1156,
+          "like_count": 7033,
+          "listed_count": 19,
+          "media_count": 72,
+          "tweet_count": 2220
+        },
+        "url": "",
+        "username": "Freya_LXY",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T09:25:57.000Z",
+        "description": "我爱fufu！\n分享23岁的退休生活\n长住酒店的酒店爱好者\n全职交易员\n只会hello world的cs本\n舒适旅行专家\n电子硬件发烧友",
+        "id": "1892143528140267520",
+        "name": "0xfufu",
+        "pinned_tweet_id": "2079100574663061937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892143640912543744/-Fx-HI81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 625,
+          "like_count": 9644,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 3831
+        },
+        "url": "",
+        "username": "fufu1367612",
+        "verified": true
+      }
+    ]
+  }
+}

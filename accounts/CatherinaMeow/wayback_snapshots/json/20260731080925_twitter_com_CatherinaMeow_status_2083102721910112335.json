@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2083029897472335938",
+    "created_at": "2026-07-31T08:09:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:09:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083102721910112335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886796352283402250",
+          "start": 0,
+          "username": "TheCyclist400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083102721910112335",
+    "in_reply_to_user_id": "1886796352283402250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083101960719524246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheCyclist400 wwww 自动驾驶好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2083029897472335938",
+        "created_at": "2026-07-31T08:09:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:09:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083102721910112335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886796352283402250",
+              "start": 0,
+              "username": "TheCyclist400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083102721910112335",
+        "in_reply_to_user_id": "1886796352283402250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083101960719524246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheCyclist400 wwww 自动驾驶好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886796352283402250",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2083029897472335938",
+        "created_at": "2026-07-31T08:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083101960719524246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083101960719524246",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083087498402812177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 我今天开了一下，还真的非常好开诶…\n\n动力爆发比我的涡轮直接好多\n\n还可以和Grok聊天🤤\n\n自动驾驶好香"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7358,
+          "following_count": 1096,
+          "like_count": 92282,
+          "listed_count": 22,
+          "media_count": 2267,
+          "tweet_count": 27303
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-04T15:18:12.000Z",
+        "description": "邪修术娘/TransParent/Gardener/2nd hand carpenter/Ex-handyman/Retired photographer/Former 021er/MMA/4WD/ISFJ我有ADHD也许有ASD/SRS 26.9.2025/我们一定都能战胜depression",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lulu.c12177",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lulu.c12177",
+                "start": 0,
+                "url": "https://t.co/aKXta2M7vf"
+              }
+            ]
+          }
+        },
+        "id": "1886796352283402250",
+        "location": "匿名向我提问吧→",
+        "name": "Lulu.C",
+        "pinned_tweet_id": "1961013729388351563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063558643765882881/vF7BqGMk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1877,
+          "following_count": 542,
+          "like_count": 10830,
+          "listed_count": 4,
+          "media_count": 693,
+          "tweet_count": 5329
+        },
+        "url": "https://t.co/aKXta2M7vf",
+        "username": "TheCyclist400",
+        "verified": true
+      }
+    ]
+  }
+}

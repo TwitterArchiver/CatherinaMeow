@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2083016386385707357",
+    "created_at": "2026-08-01T07:08:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T08:08:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083449705162473962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882099914886537220",
+          "start": 0,
+          "username": "kkaawaayii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083449705162473962",
+    "in_reply_to_user_id": "1882099914886537220",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083016386385707357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kkaawaayii 这是srs的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083016372544540672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhcWsLXEAAXXXb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2083016386385707357",
+        "created_at": "2026-08-01T07:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083449705162473962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882099914886537220",
+              "start": 0,
+              "username": "kkaawaayii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083449705162473962",
+        "in_reply_to_user_id": "1882099914886537220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083016386385707357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kkaawaayii 这是srs的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083016372544540672"
+          ]
+        },
+        "author_id": "1882099914886537220",
+        "conversation_id": "2083016386385707357",
+        "created_at": "2026-07-31T02:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083016386385707357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXuhjlpAxE",
+              "end": 146,
+              "expanded_url": "https://x.com/kkaawaayii/status/2083016386385707357/photo/1",
+              "media_key": "3_2083016372544540672",
+              "start": 123,
+              "url": "https://t.co/nXuhjlpAxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083016386385707357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10717,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受，今天早上起床发现自己遗精了。虽然说刚开始hrt有存货很正常，上次排出也是六月份的事了，但还是好难受，焦虑又犯了。去了解了一些信息，跨女做啥手术都要父母，单QQ卸载都得父母同意，还要一两万，想了想还是算了。附一张网上看到的QQ卸载所需材料 https://t.co/nXuhjlpAxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7352,
+          "following_count": 1097,
+          "like_count": 92300,
+          "listed_count": 22,
+          "media_count": 2267,
+          "tweet_count": 27306
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-22T16:16:26.000Z",
+        "description": "11岁的抑郁症，23岁才治好。03年丨深圳打工人丨169cm58kg丨12岁跳楼丨2026.5.4开药治焦虑抑郁丨5.18CPA丨6.7hrt丨想和MTF贴贴",
+        "id": "1882099914886537220",
+        "name": "剧中人🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067469478430912512/L2nGDei1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 102,
+          "like_count": 10325,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1042
+        },
+        "url": "",
+        "username": "kkaawaayii",
+        "verified": false
+      }
+    ]
+  }
+}

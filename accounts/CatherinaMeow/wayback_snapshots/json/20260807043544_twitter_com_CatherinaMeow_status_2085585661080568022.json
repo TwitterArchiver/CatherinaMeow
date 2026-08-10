@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2085309912100548925",
+    "created_at": "2026-08-07T04:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085585661080568022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1607005037825515520",
+          "start": 0,
+          "username": "Scout_Sheart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085585661080568022",
+    "in_reply_to_user_id": "1607005037825515520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085578241788826067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Scout_Sheart 有 但是 4个中国人（） 他们不想用）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2085578241788826067].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2085578241788826067",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2085578241788826067"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2085309912100548925",
+        "created_at": "2026-08-07T04:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085585661080568022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1607005037825515520",
+              "start": 0,
+              "username": "Scout_Sheart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085585661080568022",
+        "in_reply_to_user_id": "1607005037825515520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085578241788826067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scout_Sheart 有 但是 4个中国人（） 他们不想用）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7393,
+          "following_count": 1092,
+          "like_count": 92588,
+          "listed_count": 22,
+          "media_count": 2272,
+          "tweet_count": 27369
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-25T13:27:24.000Z",
+        "description": "Brave & Kind",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scout-siai.com",
+                "end": 23,
+                "expanded_url": "http://www.scout-siai.com",
+                "start": 0,
+                "url": "https://t.co/Um2ol6Lw35"
+              }
+            ]
+          }
+        },
+        "id": "1607005037825515520",
+        "location": "1.1.1.1",
+        "name": "Scout归来 | 看旧推圈土崩瓦解 | 推友们出头之日已经到来",
+        "pinned_tweet_id": "1717503862121316382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913624204349681664/-Rv2trQG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 675,
+          "like_count": 8002,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 1443
+        },
+        "url": "https://t.co/Um2ol6Lw35",
+        "username": "Scout_Sheart",
+        "verified": false
+      }
+    ]
+  }
+}

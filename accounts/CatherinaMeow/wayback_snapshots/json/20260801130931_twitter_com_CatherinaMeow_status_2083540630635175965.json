@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083540621428764672"
+      ]
+    },
+    "author_id": "1600208165269741570",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083540630635175965",
+    "created_at": "2026-08-01T13:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083540630635175965"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 23,
+          "tag": "奈酱今天吃什么"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 20,
+          "id": "1344660543131557895",
+          "start": 12,
+          "username": "k3Cat24"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xdoVdtiByx",
+          "end": 55,
+          "expanded_url": "https://x.com/CatherinaMeow/status/2083540630635175965/photo/1",
+          "media_key": "3_2083540621428764672",
+          "start": 32,
+          "url": "https://t.co/xdoVdtiByx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083540630635175965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和k3一起去瑞典大使馆\n@k3Cat24 \n\n#奈酱今天吃什么 https://t.co/xdoVdtiByx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2083540621428764672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo5J_dbsAArau_.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083540621428764672"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083540630635175965",
+        "created_at": "2026-08-01T13:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083540630635175965"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "奈酱今天吃什么"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1344660543131557895",
+              "start": 12,
+              "username": "k3Cat24"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xdoVdtiByx",
+              "end": 55,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2083540630635175965/photo/1",
+              "media_key": "3_2083540621428764672",
+              "start": 32,
+              "url": "https://t.co/xdoVdtiByx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083540630635175965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和k3一起去瑞典大使馆\n@k3Cat24 \n\n#奈酱今天吃什么 https://t.co/xdoVdtiByx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7352,
+          "following_count": 1097,
+          "like_count": 92296,
+          "listed_count": 22,
+          "media_count": 2268,
+          "tweet_count": 27307
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-31T15:04:51.000Z",
+        "description": "为什么是猫猫却要用狐狸头像？因为可爱。。。。qvq  #成分请自己查\n// 期望回fo直接私信就好",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 27,
+                "tag": "成分请自己查"
+              }
+            ]
+          }
+        },
+        "id": "1344660543131557895",
+        "name": "k᳐3喵᳐੭ 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344662106663170049/ED8HLJNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 424,
+          "like_count": 4179,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 2768
+        },
+        "url": "",
+        "username": "k3Cat24",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2084660053026746632",
+    "created_at": "2026-08-06T14:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T15:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085373663508115903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1463116235478999042",
+          "start": 0,
+          "username": "Nihili10"
+        },
+        {
+          "end": 23,
+          "id": "1421083386647511043",
+          "start": 10,
+          "username": "DreamChangAn"
+        },
+        {
+          "end": 36,
+          "id": "1515451257892315153",
+          "start": 24,
+          "username": "HappierZeen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085373663508115903",
+    "in_reply_to_user_id": "1463116235478999042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085348489463234862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nihili10 @DreamChangAn @HappierZeen 差不多（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2084660053026746632",
+        "created_at": "2026-08-06T14:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T15:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085373663508115903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1463116235478999042",
+              "start": 0,
+              "username": "Nihili10"
+            },
+            {
+              "end": 23,
+              "id": "1421083386647511043",
+              "start": 10,
+              "username": "DreamChangAn"
+            },
+            {
+              "end": 36,
+              "id": "1515451257892315153",
+              "start": 24,
+              "username": "HappierZeen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085373663508115903",
+        "in_reply_to_user_id": "1463116235478999042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085348489463234862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nihili10 @DreamChangAn @HappierZeen 差不多（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1463116235478999042",
+        "conversation_id": "2084660053026746632",
+        "created_at": "2026-08-06T12:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085348489463234862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            },
+            {
+              "end": 28,
+              "id": "1421083386647511043",
+              "start": 15,
+              "username": "DreamChangAn"
+            },
+            {
+              "end": 41,
+              "id": "1515451257892315153",
+              "start": 29,
+              "username": "HappierZeen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085348489463234862",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085194842997686772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow @DreamChangAn @HappierZeen 是不是只能零深😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7395,
+          "following_count": 1092,
+          "like_count": 92546,
+          "listed_count": 22,
+          "media_count": 2271,
+          "tweet_count": 27356
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-23T12:04:37.000Z",
+        "description": "我是猪猪，喜欢吃饭，哼唧哼唧~\n可以喊我“nihili”/You can call me Nihili/爱的黑洞/跨妹/trans pride/我的🐷@xiliver1\n#perth",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "perth"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "xiliver1"
+              }
+            ]
+          }
+        },
+        "id": "1463116235478999042",
+        "location": "Perth",
+        "name": "Nihili不是男的（谢邀，人在土澳，刚下飞机,Perth）",
+        "pinned_tweet_id": "1642900290918809600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993739960495878145/jrGB8W1__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 563,
+          "like_count": 52254,
+          "listed_count": 2,
+          "media_count": 851,
+          "tweet_count": 13373
+        },
+        "url": "",
+        "username": "Nihili10",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T12:21:05.000Z",
+        "description": "🇬🇧小男娘/喜欢数码/涩涩(bushi) / But me a coffee :https://t.co/PvGcPhA8Vc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "coff.ee/changan",
+                "end": 63,
+                "expanded_url": "https://coff.ee/changan",
+                "start": 40,
+                "url": "https://t.co/PvGcPhA8Vc"
+              }
+            ]
+          }
+        },
+        "id": "1421083386647511043",
+        "location": "Durham, England",
+        "name": "长安若然🏳️‍⚧️",
+        "pinned_tweet_id": "1904489029057356020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721382723561168896/eQIl2WLW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 318,
+          "like_count": 202,
+          "listed_count": 2,
+          "media_count": 49,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "DreamChangAn",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-16T22:05:24.000Z",
+        "description": "ENTP🏳️‍⚧️｜EdTech Industry｜免费给酷儿做留学/移民申请咨询 (约30min-1h call) | 酷儿艺术家 |",
+        "id": "1515451257892315153",
+        "location": "San Francisco, CA",
+        "name": "Zeen🏳️‍⚧️（queer互fo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071913863809748992/6SpnL0Ek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1908,
+          "following_count": 859,
+          "like_count": 1108,
+          "listed_count": 10,
+          "media_count": 147,
+          "tweet_count": 942
+        },
+        "url": "",
+        "username": "HappierZeen",
+        "verified": true
+      }
+    ]
+  }
+}

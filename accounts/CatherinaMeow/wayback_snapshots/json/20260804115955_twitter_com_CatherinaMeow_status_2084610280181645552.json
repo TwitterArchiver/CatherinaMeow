@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2084610280181645552",
+    "created_at": "2026-08-04T11:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084610280181645552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1600208165269741570",
+          "start": 3,
+          "username": "CatherinaMeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084610280181645552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084281617108054481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CatherinaMeow: 猫猫的运气也是一绝 回猫本两周 把小留离谱体验清单体验了个七七八八 比如 把烟雾报警器搞响 什么的 \n\n前天出门还遇到了个抽象事件 离猫猫二三十米的地方 有个人被另外一个陌生路人袭击了 新闻报道的是重伤* \n\n这就是墨尔本吗）））） htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1648,
+        "media_key": "3_2084281572241661952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzbDAVbYAAWxam.jpg",
+        "width": 1672
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2084610280181645552",
+        "created_at": "2026-08-04T11:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084610280181645552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1600208165269741570",
+              "start": 3,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084610280181645552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084281617108054481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CatherinaMeow: 猫猫的运气也是一绝 回猫本两周 把小留离谱体验清单体验了个七七八八 比如 把烟雾报警器搞响 什么的 \n\n前天出门还遇到了个抽象事件 离猫猫二三十米的地方 有个人被另外一个陌生路人袭击了 新闻报道的是重伤* \n\n这就是墨尔本吗）））） htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084281572241661952"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "conversation_id": "2084281617108054481",
+        "created_at": "2026-08-03T14:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084281617108054481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FgTj81mo1r",
+              "end": 140,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2084281617108054481/photo/1",
+              "media_key": "3_2084281572241661952",
+              "start": 117,
+              "url": "https://t.co/FgTj81mo1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084281617108054481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 666,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫的运气也是一绝 回猫本两周 把小留离谱体验清单体验了个七七八八 比如 把烟雾报警器搞响 什么的 \n\n前天出门还遇到了个抽象事件 离猫猫二三十米的地方 有个人被另外一个陌生路人袭击了 新闻报道的是重伤* \n\n这就是墨尔本吗）））） https://t.co/FgTj81mo1r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7352,
+          "following_count": 1093,
+          "like_count": 92469,
+          "listed_count": 22,
+          "media_count": 2269,
+          "tweet_count": 27334
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      }
+    ]
+  }
+}

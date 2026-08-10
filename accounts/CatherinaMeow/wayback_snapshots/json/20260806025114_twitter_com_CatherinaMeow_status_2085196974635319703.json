@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2085196974635319703",
+    "created_at": "2026-08-06T02:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T03:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085196974635319703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1386539491054088198",
+          "start": 3,
+          "username": "yoooyoyooy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "Oproxy.world",
+          "end": 91,
+          "expanded_url": "http://Oproxy.world",
+          "start": 68,
+          "status": 200,
+          "title": "Oproxy - AI API Gateway",
+          "unwound_url": "http://Oproxy.world",
+          "url": "https://t.co/NRyRxl0akK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085196974635319703",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084579555495555351",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoooyoyooy: 炮打司令部——我的一张大字报（\n\n那么如果不想用官渠的话，也欢迎大家来试用「一千万以内最好用的中转站」 https://t.co/NRyRxl0akK ，现在已全系适配GPT、Claude、Gemini、Deepseek等顶级模型，我们已随官方进…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2085196974635319703",
+        "created_at": "2026-08-06T02:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T03:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085196974635319703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1386539491054088198",
+              "start": 3,
+              "username": "yoooyoyooy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "Oproxy.world",
+              "end": 91,
+              "expanded_url": "http://Oproxy.world",
+              "start": 68,
+              "status": 200,
+              "title": "Oproxy - AI API Gateway",
+              "unwound_url": "http://Oproxy.world",
+              "url": "https://t.co/NRyRxl0akK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085196974635319703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084579555495555351",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoooyoyooy: 炮打司令部——我的一张大字报（\n\n那么如果不想用官渠的话，也欢迎大家来试用「一千万以内最好用的中转站」 https://t.co/NRyRxl0akK ，现在已全系适配GPT、Claude、Gemini、Deepseek等顶级模型，我们已随官方进…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386539491054088198",
+        "conversation_id": "2084579555495555351",
+        "created_at": "2026-08-04T09:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084579555495555351"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "Oproxy.world",
+              "end": 75,
+              "expanded_url": "http://Oproxy.world",
+              "start": 52,
+              "status": 200,
+              "title": "Oproxy - AI API Gateway",
+              "unwound_url": "http://Oproxy.world",
+              "url": "https://t.co/NRyRxl0akK"
+            },
+            {
+              "display_url": "x.com/openainewsroom…",
+              "end": 182,
+              "expanded_url": "https://twitter.com/openainewsroom/status/2084515811306443093",
+              "start": 159,
+              "url": "https://t.co/QjzffVSLVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084579555495555351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3810,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084515811306443093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "炮打司令部——我的一张大字报（\n\n那么如果不想用官渠的话，也欢迎大家来试用「一千万以内最好用的中转站」 https://t.co/NRyRxl0akK ，现在已全系适配GPT、Claude、Gemini、Deepseek等顶级模型，我们已随官方进行降价，更多中国模型也即将上线🥰\n\n这么好用的中转站怎么不早点告诉我x https://t.co/QjzffVSLVD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫澳洲窝",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7372,
+          "following_count": 1093,
+          "like_count": 92485,
+          "listed_count": 22,
+          "media_count": 2270,
+          "tweet_count": 27348
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-26T04:36:01.000Z",
+        "description": "一般通过｜AI集合站绝赞建设中 https://t.co/t72Bt0t6TY ｜CN/EN/JP｜请在置顶查看自我介绍 ｜可爱小女友🥰@LannchanOwo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 68,
+                "username": "LannchanOwo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "oproxy.world",
+                "end": 39,
+                "expanded_url": "http://oproxy.world",
+                "start": 16,
+                "url": "https://t.co/t72Bt0t6TY"
+              }
+            ]
+          }
+        },
+        "id": "1386539491054088198",
+        "name": "佑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014169201640894464/W-mxPe5l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 987,
+          "like_count": 260379,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 5977
+        },
+        "url": "",
+        "username": "yoooyoyooy",
+        "verified": true
+      }
+    ]
+  }
+}
