@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2092517629164654925",
+    "created_at": "2026-08-27T03:11:21.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T04:11:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092812180639109152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1596913744403378177",
+          "start": 0,
+          "username": "yaosiscom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092812180639109152",
+    "in_reply_to_user_id": "1596913744403378177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092799885846401236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yaosiscom 是的 墨尔本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2092517629164654925",
+        "created_at": "2026-08-27T03:11:21.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T04:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092812180639109152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1596913744403378177",
+              "start": 0,
+              "username": "yaosiscom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092812180639109152",
+        "in_reply_to_user_id": "1596913744403378177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092799885846401236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaosiscom 是的 墨尔本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596913744403378177",
+        "conversation_id": "2092517629164654925",
+        "created_at": "2026-08-27T02:22:29.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092799885846401236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092799885846401236",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092517629164654925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 去澳洲了吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2092812180639109152",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7448,
+          "following_count": 1082,
+          "like_count": 93933,
+          "listed_count": 25,
+          "media_count": 2304,
+          "tweet_count": 27677
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-27T17:08:22.000Z",
+        "description": "🌟 Retire by 35! One billion is enough! 💰✨\nNavigation : https://t.co/8WpyzDSdwM \nAI Api：https://t.co/wvtfM95Ase\nImagic：https://t.co/zeZXyKmPnD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "navtoai.com",
+                "end": 78,
+                "expanded_url": "https://navtoai.com",
+                "start": 55,
+                "url": "https://t.co/8WpyzDSdwM"
+              },
+              {
+                "display_url": "sub2api.navtoai.com",
+                "end": 110,
+                "expanded_url": "https://sub2api.navtoai.com",
+                "start": 87,
+                "url": "https://t.co/wvtfM95Ase"
+              },
+              {
+                "display_url": "imagic.art",
+                "end": 141,
+                "expanded_url": "https://imagic.art",
+                "start": 118,
+                "url": "https://t.co/zeZXyKmPnD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaosis.com",
+                "end": 23,
+                "expanded_url": "https://yaosis.com",
+                "start": 0,
+                "url": "https://t.co/qHoAcZjV62"
+              }
+            ]
+          }
+        },
+        "id": "1596913744403378177",
+        "is_identity_verified": true,
+        "location": "silicon valley",
+        "most_recent_tweet_id": "2092799885846401236",
+        "name": "Yaosis",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596913744403378177/1735020354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871437115822944257/wETwEDQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8502,
+          "following_count": 1217,
+          "like_count": 17028,
+          "listed_count": 66,
+          "media_count": 2819,
+          "tweet_count": 21612
+        },
+        "url": "https://t.co/qHoAcZjV62",
+        "username": "yaosiscom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2092395252451844398",
+    "created_at": "2026-08-26T01:27:17.000Z",
+    "display_text_range": [
+      13,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T02:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092423606378872986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1998968758422179840",
+          "start": 0,
+          "username": "servasyy_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092423606378872986",
+    "in_reply_to_user_id": "1998968758422179840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092395252451844398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@servasyy_ai 本来想看眼new api的作者的推 但是不知道为啥她把我block了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2092395132696047616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQmuSYYasAAWEtI.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2092395252451844398",
+        "created_at": "2026-08-26T01:27:17.000Z",
+        "display_text_range": [
+          13,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092423606378872986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1998968758422179840",
+              "start": 0,
+              "username": "servasyy_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092423606378872986",
+        "in_reply_to_user_id": "1998968758422179840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092395252451844398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@servasyy_ai 本来想看眼new api的作者的推 但是不知道为啥她把我block了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092395132696047616"
+          ]
+        },
+        "author_id": "1998968758422179840",
+        "conversation_id": "2092395252451844398",
+        "created_at": "2026-08-25T23:34:37.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T00:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092395252451844398"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rbv50PTH8i",
+              "end": 47,
+              "expanded_url": "https://x.com/servasyy_ai/status/2092395252451844398/photo/1",
+              "media_key": "3_2092395132696047616",
+              "start": 24,
+              "url": "https://t.co/Rbv50PTH8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092395252451844398",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092395132696047616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 27353,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "newapi 作者露脸了欸，居然是个女生？？？ https://t.co/Rbv50PTH8i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2092423606378872986",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7433,
+          "following_count": 1083,
+          "like_count": 93840,
+          "listed_count": 25,
+          "media_count": 2300,
+          "tweet_count": 27645
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-11T04:11:24.000Z",
+        "description": "古早程序员 | AI出海 | 自由职业\n机车游侠&机速购&骑享租创始人\n15年前 freelance 起步 → 连续创业者 → 亏过1个亿，逆风翻盘中\n分享创业，AI，读书，生活，健身\nOfficial X channel of SERVASYY LLC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "servasyy.com",
+                "end": 23,
+                "expanded_url": "https://servasyy.com",
+                "start": 0,
+                "url": "https://t.co/pfeXMtOl0E"
+              }
+            ]
+          }
+        },
+        "id": "1998968758422179840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092423182548635838",
+        "name": "huangserva",
+        "pinned_tweet_id": "2091416214283379123",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998968758422179840/1765426629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998970271458537475/jcT0J2z6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37562,
+          "following_count": 728,
+          "like_count": 10821,
+          "listed_count": 489,
+          "media_count": 604,
+          "tweet_count": 5793
+        },
+        "url": "https://t.co/pfeXMtOl0E",
+        "username": "servasyy_ai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

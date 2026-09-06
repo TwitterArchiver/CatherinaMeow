@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2087358876245188886",
+    "created_at": "2026-08-12T07:59:39.000Z",
+    "display_text_range": [
+      16,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T08:59:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087448916174499957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1534773109940789248",
+          "start": 0,
+          "username": "rainchngshainn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087448916174499957",
+    "in_reply_to_user_id": "1534773109940789248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087443667422179362",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainchngshainn 这个是人类大脑benchmark（点头）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2087358876245188886",
+        "created_at": "2026-08-12T07:59:39.000Z",
+        "display_text_range": [
+          16,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087448916174499957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1534773109940789248",
+              "start": 0,
+              "username": "rainchngshainn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087448916174499957",
+        "in_reply_to_user_id": "1534773109940789248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087443667422179362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainchngshainn 这个是人类大脑benchmark（点头）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534773109940789248",
+        "conversation_id": "2087358876245188886",
+        "created_at": "2026-08-12T07:38:47.000Z",
+        "display_text_range": [
+          15,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T08:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087443667422179362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087443667422179362",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087358876245188886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 这个是什么👀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2087448916174499957",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7414,
+          "following_count": 1091,
+          "like_count": 92960,
+          "listed_count": 24,
+          "media_count": 2286,
+          "tweet_count": 27444
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-09T05:43:39.000Z",
+        "description": "一位神秘又可爱的女生 ≽^•⩊•^≼  🇨🇦 大二生物在读，分享一些日常, 中/Eng/日, 欢迎同类互fo， よろしくお願い！\n可爱黑猫卷🐈‍⬛ @CatherinaMeow\n布林喵✨ @blingbling712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "CatherinaMeow"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "username": "blingbling712"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vxf3S4VFb-4xN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vxf3S4VFb-4xNDE1",
+                "start": 0,
+                "url": "https://t.co/2mjyszXyeP"
+              }
+            ]
+          }
+        },
+        "id": "1534773109940789248",
+        "is_identity_verified": false,
+        "location": "Toronto, Ontario",
+        "most_recent_tweet_id": "2087443667422179362",
+        "name": "云欣 Akina",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1534773109940789248/1774681460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059852851132702725/8t0iRaSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1297,
+          "following_count": 759,
+          "like_count": 12088,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1410
+        },
+        "url": "https://t.co/2mjyszXyeP",
+        "username": "rainchngshainn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

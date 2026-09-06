@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2088482853759918501",
+    "created_at": "2026-08-15T11:07:49.000Z",
+    "display_text_range": [
+      17,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:07:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088583435636146264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1600096860114501633",
+          "start": 0,
+          "username": "Hoshino_Ayaka97"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088583435636146264",
+    "in_reply_to_user_id": "1600096860114501633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088579770011537408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshino_Ayaka97 我之前还带着折叠刀飞了4段（） 然后才被第五段的安检看出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2088482853759918501",
+        "created_at": "2026-08-15T11:07:49.000Z",
+        "display_text_range": [
+          17,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088583435636146264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1600096860114501633",
+              "start": 0,
+              "username": "Hoshino_Ayaka97"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088583435636146264",
+        "in_reply_to_user_id": "1600096860114501633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088579770011537408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshino_Ayaka97 我之前还带着折叠刀飞了4段（） 然后才被第五段的安检看出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600096860114501633",
+        "conversation_id": "2088482853759918501",
+        "created_at": "2026-08-15T10:53:15.000Z",
+        "display_text_range": [
+          15,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:53:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088579770011537408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088579770011537408",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088567928753193158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 我之前包里放着小折叠刀坐了一个月地铁才发现🥲\n  现在这俩玩意儿我都放在车里了\n  这个喷雾随身带着实在太不方便了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2088583435636146264",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7418,
+          "following_count": 1091,
+          "like_count": 93109,
+          "listed_count": 24,
+          "media_count": 2291,
+          "tweet_count": 27475
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T11:56:44.000Z",
+        "description": "成为一只可爱的会飞的猫猫，到世界各地旅行（睡懒觉）|火星殖民地大小姐|地球猫猫教EarthCatReligion|Betelgeuse Traveler|EarthOnline Player||🦋→https://t.co/WnD9mVRLvR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/hoshin…",
+                "end": 123,
+                "expanded_url": "https://bsky.app/profile/hoshinoayaka97.bsky.social",
+                "start": 100,
+                "url": "https://t.co/WnD9mVRLvR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Hoshino_Ayaka",
+                "end": 23,
+                "expanded_url": "https://t.me/Hoshino_Ayaka",
+                "start": 0,
+                "url": "https://t.co/LXAlX7duga"
+              }
+            ]
+          }
+        },
+        "id": "1600096860114501633",
+        "is_identity_verified": false,
+        "location": "地球联邦火星殖民地",
+        "most_recent_tweet_id": "2088581143524491457",
+        "name": "星野スーパーあやかAyakaカフェイン中毒$エネルギー不足",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600096860114501633/1712565213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600097324558163968/K7Vihna7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 570,
+          "like_count": 33045,
+          "listed_count": 2,
+          "media_count": 488,
+          "tweet_count": 3562
+        },
+        "url": "https://t.co/LXAlX7duga",
+        "username": "Hoshino_Ayaka97",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

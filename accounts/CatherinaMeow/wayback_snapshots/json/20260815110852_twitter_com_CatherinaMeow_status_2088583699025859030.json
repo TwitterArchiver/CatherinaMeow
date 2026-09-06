@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2088566770324148659",
+    "created_at": "2026-08-15T11:08:52.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T12:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088583699025859030"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1818257539886460928",
+          "start": 0,
+          "username": "qqqqqf_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088583699025859030",
+    "in_reply_to_user_id": "1818257539886460928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088566770324148659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qqqqqf_ 诶 你怎么上去了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2088566764561170432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPwUaBtbAAAcnZ1.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2088566770324148659",
+        "created_at": "2026-08-15T11:08:52.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T12:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088583699025859030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1818257539886460928",
+              "start": 0,
+              "username": "qqqqqf_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088583699025859030",
+        "in_reply_to_user_id": "1818257539886460928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088566770324148659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qqqqqf_ 诶 你怎么上去了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088566764561170432"
+          ]
+        },
+        "author_id": "1818257539886460928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088566770324148659",
+        "created_at": "2026-08-15T10:01:36.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088566770324148659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aquiyeIhoU",
+              "end": 97,
+              "expanded_url": "https://x.com/qqqqqf_/status/2088566770324148659/photo/1",
+              "media_key": "3_2088566764561170432",
+              "start": 74,
+              "url": "https://t.co/aquiyeIhoU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088566770324148659",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088566764561170432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 663,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "8 月 22 日 上海 Agibar 见！\n\n《Designing AI in Motion：我们应该如何展示一个正在工作的 AI》\n\n名额不多👀 https://t.co/aquiyeIhoU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2088583699025859030",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7418,
+          "following_count": 1091,
+          "like_count": 93110,
+          "listed_count": 24,
+          "media_count": 2291,
+          "tweet_count": 27476
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-30T12:09:26.000Z",
+        "description": "Full Stack Engineer\nBuilding  https://t.co/Q5DJkrjgFa \n博客:https://t.co/YPfuXnDF2c  \nTelegramGroup :https://t.co/GiCrumiqio",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Arkloop.io",
+                "end": 53,
+                "expanded_url": "http://Arkloop.io",
+                "start": 30,
+                "url": "https://t.co/Q5DJkrjgFa"
+              },
+              {
+                "display_url": "清凤.fun",
+                "end": 81,
+                "expanded_url": "https://xn--l9qq99d.fun",
+                "start": 58,
+                "url": "https://t.co/YPfuXnDF2c"
+              },
+              {
+                "display_url": "t.me/Arkloop_io",
+                "end": 122,
+                "expanded_url": "https://t.me/Arkloop_io",
+                "start": 99,
+                "url": "https://t.co/GiCrumiqio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/jrg4ChmcVI"
+              }
+            ]
+          }
+        },
+        "id": "1818257539886460928",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2088566770324148659",
+        "name": "清凤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818257539886460928/1770919978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021583893238059008/7Mh6eK6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 1029,
+          "like_count": 22168,
+          "listed_count": 6,
+          "media_count": 375,
+          "tweet_count": 1685
+        },
+        "url": "https://t.co/jrg4ChmcVI",
+        "username": "qqqqqf_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2089105089227296915",
+    "created_at": "2026-08-27T01:31:29.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T02:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092787049179021584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1355702176065191938",
+          "start": 0,
+          "username": "yoyo5206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092787049179021584",
+    "in_reply_to_user_id": "1355702176065191938",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092666898475626554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyo5206 qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1119,
+        "media_key": "3_2092666892716752896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqlc5WaQAA5rn4.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2089105089227296915",
+        "created_at": "2026-08-27T01:31:29.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T02:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092787049179021584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1355702176065191938",
+              "start": 0,
+              "username": "yoyo5206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092787049179021584",
+        "in_reply_to_user_id": "1355702176065191938",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092666898475626554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyo5206 qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092666892716752896"
+          ]
+        },
+        "author_id": "1355702176065191938",
+        "conversation_id": "2089105089227296915",
+        "created_at": "2026-08-26T17:34:03.000Z",
+        "display_text_range": [
+          15,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092666898475626554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZZlW6XiNk",
+              "end": 183,
+              "expanded_url": "https://x.com/yoyo5206/status/2092666898475626554/photo/1",
+              "media_key": "3_2092666892716752896",
+              "start": 160,
+              "url": "https://t.co/rZZlW6XiNk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092666898475626554",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092666892716752896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089105089227296915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 如果找不到做的理由\n那就找几个不做的理由吧\n如果还是想，那就一直拼命想接下来的各种问题\n文案、剪辑、素材、商单、互动、数据、引流、社群、如何变现，甚至说要不要加入MCN。这一切附带一个投入大量时间精力但可能血本无归的代价\n\n如果还是没打倒你，甚至压根没感觉到社交恐惧什么的……🫡那就去做吧 https://t.co/rZZlW6XiNk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2092787049179021584",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7448,
+          "following_count": 1082,
+          "like_count": 93924,
+          "listed_count": 25,
+          "media_count": 2304,
+          "tweet_count": 27671
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-31T02:19:39.000Z",
+        "description": "秽土重生",
+        "id": "1355702176065191938",
+        "is_identity_verified": false,
+        "location": "马斯克亲妈坟头",
+        "most_recent_tweet_id": "2092666898475626554",
+        "name": "yoyo250",
+        "pinned_tweet_id": "1763862640802300021",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1355702176065191938/1784598820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079384282037125120/JRUFDRQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 2201,
+          "like_count": 12845,
+          "listed_count": 4,
+          "media_count": 1393,
+          "tweet_count": 4980
+        },
+        "url": "",
+        "username": "yoyo5206",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2092878264289165486",
+    "created_at": "2026-08-27T11:42:11.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092940736560001418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1031670310884573184",
+          "start": 0,
+          "username": "huoshan007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092940736560001418",
+    "in_reply_to_user_id": "1031670310884573184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092878264289165486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huoshan007 我西交利物浦早就可以了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2092878244467138560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtlrL-bYAAWQkR.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2092878264289165486",
+        "created_at": "2026-08-27T11:42:11.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092940736560001418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1031670310884573184",
+              "start": 0,
+              "username": "huoshan007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092940736560001418",
+        "in_reply_to_user_id": "1031670310884573184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092878264289165486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huoshan007 我西交利物浦早就可以了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092878244467138560"
+          ]
+        },
+        "author_id": "1031670310884573184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2092878264289165486",
+        "created_at": "2026-08-27T07:33:56.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092878264289165486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IpGhfd0Qr6",
+              "end": 186,
+              "expanded_url": "https://x.com/huoshan007/status/2092878264289165486/photo/1",
+              "media_key": "3_2092878244467138560",
+              "start": 163,
+              "url": "https://t.co/IpGhfd0Qr6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092878264289165486",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092878244467138560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "兄弟们，刚挖到个野路子，学信网认证居然能过GitHub学生包了。\n\n认证地区选香港； 学校填国内真实高校； 邮箱用Gmail； 上传学信网《教育部学籍在线验证报告》； 最后挂一张WildCard虚拟卡，白嫖GitHub Copilot一年。\n\nGitHub学生包里还有Azure额度、各种开发工具，加起来远超500刀，真香。\n\n我自己试了一下，全程十分钟，一次过。\n\n就是学信网报告要下带二维码那页，别搞错了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 18195,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟们，刚挖到个野路子，学信网认证居然能过GitHub学生包了。\n\n认证地区选香港； 学校填国内真实高校； 邮箱用Gmail； 上传学信网《教育部学籍在线验证报告》； 最后挂一张WildCard虚拟卡，白嫖GitHub Copilot一年。\n\nGitHub学生包里还有Azure额度、各种开发工具，加起来远超500刀，真香。 https://t.co/IpGhfd0Qr6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2092940736560001418",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7449,
+          "following_count": 1082,
+          "like_count": 93977,
+          "listed_count": 25,
+          "media_count": 2304,
+          "tweet_count": 27683
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-08-20T22:32:24.000Z",
+        "description": "16年进入币圈，❤️NFT ❤️BNB，Building @Boredbrain_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "Boredbrain_"
+              }
+            ]
+          }
+        },
+        "id": "1031670310884573184",
+        "is_identity_verified": false,
+        "location": "San Francisco, CA",
+        "most_recent_tweet_id": "2092935684432814489",
+        "name": "火山哥🕊️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1031670310884573184/1752762148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1624007127521198081/yLDcmPZ1_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81805,
+          "following_count": 1241,
+          "like_count": 65256,
+          "listed_count": 259,
+          "media_count": 2172,
+          "tweet_count": 69595
+        },
+        "url": "",
+        "username": "huoshan007",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

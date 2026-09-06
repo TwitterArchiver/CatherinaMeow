@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2091128859404177691",
+    "created_at": "2026-08-22T16:17:31.000Z",
+    "display_text_range": [
+      22,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T17:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091198089772380597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1075956507320053760",
+          "start": 0,
+          "username": "yoyyyttt"
+        },
+        {
+          "end": 21,
+          "id": "756779273155858432",
+          "start": 10,
+          "username": "ScarletKc_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091198089772380597",
+    "in_reply_to_user_id": "1075956507320053760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091194250096488932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyyyttt @ScarletKc_ 如果都不让用中文只能说 Claude 傻逼（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2091128859404177691",
+        "created_at": "2026-08-22T16:17:31.000Z",
+        "display_text_range": [
+          22,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091198089772380597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1075956507320053760",
+              "start": 0,
+              "username": "yoyyyttt"
+            },
+            {
+              "end": 21,
+              "id": "756779273155858432",
+              "start": 10,
+              "username": "ScarletKc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091198089772380597",
+        "in_reply_to_user_id": "1075956507320053760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091194250096488932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyyyttt @ScarletKc_ 如果都不让用中文只能说 Claude 傻逼（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1075956507320053760",
+        "conversation_id": "2091128859404177691",
+        "created_at": "2026-08-22T16:02:16.000Z",
+        "display_text_range": [
+          27,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091194250096488932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            },
+            {
+              "end": 26,
+              "id": "756779273155858432",
+              "start": 15,
+              "username": "ScarletKc_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091194250096488932",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091187593178497211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow @ScarletKc_ 你打中文了吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2091198089772380597",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7405,
+          "following_count": 1084,
+          "like_count": 93541,
+          "listed_count": 24,
+          "media_count": 2297,
+          "tweet_count": 27555
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-21T03:29:56.000Z",
+        "description": "这是人类有史以来最好的时代，是坏人遭报应，蠢人付代价的时代。是对大洪水以后代代积累的罪的基因的彻底净化。之后人类将进入新纪元。即New World Order",
+        "id": "1075956507320053760",
+        "is_identity_verified": false,
+        "location": "New York, USA",
+        "most_recent_tweet_id": "2091194250096488932",
+        "name": "🇮🇱yoyyyttt🇺🇸",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934864116427980802/TS9U5_j-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 553,
+          "like_count": 898,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 3189
+        },
+        "url": "",
+        "username": "yoyyyttt",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-23T09:13:33.000Z",
+        "description": "All in AI",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scarletkc.com",
+                "end": 23,
+                "expanded_url": "https://scarletkc.com/",
+                "start": 0,
+                "url": "https://t.co/YTKXMPj9oL"
+              }
+            ]
+          }
+        },
+        "id": "756779273155858432",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2091197479039676462",
+        "name": "KC",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/756779273155858432/1546229475",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059328812463304704/BXaYGP9k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2996,
+          "following_count": 1047,
+          "like_count": 84475,
+          "listed_count": 7,
+          "media_count": 265,
+          "tweet_count": 7822
+        },
+        "url": "https://t.co/YTKXMPj9oL",
+        "username": "ScarletKc_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

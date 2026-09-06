@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2091582762872373457",
+    "created_at": "2026-08-24T06:06:07.000Z",
+    "display_text_range": [
+      31,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T07:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091769001286504667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1669586639130361856",
+          "start": 0,
+          "username": "mc_xiaomi33396"
+        },
+        {
+          "end": 30,
+          "id": "1346830626683580416",
+          "start": 16,
+          "username": "LUOXIANG_PMTQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091769001286504667",
+    "in_reply_to_user_id": "1669586639130361856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091767659801301175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mc_xiaomi33396 @LUOXIANG_PMTQ hmmmmm 某个体制内的朋友提了 新的护照法的事儿（） 建议我别回来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2091582762872373457",
+        "created_at": "2026-08-24T06:06:07.000Z",
+        "display_text_range": [
+          31,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091769001286504667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1669586639130361856",
+              "start": 0,
+              "username": "mc_xiaomi33396"
+            },
+            {
+              "end": 30,
+              "id": "1346830626683580416",
+              "start": 16,
+              "username": "LUOXIANG_PMTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091769001286504667",
+        "in_reply_to_user_id": "1669586639130361856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091767659801301175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mc_xiaomi33396 @LUOXIANG_PMTQ hmmmmm 某个体制内的朋友提了 新的护照法的事儿（） 建议我别回来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669586639130361856",
+        "conversation_id": "2091582762872373457",
+        "created_at": "2026-08-24T06:00:47.000Z",
+        "display_text_range": [
+          30,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091767659801301175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            },
+            {
+              "end": 29,
+              "id": "1346830626683580416",
+              "start": 15,
+              "username": "LUOXIANG_PMTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091767659801301175",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091692516223705446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow @LUOXIANG_PMTQ 信这个的神了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2091769001286504667",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7423,
+          "following_count": 1083,
+          "like_count": 93739,
+          "listed_count": 24,
+          "media_count": 2300,
+          "tweet_count": 27618
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-16T06:04:21.000Z",
+        "description": "",
+        "id": "1669586639130361856",
+        "is_identity_verified": true,
+        "location": "OM88ru",
+        "most_recent_tweet_id": "2091767659801301175",
+        "name": "BI3AZE",
+        "pinned_tweet_id": "2086113877885059450",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070675574004355072/ZmpPqxk0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 157,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "mc_xiaomi33396",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-06T14:47:08.000Z",
+        "description": "💥关注我你懂的我是：Premium+",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@POMTQ",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@POMTQ",
+                "start": 0,
+                "url": "https://t.co/g52RLr9Mw1"
+              }
+            ]
+          }
+        },
+        "id": "1346830626683580416",
+        "is_identity_verified": false,
+        "location": "火星",
+        "most_recent_tweet_id": "2091644835589443897",
+        "name": "罗翔～破幕推墙",
+        "pinned_tweet_id": "2086373291191599132",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1346830626683580416/1786100414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085719341094305792/Zg8XDd55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349559,
+          "following_count": 20610,
+          "like_count": 145498,
+          "listed_count": 838,
+          "media_count": 17839,
+          "tweet_count": 53666
+        },
+        "url": "https://t.co/g52RLr9Mw1",
+        "username": "LUOXIANG_PMTQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2091894540500394399",
+    "created_at": "2026-08-25T00:24:37.000Z",
+    "display_text_range": [
+      8,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T01:24:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092045445526921658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1865722200185307136",
+          "start": 0,
+          "username": "btcmos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092045445526921658",
+    "in_reply_to_user_id": "1865722200185307136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091894540500394399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@btcmos 战狼别来墨尔本（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_2091894394223992832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfm3kNaIAAwKhS.jpg",
+        "width": 964
+      },
+      {
+        "height": 1172,
+        "media_key": "3_2091894441825218560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfm6VibMAAnSv6.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1286,
+        "media_key": "3_2091894482593894400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfm8tab0AAm14f.jpg",
+        "width": 1284
+      },
+      {
+        "height": 893,
+        "media_key": "3_2091894522624212992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfm_CiaAAABfJ6.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2091894540500394399",
+        "created_at": "2026-08-25T00:24:37.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T01:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092045445526921658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1865722200185307136",
+              "start": 0,
+              "username": "btcmos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092045445526921658",
+        "in_reply_to_user_id": "1865722200185307136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091894540500394399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@btcmos 战狼别来墨尔本（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091894394223992832",
+            "3_2091894441825218560",
+            "3_2091894482593894400",
+            "3_2091894522624212992"
+          ]
+        },
+        "author_id": "1865722200185307136",
+        "conversation_id": "2091894540500394399",
+        "created_at": "2026-08-24T14:24:58.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091894540500394399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkO6gunoRu",
+              "end": 91,
+              "expanded_url": "https://x.com/btcmos/status/2091894540500394399/photo/1",
+              "media_key": "3_2091894394223992832",
+              "start": 68,
+              "url": "https://t.co/dkO6gunoRu"
+            },
+            {
+              "display_url": "pic.x.com/dkO6gunoRu",
+              "end": 91,
+              "expanded_url": "https://x.com/btcmos/status/2091894540500394399/photo/1",
+              "media_key": "3_2091894441825218560",
+              "start": 68,
+              "url": "https://t.co/dkO6gunoRu"
+            },
+            {
+              "display_url": "pic.x.com/dkO6gunoRu",
+              "end": 91,
+              "expanded_url": "https://x.com/btcmos/status/2091894540500394399/photo/1",
+              "media_key": "3_2091894482593894400",
+              "start": 68,
+              "url": "https://t.co/dkO6gunoRu"
+            },
+            {
+              "display_url": "pic.x.com/dkO6gunoRu",
+              "end": 91,
+              "expanded_url": "https://x.com/btcmos/status/2091894540500394399/photo/1",
+              "media_key": "3_2091894522624212992",
+              "start": 68,
+              "url": "https://t.co/dkO6gunoRu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091894540500394399",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091894394223992832"
+          },
+          {
+            "media_key": "3_2091894441825218560"
+          },
+          {
+            "media_key": "3_2091894482593894400"
+          },
+          {
+            "media_key": "3_2091894522624212992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 84307,
+          "like_count": 117,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "最新大事：战狼来了\n\n中国外交部消息——中国驻澳大利亚大使已经抵澳大履新，就是 刘劲松\n\n这大哥就是双手插兜\n训日本外交官的那个刘劲松 https://t.co/dkO6gunoRu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2092045445526921658",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7426,
+          "following_count": 1083,
+          "like_count": 93787,
+          "listed_count": 24,
+          "media_count": 2300,
+          "tweet_count": 27629
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-08T11:37:14.000Z",
+        "description": "美股老韭｜BTC玩家｜加密合约｜AI资讯|AI投资｜数据整理｜WEIBO：香港老雷",
+        "id": "1865722200185307136",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2091915068279754925",
+        "name": "香港老雷",
+        "pinned_tweet_id": "2000961342178779178",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888127766488625152/Fiba7f5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18416,
+          "following_count": 8717,
+          "like_count": 126058,
+          "listed_count": 52,
+          "media_count": 430,
+          "tweet_count": 2521
+        },
+        "url": "",
+        "username": "btcmos",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

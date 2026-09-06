@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2087827485874700574",
+    "created_at": "2026-08-13T11:43:37.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T12:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087867668477132928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2061870177466421248",
+          "start": 0,
+          "username": "PaperFogg2007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087867668477132928",
+    "in_reply_to_user_id": "2061870177466421248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087827485874700574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PaperFogg2007 大受震撼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35438,
+        "height": 1280,
+        "media_key": "13_2087827411975159808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087827411975159808/img/WtEtZBIzvIadnxxk.jpg",
+        "public_metrics": {
+          "view_count": 26992
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087827411975159808/vid/avc1/320x710/kRAPRvZc2WEqJffN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087827411975159808/vid/avc1/480x1066/00gAGy_calAIVJbm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087827411975159808/vid/avc1/576x1280/t-IFLLPm30rqvcvP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087827411975159808/pl/--IzxnBSZytSC4kq.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2087827485874700574",
+        "created_at": "2026-08-13T11:43:37.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087867668477132928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2061870177466421248",
+              "start": 0,
+              "username": "PaperFogg2007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087867668477132928",
+        "in_reply_to_user_id": "2061870177466421248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087827485874700574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaperFogg2007 大受震撼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087827411975159808"
+          ]
+        },
+        "author_id": "2061870177466421248",
+        "conversation_id": "2087827485874700574",
+        "created_at": "2026-08-13T09:03:57.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T10:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087827485874700574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7wlPZG15k",
+              "end": 67,
+              "expanded_url": "https://x.com/PaperFogg2007/status/2087827485874700574/video/1",
+              "media_key": "13_2087827411975159808",
+              "start": 44,
+              "url": "https://t.co/U7wlPZG15k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087827485874700574",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087827411975159808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 33444,
+          "like_count": 339,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "啊？一开始我真的以为是正经的石头……\n没想到有一天真的能在抖音上看片，而且还是3P😰😈 https://t.co/U7wlPZG15k"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2087867668477132928",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7420,
+          "following_count": 1092,
+          "like_count": 93011,
+          "listed_count": 24,
+          "media_count": 2288,
+          "tweet_count": 27462
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-02T17:59:32.000Z",
+        "description": "ᵕ̈喜欢您来！☮︎在下叫福格🌲🌳大一在读🌴🏔️平时喜欢一个人吃饭,旅行和远征📷🏕️喜欢森林,草甸,海洋,湖泊和雪山🚲🚉热爱音乐剧和模拟人生💃ENFP🏃🎾🧦期待熟人私信扩列！🏗️保留锋芒ʕ •ᴥ•ʔ",
+        "id": "2061870177466421248",
+        "is_identity_verified": false,
+        "location": "🌊日落溪谷&柳溪🍁NKG&YTY🌸",
+        "most_recent_tweet_id": "2087859589740179833",
+        "name": "☻福格𐂂🌲",
+        "pinned_tweet_id": "2062769619069513982",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061870177466421248/1786540588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061876257378439168/QLFkOOW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 513,
+          "like_count": 9224,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 4733
+        },
+        "url": "",
+        "username": "PaperFogg2007",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

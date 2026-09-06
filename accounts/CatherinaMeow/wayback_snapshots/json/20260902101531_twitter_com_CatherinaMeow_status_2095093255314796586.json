@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2094807177261379797",
+    "created_at": "2026-09-02T10:15:31.000Z",
+    "display_text_range": [
+      8,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T11:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095093255314796586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1560129932524544000",
+          "start": 0,
+          "username": "xijiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095093255314796586",
+    "in_reply_to_user_id": "1560129932524544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094807177261379797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijiu_ 因为曾经很便宜（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2094807162530983936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJAA_uacAAKTo7.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2094807162560417794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJAA_1bkAIkpCc.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2094807162531074048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRJAA_ub0AAycND.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2094807177261379797",
+        "created_at": "2026-09-02T10:15:31.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T11:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095093255314796586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1560129932524544000",
+              "start": 0,
+              "username": "xijiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095093255314796586",
+        "in_reply_to_user_id": "1560129932524544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094807177261379797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijiu_ 因为曾经很便宜（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094807162530983936",
+            "3_2094807162560417794",
+            "3_2094807162531074048"
+          ]
+        },
+        "author_id": "1560129932524544000",
+        "conversation_id": "2094807177261379797",
+        "created_at": "2026-09-01T15:18:45.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094807177261379797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ud69bZ7X3Z",
+              "end": 95,
+              "expanded_url": "https://x.com/xijiu_/status/2094807177261379797/photo/1",
+              "media_key": "3_2094807162530983936",
+              "start": 72,
+              "url": "https://t.co/ud69bZ7X3Z"
+            },
+            {
+              "display_url": "pic.x.com/ud69bZ7X3Z",
+              "end": 95,
+              "expanded_url": "https://x.com/xijiu_/status/2094807177261379797/photo/1",
+              "media_key": "3_2094807162560417794",
+              "start": 72,
+              "url": "https://t.co/ud69bZ7X3Z"
+            },
+            {
+              "display_url": "pic.x.com/ud69bZ7X3Z",
+              "end": 95,
+              "expanded_url": "https://x.com/xijiu_/status/2094807177261379797/photo/1",
+              "media_key": "3_2094807162531074048",
+              "start": 72,
+              "url": "https://t.co/ud69bZ7X3Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094807177261379797",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094807162530983936"
+          },
+          {
+            "media_key": "3_2094807162560417794"
+          },
+          {
+            "media_key": "3_2094807162531074048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4052,
+          "like_count": 17,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是我打开方式有问题还是大家对便宜有什么误解……两千多……虽然对比八百的特需确实不贵但是便宜在哪儿……我承认我就是穷鬼但是我有钱我就去pai了啊 https://t.co/ud69bZ7X3Z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2095093255314796586",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7458,
+          "following_count": 1081,
+          "like_count": 94474,
+          "listed_count": 25,
+          "media_count": 2308,
+          "tweet_count": 27730
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-18T05:02:26.000Z",
+        "description": "🏳️‍⚧️|生命久如暗室，不妨碍我明写春诗|I’m Nicy , a freshman majoring in chemistry from China.| The Jesus loves us equally.",
+        "id": "1560129932524544000",
+        "is_identity_verified": false,
+        "location": "被有机实验室炸飞的电化学实验室",
+        "most_recent_tweet_id": "2095092929874559429",
+        "name": "希玖.",
+        "pinned_tweet_id": "1858024741422117307",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560129932524544000/1742003483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799273016024846336/s8YOvPfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3732,
+          "following_count": 862,
+          "like_count": 211731,
+          "listed_count": 3,
+          "media_count": 759,
+          "tweet_count": 10152
+        },
+        "url": "",
+        "username": "xijiu_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

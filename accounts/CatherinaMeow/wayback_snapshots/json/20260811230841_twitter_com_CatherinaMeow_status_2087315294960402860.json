@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2087142301307138138",
+    "created_at": "2026-08-11T23:08:41.000Z",
+    "display_text_range": [
+      10,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T00:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087315294960402860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1218028959109210113",
+          "start": 0,
+          "username": "RizumuA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087315294960402860",
+    "in_reply_to_user_id": "1218028959109210113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087142301307138138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RizumuA3 m5stack家的小硬件都挺有意思的 \n\n我最近在用stick s3接openclaw 想做成随身命令方块"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2087142291651895296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcE2ymbIAAQ5Xl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087142291635126272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcE2yibQAAJWWS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087142291681230848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPcE2ytawAArIyW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2087142301307138138",
+        "created_at": "2026-08-11T23:08:41.000Z",
+        "display_text_range": [
+          10,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T00:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087315294960402860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1218028959109210113",
+              "start": 0,
+              "username": "RizumuA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087315294960402860",
+        "in_reply_to_user_id": "1218028959109210113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087142301307138138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RizumuA3 m5stack家的小硬件都挺有意思的 \n\n我最近在用stick s3接openclaw 想做成随身命令方块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087142291651895296",
+            "3_2087142291635126272",
+            "3_2087142291681230848"
+          ]
+        },
+        "author_id": "1218028959109210113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2087142301307138138",
+        "created_at": "2026-08-11T11:41:16.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087142301307138138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jDzFH4CouJ",
+              "end": 180,
+              "expanded_url": "https://x.com/RizumuA3/status/2087142301307138138/photo/1",
+              "media_key": "3_2087142291651895296",
+              "start": 157,
+              "url": "https://t.co/jDzFH4CouJ"
+            },
+            {
+              "display_url": "pic.x.com/jDzFH4CouJ",
+              "end": 180,
+              "expanded_url": "https://x.com/RizumuA3/status/2087142301307138138/photo/1",
+              "media_key": "3_2087142291635126272",
+              "start": 157,
+              "url": "https://t.co/jDzFH4CouJ"
+            },
+            {
+              "display_url": "pic.x.com/jDzFH4CouJ",
+              "end": 180,
+              "expanded_url": "https://x.com/RizumuA3/status/2087142301307138138/photo/1",
+              "media_key": "3_2087142291681230848",
+              "start": 157,
+              "url": "https://t.co/jDzFH4CouJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087142301307138138",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087142291651895296"
+          },
+          {
+            "media_key": "3_2087142291635126272"
+          },
+          {
+            "media_key": "3_2087142291681230848"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "M5Stack 这个圆形屏幕的 StopWatch 用来做计时器很不错。所以移植重制了一个新的之前在 Cardputer 上写过的专注计时器。\n\n我的设计就是非常适合容易分心和没有时间流逝观念的 ADHD 用来预估时间和进行分心提醒。但是不适合用于精确计时。\n\n类似于那种按键式微波炉的设计。按下会加 5分钟或者 30秒。想要不同的时间就是多次点击。熟练了之后都是可以快速盲操。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1938,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "M5Stack 这个圆形屏幕的 StopWatch 用来做计时器很不错。所以移植重制了一个新的之前在 Cardputer 上写过的专注计时器。\n\n我的设计就是非常适合容易分心和没有时间流逝观念的 ADHD 用来预估时间和进行分心提醒。但是不适合用于精确计时。\n\n类似于那种按键式微波炉的设计。按下会加 5分钟或者 https://t.co/jDzFH4CouJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2087315294960402860",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7405,
+          "following_count": 1090,
+          "like_count": 92930,
+          "listed_count": 24,
+          "media_count": 2282,
+          "tweet_count": 27430
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 LittleSound｜💚 Member of Vue，参与开发 Vapor 模式中｜🪀 玩 3D 打印并制作了大量程序员周边｜ 🔥热爱开源｜Pride → 🧠 AuDHD、🏳️‍⚧️ she/her｜🎮 喜欢玩 魂系、任天堂游戏｜🐙: LittleSound",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rizumu.me",
+                "end": 23,
+                "expanded_url": "https://rizumu.me",
+                "start": 0,
+                "url": "https://t.co/n9mkxZ2oxy"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087246332889321746",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1218028959109210113/1752555049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12394,
+          "following_count": 1613,
+          "like_count": 45942,
+          "listed_count": 60,
+          "media_count": 2026,
+          "tweet_count": 15315
+        },
+        "url": "https://t.co/n9mkxZ2oxy",
+        "username": "RizumuA3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2086704818723430449",
+    "created_at": "2026-08-10T07:04:16.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T08:04:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086710204054589836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1643779014694408193",
+          "start": 0,
+          "username": "Freya_LXY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086710204054589836",
+    "in_reply_to_user_id": "1643779014694408193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086708987006009710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freya_LXY 好咪ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2086704818723430449",
+        "created_at": "2026-08-10T07:04:16.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086710204054589836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1643779014694408193",
+              "start": 0,
+              "username": "Freya_LXY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086710204054589836",
+        "in_reply_to_user_id": "1643779014694408193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086708987006009710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freya_LXY 好咪ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1643779014694408193",
+        "conversation_id": "2086704818723430449",
+        "created_at": "2026-08-10T06:59:26.000Z",
+        "display_text_range": [
+          15,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T07:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086708987006009710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086708987006009710",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086704818723430449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 你得先展现价值，而这是一个过程。\n你在国内被视若珍宝也不是第一天就出现的情况。\n现在就是多去Office hour，和教授熟悉，不经意间展现你过去的能力。\n国外更是人情社会，澳洲怎么样我不清楚，但是和美国的情况我觉得八九不离十"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2086710204054589836",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7398,
+          "following_count": 1093,
+          "like_count": 92807,
+          "listed_count": 24,
+          "media_count": 2280,
+          "tweet_count": 27407
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-06T00:53:59.000Z",
+        "description": "整活 废话 照片💖",
+        "id": "1643779014694408193",
+        "is_identity_verified": false,
+        "location": "2.75km",
+        "most_recent_tweet_id": "2086709147811348966",
+        "name": "Freya😇",
+        "pinned_tweet_id": "1888913451587911680",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643779014694408193/1696774053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935559252245905408/nOkWLac9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4132,
+          "following_count": 1154,
+          "like_count": 7034,
+          "listed_count": 19,
+          "media_count": 73,
+          "tweet_count": 2234
+        },
+        "url": "",
+        "username": "Freya_LXY",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

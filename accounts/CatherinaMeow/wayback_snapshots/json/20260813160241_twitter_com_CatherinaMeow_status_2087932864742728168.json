@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2087932864742728168",
+    "created_at": "2026-08-13T16:02:41.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:02:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087932864742728168"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 132,
+          "start": 121,
+          "tag": "数字员工Jarvis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087932864742728168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从开始自己改openclaw以来 第一次回滚一整个模块（） \n\n这两天想升级邮件模块 把单封邮件的时长从3分钟缩短到1分钟 然后没想到整个模块直接出了一堆不可测的bug\n\n被迫回滚到3天前到版本（）\n\n可能晚几天给大家介绍Jarvis了得\n\n#数字员工Jarvis"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2087932864742728168",
+        "created_at": "2026-08-13T16:02:41.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087932864742728168"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 132,
+              "start": 121,
+              "tag": "数字员工Jarvis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087932864742728168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从开始自己改openclaw以来 第一次回滚一整个模块（） \n\n这两天想升级邮件模块 把单封邮件的时长从3分钟缩短到1分钟 然后没想到整个模块直接出了一堆不可测的bug\n\n被迫回滚到3天前到版本（）\n\n可能晚几天给大家介绍Jarvis了得\n\n#数字员工Jarvis"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2087932864742728168",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7416,
+          "following_count": 1093,
+          "like_count": 93037,
+          "listed_count": 24,
+          "media_count": 2290,
+          "tweet_count": 27468
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2092834895546695769",
+    "created_at": "2026-08-27T11:39:11.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092939984659718249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1520156802368753664",
+          "start": 0,
+          "username": "sisiisablackcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092939984659718249",
+    "in_reply_to_user_id": "1520156802368753664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092834895546695769",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sisiisablackcat 窜了算吗（划掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2092834895546695769",
+        "created_at": "2026-08-27T11:39:11.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092939984659718249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520156802368753664",
+              "start": 0,
+              "username": "sisiisablackcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092939984659718249",
+        "in_reply_to_user_id": "1520156802368753664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092834895546695769",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sisiisablackcat 窜了算吗（划掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520156802368753664",
+        "conversation_id": "2092834895546695769",
+        "created_at": "2026-08-27T04:41:36.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092834895546695769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092834895546695769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天中元节\n祝大伙入睡顺利\n拉屎特通畅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2092939984659718249",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7449,
+          "following_count": 1082,
+          "like_count": 93975,
+          "listed_count": 25,
+          "media_count": 2304,
+          "tweet_count": 27682
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-29T21:43:37.000Z",
+        "description": "🏳️‍⚧️MtX/是一只小黑猫/人类友好/吐槽役（捧哏）/擅长做白日梦/棒棒糖驱动/咖啡因免疫/拖延癌晚期/唯有睡眠为我带来长久的安宁，睡门💤/小黑猫的结局，就是在某个夜晚，将身形溶进黑暗里，再也找不见了捏。",
+        "id": "1520156802368753664",
+        "is_identity_verified": false,
+        "location": "阴暗的小窝",
+        "most_recent_tweet_id": "2092846957282857039",
+        "name": "肆肆肆肆",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520156802368753664/1677630990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083228040939921413/Rp4sBET3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 787,
+          "following_count": 329,
+          "like_count": 29524,
+          "listed_count": 9,
+          "media_count": 7193,
+          "tweet_count": 22622
+        },
+        "url": "",
+        "username": "sisiisablackcat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

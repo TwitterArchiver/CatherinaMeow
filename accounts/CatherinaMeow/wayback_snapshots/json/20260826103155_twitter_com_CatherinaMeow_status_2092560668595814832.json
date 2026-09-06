@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2092523246168285368",
+    "created_at": "2026-08-26T10:31:55.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092560668595814832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1259887178",
+          "start": 0,
+          "username": "AsadaYuki_Art"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092560668595814832",
+    "in_reply_to_user_id": "1259887178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092543238410486217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsadaYuki_Art 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2092523246168285368",
+        "created_at": "2026-08-26T10:31:55.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092560668595814832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1259887178",
+              "start": 0,
+              "username": "AsadaYuki_Art"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092560668595814832",
+        "in_reply_to_user_id": "1259887178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092543238410486217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsadaYuki_Art 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1259887178",
+        "conversation_id": "2092523246168285368",
+        "created_at": "2026-08-26T09:22:40.000Z",
+        "display_text_range": [
+          15,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:22:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092543238410486217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092543238410486217",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092523246168285368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 退一万步说 他怎么能把 对他没用的卡都揣走了 补卡很麻烦的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2092560668595814832",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7438,
+          "following_count": 1083,
+          "like_count": 93877,
+          "listed_count": 25,
+          "media_count": 2304,
+          "tweet_count": 27662
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-03-11T16:41:09.000Z",
+        "description": "if…\n史莱姆无处不在\nINFP-T / 极度厌蠢症 / 不吃压力之人，你压我就碎\n借死悟道 以道成商 / 我们的心愿世界和平\n把温柔和爱细腻刻画在生活点滴中\nUltimate Skill - ｢Raphael/シエル｣ \nLet's start fresh.\nhello@yuki.art",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuki.art",
+                "end": 23,
+                "expanded_url": "https://www.yuki.art/",
+                "start": 0,
+                "url": "https://t.co/NGsZjhXD6O"
+              }
+            ]
+          }
+        },
+        "id": "1259887178",
+        "is_identity_verified": false,
+        "location": "ジュラ・テンペスト連邦国",
+        "most_recent_tweet_id": "2092544763769893026",
+        "name": "Asada-Yuki Genderless Blue Slime (Egoist)",
+        "pinned_tweet_id": "2078483037877412100",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1259887178/1787392742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091102345883181056/6nLrq3dr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7753,
+          "following_count": 546,
+          "like_count": 5252,
+          "listed_count": 18,
+          "media_count": 912,
+          "tweet_count": 7119
+        },
+        "url": "https://t.co/NGsZjhXD6O",
+        "username": "AsadaYuki_Art",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

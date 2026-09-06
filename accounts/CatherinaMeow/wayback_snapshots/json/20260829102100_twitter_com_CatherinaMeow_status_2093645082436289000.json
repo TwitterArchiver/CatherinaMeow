@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2093473994158792739",
+    "created_at": "2026-08-29T10:21:00.000Z",
+    "display_text_range": [
+      15,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T11:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093645082436289000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1642927710313021440",
+          "start": 0,
+          "username": "aozhoumujiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093645082436289000",
+    "in_reply_to_user_id": "1642927710313021440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093473994158792739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aozhoumujiang 我就在东区 也没听说啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2093473994158792739",
+        "created_at": "2026-08-29T10:21:00.000Z",
+        "display_text_range": [
+          15,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T11:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093645082436289000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1642927710313021440",
+              "start": 0,
+              "username": "aozhoumujiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093645082436289000",
+        "in_reply_to_user_id": "1642927710313021440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093473994158792739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aozhoumujiang 我就在东区 也没听说啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1642927710313021440",
+        "conversation_id": "2093473994158792739",
+        "created_at": "2026-08-28T23:01:09.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T00:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093473994158792739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093473994158792739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4658,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到个毛骨悚然的新闻，墨尔本东区数十名青少年集体自杀，这就是所谓的世界宜居城市"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2093645082436289000",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7451,
+          "following_count": 1081,
+          "like_count": 94027,
+          "listed_count": 25,
+          "media_count": 2305,
+          "tweet_count": 27697
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-03T16:31:23.000Z",
+        "description": "澳大利亚木工｜AI时代第一批改行蓝领的程序员｜没事别来澳大利亚学挨踢了｜天天盖房子帮澳洲降房价｜阿德莱德形象宣传大湿｜有问题请私信｜交流群https://t.co/I5DNRRbOim",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+z9X5GZHwLF85M…",
+                "end": 92,
+                "expanded_url": "https://t.me/+z9X5GZHwLF85MDY1",
+                "start": 69,
+                "url": "https://t.co/I5DNRRbOim"
+              }
+            ]
+          }
+        },
+        "id": "1642927710313021440",
+        "is_identity_verified": false,
+        "location": "Australia",
+        "most_recent_tweet_id": "2093629123881312748",
+        "name": "澳洲木匠",
+        "pinned_tweet_id": "1984951196864725437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1642927710313021440/1754143571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951056246838272005/Fy9Nh0YI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3176,
+          "following_count": 205,
+          "like_count": 15120,
+          "listed_count": 22,
+          "media_count": 415,
+          "tweet_count": 6083
+        },
+        "url": "",
+        "username": "aozhoumujiang",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

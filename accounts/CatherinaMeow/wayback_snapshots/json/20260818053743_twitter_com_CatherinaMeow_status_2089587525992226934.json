@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2081961361614004633",
+    "created_at": "2026-08-18T05:37:43.000Z",
+    "display_text_range": [
+      9,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089587525992226934"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "961832160377282560",
+          "start": 0,
+          "username": "iMoeAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089587525992226934",
+    "in_reply_to_user_id": "961832160377282560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081961361614004633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iMoeAya 第五修正案似乎管不到海关（思考）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2081961361614004633",
+        "created_at": "2026-08-18T05:37:43.000Z",
+        "display_text_range": [
+          9,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089587525992226934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "961832160377282560",
+              "start": 0,
+              "username": "iMoeAya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089587525992226934",
+        "in_reply_to_user_id": "961832160377282560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081961361614004633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iMoeAya 第五修正案似乎管不到海关（思考）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961832160377282560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1456017465780019202",
+              "name": "PassCode"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1456017465780019202",
+              "name": "PassCode"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1456017465780019202",
+              "name": "PassCode"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Atlanta",
+              "id": "908360693363105792",
+              "name": "Atlanta"
+            }
+          }
+        ],
+        "conversation_id": "2081961361614004633",
+        "created_at": "2026-07-28T04:34:04.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-28T05:22:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081958423550107974",
+          "2081961361614004633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sans_Google/st…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/Sans_Google/status/2081025402827354553",
+              "start": 133,
+              "url": "https://t.co/GBMvFWCuYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081961361614004633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "因为输入手机自毁密码而被美国政府起诉第一人。这带来几个问题\n对于外国人而言，边检权力极大，拒绝审查可以被遣返，对于美国人而言边检不可以拒绝公民入境，拒绝检查也不得遣返，需要法院的搜查令才可以要求检查。没有搜查令的边检是否有权利无视第四修正案检查美国公民的手机信息？\n抹除一部没有认定为证据（甚至里面有什么都不知道）的手机是否属于破坏证据？如果是证据，是什么罪的证据？可以通过任意臆想揣测来定罪么？\n抹除手机内的信息为什么会被起诉“破坏财产以防止被扣押” ？因为手机并没有被破坏，可以被扣押。\n如果司法部认为他抹除手机是为了妨碍审查和扣押。那么是不是意味着以后公民在手机上删除任何数据都是意图防止被突然审查扣押？回国前清空一次手机数据，边检可以直接抓捕。\n是否有拒绝自证其罪的第五修正案权力？\n脑内记忆的密码是否有拒绝透露的权力？\n抹除手机信息无非等于是将拒绝解密的立场确定下来且不可更改，其结果和维持加密完全一致，通常是为了防止受到暴力拷问所以将加密信息变的永远不可解密。那么公民是否有利用加密技术加密个人信息的权力？使用加密技术行为是否被法律保护？\n如果目的在于审查个人信息，那么以后使用全新一次性手机通过边检是否合法？\n最后 一般只有极权性质的独裁国家才会强迫公民展示一切个人信息和隐私，因为政府视每一个公民为潜在的敌人，或者不视为人，不需要任何权利。美国也在踩地板油加入这个行列"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8056,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081025402827354553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为输入手机自毁密码而被美国政府起诉第一人。这带来几个问题\n对于外国人而言，边检权力极大，拒绝审查可以被遣返，对于美国人而言边检不可以拒绝公民入境，拒绝检查也不得遣返，需要法院的搜查令才可以要求检查。没有搜查令的边检是否有权利无视第四修正案检查美国公民的手机信息？ https://t.co/GBMvFWCuYx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2089587525992226934",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7406,
+          "following_count": 1086,
+          "like_count": 93219,
+          "listed_count": 24,
+          "media_count": 2296,
+          "tweet_count": 27515
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-02-09T05:20:31.000Z",
+        "description": "MTF/神楽坂/m属性⛓️/被B不恼/硬件DIY/玄学党🎧/响酱赛高💖/有主人📝 /Ingress🌱/风景摄影📷 /coser/🏳️‍🌈/G+难民/开发5cm/纯个人向分享推/不卖货🙅🏻‍♀️想要拍出可爱撩人的照片～喜欢请点个♥吧～萌绫会很开心的✧٩(ˊωˋ*)و\n无任何小号,所有自称小号都是冒充",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MoeAya",
+                "end": 23,
+                "expanded_url": "https://t.me/MoeAya",
+                "start": 0,
+                "url": "https://t.co/3v3qwKUA0k"
+              }
+            ]
+          }
+        },
+        "id": "961832160377282560",
+        "is_identity_verified": false,
+        "location": "新宿 神楽坂",
+        "most_recent_tweet_id": "2089404457071129086",
+        "name": "神楽坂 萌绫🏳️‍⚧️",
+        "pinned_tweet_id": "1913122531071975435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/961832160377282560/1734410948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974770448509595648/kkt3Z048_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43119,
+          "following_count": 5046,
+          "like_count": 192427,
+          "listed_count": 159,
+          "media_count": 1201,
+          "tweet_count": 36426
+        },
+        "url": "https://t.co/3v3qwKUA0k",
+        "username": "iMoeAya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

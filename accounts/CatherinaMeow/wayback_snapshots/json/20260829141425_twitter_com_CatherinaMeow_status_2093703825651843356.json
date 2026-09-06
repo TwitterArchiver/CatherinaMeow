@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2093689779775045956",
+    "created_at": "2026-08-29T14:14:25.000Z",
+    "display_text_range": [
+      14,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T15:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093703825651843356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1356514988223918080",
+          "start": 0,
+          "username": "StarrySkyOvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093703825651843356",
+    "in_reply_to_user_id": "1356514988223918080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093689779775045956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@StarrySkyOvO 唉 我今年2月买的 m4m 真49年入国军（） 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2093689779775045956",
+        "created_at": "2026-08-29T14:14:25.000Z",
+        "display_text_range": [
+          14,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T15:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093703825651843356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1356514988223918080",
+              "start": 0,
+              "username": "StarrySkyOvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093703825651843356",
+        "in_reply_to_user_id": "1356514988223918080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093689779775045956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StarrySkyOvO 唉 我今年2月买的 m4m 真49年入国军（） 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356514988223918080",
+        "conversation_id": "2093689779775045956",
+        "created_at": "2026-08-29T13:18:37.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093689779775045956"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093689779775045956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 228,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算等10月份m6的mbp上市再买m5的mbp🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2093703825651843356",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7450,
+          "following_count": 1080,
+          "like_count": 94079,
+          "listed_count": 25,
+          "media_count": 2305,
+          "tweet_count": 27700
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-02T08:09:33.000Z",
+        "description": " EN/漢語/日本語 INFP-T Dev. 💻+📷微单+🎧重度发烧友 05后 友🏳️‍🌈 常驻武汉 接场照正片📷接旅拍私房 逃生舱@StarrySkyUS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "StarrySkyUS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/StarrySkyOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/StarrySkyOvO",
+                "start": 0,
+                "url": "https://t.co/qZoRN6mwUP"
+              }
+            ]
+          }
+        },
+        "id": "1356514988223918080",
+        "is_identity_verified": false,
+        "location": "🚪0 欢迎扩列",
+        "most_recent_tweet_id": "2093694004907086323",
+        "name": "StarrySky",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356514988223918080/1722527030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005986133562605569/Z0ysuDeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4618,
+          "following_count": 3458,
+          "like_count": 90552,
+          "listed_count": 17,
+          "media_count": 2460,
+          "tweet_count": 22532
+        },
+        "url": "https://t.co/qZoRN6mwUP",
+        "username": "StarrySkyOvO",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

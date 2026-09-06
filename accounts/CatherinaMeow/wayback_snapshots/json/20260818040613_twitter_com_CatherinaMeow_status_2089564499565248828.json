@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2089535793387991167",
+    "created_at": "2026-08-18T04:06:13.000Z",
+    "display_text_range": [
+      19,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T05:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089564499565248828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1758464223552925697",
+          "start": 0,
+          "username": "zm_bad"
+        },
+        {
+          "end": 18,
+          "id": "1596913744403378177",
+          "start": 8,
+          "username": "yaosiscom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089564499565248828",
+    "in_reply_to_user_id": "1758464223552925697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089546036398453039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zm_bad @yaosiscom m4max也够 我实测"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2089535793387991167",
+        "created_at": "2026-08-18T04:06:13.000Z",
+        "display_text_range": [
+          19,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T05:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089564499565248828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1758464223552925697",
+              "start": 0,
+              "username": "zm_bad"
+            },
+            {
+              "end": 18,
+              "id": "1596913744403378177",
+              "start": 8,
+              "username": "yaosiscom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089564499565248828",
+        "in_reply_to_user_id": "1758464223552925697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089546036398453039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zm_bad @yaosiscom m4max也够 我实测"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758464223552925697",
+        "conversation_id": "2089535793387991167",
+        "created_at": "2026-08-18T02:52:51.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089546036398453039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1596913744403378177",
+              "start": 0,
+              "username": "yaosiscom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089546036398453039",
+        "in_reply_to_user_id": "1596913744403378177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089535793387991167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yaosiscom 什么配置的啊？得M5 Max吧？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2089564499565248828",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7405,
+          "following_count": 1086,
+          "like_count": 93171,
+          "listed_count": 24,
+          "media_count": 2296,
+          "tweet_count": 27510
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-16T12:12:14.000Z",
+        "description": "Building DAG-chat, headroom & kuan-chat. AI Agent + full-stack. Spec-driven vibe coding. Dialog topology, MCP harness.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ZM-BAD",
+                "end": 23,
+                "expanded_url": "https://github.com/ZM-BAD",
+                "start": 0,
+                "url": "https://t.co/Te32LKTFFQ"
+              }
+            ]
+          }
+        },
+        "id": "1758464223552925697",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2089546425474728351",
+        "name": "ZM-BAD",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1758464223552925697/1785857975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758464300052807680/eaNBfn5f_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 100,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 105
+        },
+        "url": "https://t.co/Te32LKTFFQ",
+        "username": "zm_bad",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-27T17:08:22.000Z",
+        "description": "🌟 Retire by 35! One billion is enough! 💰✨\nNavigation : https://t.co/8WpyzDSdwM \nAI Api：https://t.co/wvtfM95Ase\nImagic：https://t.co/zeZXyKmPnD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "navtoai.com",
+                "end": 78,
+                "expanded_url": "https://navtoai.com",
+                "start": 55,
+                "url": "https://t.co/8WpyzDSdwM"
+              },
+              {
+                "display_url": "sub2api.navtoai.com",
+                "end": 110,
+                "expanded_url": "https://sub2api.navtoai.com",
+                "start": 87,
+                "url": "https://t.co/wvtfM95Ase"
+              },
+              {
+                "display_url": "imagic.art",
+                "end": 141,
+                "expanded_url": "https://imagic.art",
+                "start": 118,
+                "url": "https://t.co/zeZXyKmPnD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaosis.com",
+                "end": 23,
+                "expanded_url": "https://yaosis.com",
+                "start": 0,
+                "url": "https://t.co/qHoAcZjV62"
+              }
+            ]
+          }
+        },
+        "id": "1596913744403378177",
+        "is_identity_verified": true,
+        "location": "silicon valley",
+        "most_recent_tweet_id": "2089560404095807574",
+        "name": "Yaosis",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596913744403378177/1735020354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871437115822944257/wETwEDQD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8449,
+          "following_count": 1219,
+          "like_count": 16993,
+          "listed_count": 66,
+          "media_count": 2804,
+          "tweet_count": 21566
+        },
+        "url": "https://t.co/qHoAcZjV62",
+        "username": "yaosiscom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

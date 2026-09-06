@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088835894338060288"
+      ]
+    },
+    "author_id": "1600208165269741570",
+    "conversation_id": "2088835900910571598",
+    "created_at": "2026-08-16T03:51:02.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T04:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088835900910571598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/luy0FoYELN",
+          "end": 61,
+          "expanded_url": "https://x.com/CatherinaMeow/status/2088835900910571598/photo/1",
+          "media_key": "3_2088835894338060288",
+          "start": 38,
+          "url": "https://t.co/luy0FoYELN"
+        },
+        {
+          "display_url": "x.com/lanziilove/sta…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/lanziilove/status/2088532750613852612",
+          "start": 62,
+          "url": "https://t.co/4SBTtNllG3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088835900910571598",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088835894338060288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088532750613852612",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还得汇丰国际转账0手续0电汇 \n汇丰环球转账好 我的第一笔房租就是汇丰付的 https://t.co/luy0FoYELN https://t.co/4SBTtNllG3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2088835894338060288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0JLcQbAAACqBx.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088532741050785792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPv1dmQa4AADkLk.jpg",
+        "width": 938
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088835894338060288"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "conversation_id": "2088835900910571598",
+        "created_at": "2026-08-16T03:51:02.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T04:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088835900910571598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/luy0FoYELN",
+              "end": 61,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2088835900910571598/photo/1",
+              "media_key": "3_2088835894338060288",
+              "start": 38,
+              "url": "https://t.co/luy0FoYELN"
+            },
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/lanziilove/status/2088532750613852612",
+              "start": 62,
+              "url": "https://t.co/4SBTtNllG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088835900910571598",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088835894338060288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088532750613852612",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还得汇丰国际转账0手续0电汇 \n汇丰环球转账好 我的第一笔房租就是汇丰付的 https://t.co/luy0FoYELN https://t.co/4SBTtNllG3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088532741050785792"
+          ]
+        },
+        "author_id": "1510447851507261445",
+        "conversation_id": "2088532750613852612",
+        "created_at": "2026-08-15T07:46:25.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088532750613852612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/turtvZe4Kv",
+              "end": 48,
+              "expanded_url": "https://x.com/LanziiLove/status/2088532750613852612/photo/1",
+              "media_key": "3_2088532741050785792",
+              "start": 25,
+              "url": "https://t.co/turtvZe4Kv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088532750613852612",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088532741050785792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9844,
+          "like_count": 92,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "交SRS定金转了600刀抽了我300块，我尼玛啊 https://t.co/turtvZe4Kv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2088835900910571598",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7416,
+          "following_count": 1091,
+          "like_count": 92889,
+          "listed_count": 24,
+          "media_count": 2292,
+          "tweet_count": 27479
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "纯绿生活向 甜蜜纯爱情侣日常｜20岁纯情恋爱脑小女孩｜我的永生挚爱男友然桑@dexy0306❤️目标是25岁时和他结婚｜常驻成都 大二计科 摆烂老登｜26.3.1 HRT💊27.2.13 SRS｜SRS日记 https://t.co/kPiH5nVpNd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "dexy0306"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+BWAHmodoTuNhN…",
+                "end": 127,
+                "expanded_url": "https://t.me/+BWAHmodoTuNhNTU1",
+                "start": 104,
+                "url": "https://t.co/kPiH5nVpNd"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "is_identity_verified": false,
+        "location": "然然的心里",
+        "most_recent_tweet_id": "2088790873052160327",
+        "name": "雫丶Shizuku✨DUCEXY",
+        "pinned_tweet_id": "2078125932792156424",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1510447851507261445/1785795417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078512401125978112/NVk09Bdv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30206,
+          "following_count": 1642,
+          "like_count": 3812,
+          "listed_count": 86,
+          "media_count": 532,
+          "tweet_count": 3448
+        },
+        "url": "",
+        "username": "LanziiLove",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

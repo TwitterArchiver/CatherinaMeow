@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2092445606157636037",
+    "created_at": "2026-08-26T03:01:28.000Z",
+    "display_text_range": [
+      15,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T04:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092447306029371845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1356940397956620288",
+          "start": 0,
+          "username": "NyaCookieNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092447306029371845",
+    "in_reply_to_user_id": "1356940397956620288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092445948253544951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NyaCookieNeko 不了不了 虽然选号免费 但是月费不便宜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2092445606157636037",
+        "created_at": "2026-08-26T03:01:28.000Z",
+        "display_text_range": [
+          15,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092447306029371845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1356940397956620288",
+              "start": 0,
+              "username": "NyaCookieNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092447306029371845",
+        "in_reply_to_user_id": "1356940397956620288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092445948253544951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NyaCookieNeko 不了不了 虽然选号免费 但是月费不便宜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356940397956620288",
+        "conversation_id": "2092445606157636037",
+        "created_at": "2026-08-26T02:56:04.000Z",
+        "display_text_range": [
+          15,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092445948253544951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092445948253544951",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092445606157636037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 你不许拿奇妙小数字和我通电话"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜某司高管(逃)｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 137,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2092447306029371845",
+        "name": "Catherina（赛博咬人黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7432,
+          "following_count": 1083,
+          "like_count": 93855,
+          "listed_count": 25,
+          "media_count": 2300,
+          "tweet_count": 27649
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-03T12:19:48.000Z",
+        "description": "🛒🍪🐱｜入睡困难｜阴间作息｜社恐但不完全社恐｜性别是饼干｜养了只小黑猫叫多多｜低山臭水遇知音穷山恶水双子星@CatherinaMeow",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 53,
+                "username": "CatherinaMeow"
+              }
+            ]
+          }
+        },
+        "id": "1356940397956620288",
+        "is_identity_verified": false,
+        "location": "Shijiazhuang/Beijing/Suzhou",
+        "most_recent_tweet_id": "2092446915371897146",
+        "name": "手推饼干猫🛒🍪🐱",
+        "pinned_tweet_id": "2042983254421340219",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356940397956620288/1756009514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018637275614363648/vW4y4RPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9437,
+          "following_count": 2945,
+          "like_count": 18077,
+          "listed_count": 15,
+          "media_count": 996,
+          "tweet_count": 10048
+        },
+        "url": "",
+        "username": "NyaCookieNeko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
