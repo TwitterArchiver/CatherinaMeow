@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2095870474391822577",
+    "created_at": "2026-09-05T03:46:47.000Z",
+    "display_text_range": [
+      14,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T04:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096082588553425146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1730923014471180288",
+          "start": 0,
+          "username": "lxltanya1811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096082588553425146",
+    "in_reply_to_user_id": "1730923014471180288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095950112271094175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxltanya1811 我们这里HD GPA 是4.0 然后 D是3.0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2095870474391822577",
+        "created_at": "2026-09-05T03:46:47.000Z",
+        "display_text_range": [
+          14,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T04:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096082588553425146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1730923014471180288",
+              "start": 0,
+              "username": "lxltanya1811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096082588553425146",
+        "in_reply_to_user_id": "1730923014471180288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095950112271094175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxltanya1811 我们这里HD GPA 是4.0 然后 D是3.0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730923014471180288",
+        "conversation_id": "2095870474391822577",
+        "created_at": "2026-09-04T19:00:22.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T20:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095950112271094175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095950112271094175",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095870474391822577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow HD是4.3 D是3.7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2096082588553425146",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7453,
+          "following_count": 1082,
+          "like_count": 94623,
+          "listed_count": 25,
+          "media_count": 2310,
+          "tweet_count": 27753
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-02T12:13:15.000Z",
+        "description": "可以叫我梦欣或者tanya/女性-female/szshs, @sydney_uni and @unsw alumni. birthday 98/7/2 and 10/11/18",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "sydney_uni"
+              },
+              {
+                "end": 52,
+                "start": 47,
+                "username": "unsw"
+              }
+            ]
+          }
+        },
+        "id": "1730923014471180288",
+        "is_identity_verified": false,
+        "location": "starry sky greater bay",
+        "most_recent_tweet_id": "2096076701944205614",
+        "name": "绫小路梦欣",
+        "pinned_tweet_id": "2081278446941204714",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1730923014471180288/1749382199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028668925245100032/NjwfJ8m6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 263,
+          "like_count": 507,
+          "listed_count": 3,
+          "media_count": 647,
+          "tweet_count": 6274
+        },
+        "url": "",
+        "username": "lxltanya1811",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

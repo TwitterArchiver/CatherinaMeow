@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2096569509629071435",
+    "created_at": "2026-09-06T12:01:38.000Z",
+    "display_text_range": [
+      0,
+      162
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T13:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096569509629071435"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vibehackercom/…",
+          "end": 186,
+          "expanded_url": "https://twitter.com/vibehackercom/status/2094023659962925409",
+          "start": 163,
+          "url": "https://t.co/z7hxIN1mUI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096569509629071435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我觉得 vibecoding 和 AI的大降本，在把简单事情复杂化，诱导人一遍一遍的重构本来已经成熟的东西\n\n本来几百行代码能搞定的问题 现在都要接入一个LLM， 仿佛什么都应该和LLM搭上关系，任何东西都应该重构（）\n\n就像独立开发三件套  在有vibecoding之后， 开发成本被降低到谁都能来玩一玩 番茄钟 todo 日历 开发了多少遍了 功能越开越多 LLM各种接 但是有多少用户买单呢？ 还是某些“独立开发者”的自嗨？\n\n我承认 我在某些项目里也会迎合老板的喜好， 加个LLM 加个所谓的agent，但是我个人是很反感一切都接入LLM这个趋势的\n\n迟早有一天，你想去上厕所， 都得先和LLM说 “我要上厕所” 然后对话三四轮才能掀开马桶盖 ，就这样还得有一群人夸这是科技的进步 \n\n这是科技的进步吗？ 这是科技的滥用，每一轮新科技都是如此。 比如几十年前的含放射元素的玩具、假牙，区块链火的时候什么都要上链，元宇宙火的时候 什么卖货 开会 全要弄个VR眼睛去元宇宙。\n\n历史在一轮一轮重现 真正的技术的成熟 不是技术无处不在，而是人们知道 这个技术应该用在哪里，不应该用在哪里。\n\n我当然希望大家都能借助vibe coding实现自己的新创意、新点子，但是我个人很不希望大家在一遍又一遍的做重复劳动，一遍又一遍的造轮子"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094023659962925409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得 vibecoding 和 AI的大降本，在把简单事情复杂化，诱导人一遍一遍的重构本来已经成熟的东西\n\n本来几百行代码能搞定的问题 现在都要接入一个LLM， 仿佛什么都应该和LLM搭上关系，任何东西都应该重构（）\n\n就像独立开发三件套  在有vibecoding之后， 开发成本被降低到谁都能来玩一玩 番茄钟 todo https://t.co/z7hxIN1mUI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2096569509629071435",
+        "created_at": "2026-09-06T12:01:38.000Z",
+        "display_text_range": [
+          0,
+          162
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096569509629071435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vibehackercom/…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/vibehackercom/status/2094023659962925409",
+              "start": 163,
+              "url": "https://t.co/z7hxIN1mUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096569509629071435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得 vibecoding 和 AI的大降本，在把简单事情复杂化，诱导人一遍一遍的重构本来已经成熟的东西\n\n本来几百行代码能搞定的问题 现在都要接入一个LLM， 仿佛什么都应该和LLM搭上关系，任何东西都应该重构（）\n\n就像独立开发三件套  在有vibecoding之后， 开发成本被降低到谁都能来玩一玩 番茄钟 todo 日历 开发了多少遍了 功能越开越多 LLM各种接 但是有多少用户买单呢？ 还是某些“独立开发者”的自嗨？\n\n我承认 我在某些项目里也会迎合老板的喜好， 加个LLM 加个所谓的agent，但是我个人是很反感一切都接入LLM这个趋势的\n\n迟早有一天，你想去上厕所， 都得先和LLM说 “我要上厕所” 然后对话三四轮才能掀开马桶盖 ，就这样还得有一群人夸这是科技的进步 \n\n这是科技的进步吗？ 这是科技的滥用，每一轮新科技都是如此。 比如几十年前的含放射元素的玩具、假牙，区块链火的时候什么都要上链，元宇宙火的时候 什么卖货 开会 全要弄个VR眼睛去元宇宙。\n\n历史在一轮一轮重现 真正的技术的成熟 不是技术无处不在，而是人们知道 这个技术应该用在哪里，不应该用在哪里。\n\n我当然希望大家都能借助vibe coding实现自己的新创意、新点子，但是我个人很不希望大家在一遍又一遍的做重复劳动，一遍又一遍的造轮子"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094023659962925409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得 vibecoding 和 AI的大降本，在把简单事情复杂化，诱导人一遍一遍的重构本来已经成熟的东西\n\n本来几百行代码能搞定的问题 现在都要接入一个LLM， 仿佛什么都应该和LLM搭上关系，任何东西都应该重构（）\n\n就像独立开发三件套  在有vibecoding之后， 开发成本被降低到谁都能来玩一玩 番茄钟 todo https://t.co/z7hxIN1mUI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "55793987",
+        "conversation_id": "2094023659962925409",
+        "created_at": "2026-08-30T11:25:20.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094023659962925409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "发一条链接，大家点一下能来的时间，页面自动排出人最齐的那个。不用注册。",
+              "display_url": "sync.day",
+              "end": 31,
+              "expanded_url": "https://sync.day",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2094023663586791424/aD7898JB?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2094023663586791424/aD7898JB?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "sync.day · 约个时间，一条链接搞定",
+              "unwound_url": "https://sync.day",
+              "url": "https://t.co/eeh88DlMY7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094023659962925409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 352064,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我做了个小东西：https://t.co/eeh88DlMY7。你随手说一句「下周找个晚上吃饭，两小时」，它给你一条链接。发到群里，每个人点几下自己能来的时间，谁都行的那个时间就冒出来了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2096569509629071435",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7459,
+          "following_count": 1083,
+          "like_count": 94722,
+          "listed_count": 25,
+          "media_count": 2310,
+          "tweet_count": 27772
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-07-11T08:56:17.000Z",
+        "description": "Serial entrepreneur. Shipping AI products. Building https://t.co/M4Utcs6nTK for builders.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vibehacker.com",
+                "end": 75,
+                "expanded_url": "http://vibehacker.com",
+                "start": 52,
+                "url": "https://t.co/M4Utcs6nTK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vibehacker.com",
+                "end": 23,
+                "expanded_url": "https://vibehacker.com",
+                "start": 0,
+                "url": "https://t.co/1Y22GWqf7r"
+              }
+            ]
+          }
+        },
+        "id": "55793987",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096549923265376465",
+        "name": "vibehacker",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095937987788087296/c6HmiQGV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 75,
+          "like_count": 44,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/1Y22GWqf7r",
+        "username": "vibehackercom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

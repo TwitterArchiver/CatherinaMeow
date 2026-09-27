@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2100431375694516678",
+    "created_at": "2026-09-17T03:47:18.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T04:47:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100431375694516678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1609456562443268097",
+          "start": 3,
+          "username": "snowfairy011026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100431375694516678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100336063172727276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snowfairy011026: 星空合众国即将迎来星空十年庆典！\n作为庆典的起始，星空政府制作了这部微电影「乡音无改」。这不单是为了纪念忙于现实生活而无暇顾及联邦的居民们，更是为了告知还坚守在岗位上的居民：\n环境可以改，人生可以很精彩。\n而星空合众国，永远不会忘记你。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 204846,
+        "height": 720,
+        "media_key": "13_2100335907480145920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100335907480145920/img/2yzUa599YqcRgQAp.jpg",
+        "public_metrics": {
+          "view_count": 189
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100335907480145920/vid/avc1/480x270/te80vbaF_gwnl13I.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100335907480145920/vid/avc1/640x360/x2LoYVx-Ih69b5sn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100335907480145920/vid/avc1/1280x720/xp2uVbM15qhmEM2-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100335907480145920/pl/7QfTMxXlMojJUXw5.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2100431375694516678",
+        "created_at": "2026-09-17T03:47:18.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100431375694516678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1609456562443268097",
+              "start": 3,
+              "username": "snowfairy011026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100431375694516678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100336063172727276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snowfairy011026: 星空合众国即将迎来星空十年庆典！\n作为庆典的起始，星空政府制作了这部微电影「乡音无改」。这不单是为了纪念忙于现实生活而无暇顾及联邦的居民们，更是为了告知还坚守在岗位上的居民：\n环境可以改，人生可以很精彩。\n而星空合众国，永远不会忘记你。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100335907480145920"
+          ]
+        },
+        "author_id": "1609456562443268097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2100336063172727276",
+        "created_at": "2026-09-16T21:28:34.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T22:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100336063172727276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/87XbrLH7GU",
+              "end": 158,
+              "expanded_url": "https://x.com/snowfairy011026/status/2100336063172727276/video/1",
+              "media_key": "13_2100335907480145920",
+              "start": 135,
+              "url": "https://t.co/87XbrLH7GU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100336063172727276",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100335907480145920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 438,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "星空合众国即将迎来星空十年庆典！\n作为庆典的起始，星空政府制作了这部微电影「乡音无改」。这不单是为了纪念忙于现实生活而无暇顾及联邦的居民们，更是为了告知还坚守在岗位上的居民：\n环境可以改，人生可以很精彩。\n而星空合众国，永远不会忘记你。\n若是未来有闲，记得回来看看吧。 https://t.co/87XbrLH7GU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2100431375694516678",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7470,
+          "following_count": 1077,
+          "like_count": 95393,
+          "listed_count": 25,
+          "media_count": 2314,
+          "tweet_count": 27847
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-01T07:49:08.000Z",
+        "description": "星空合众国是基于科幻架空的微国家（Micronation）。涵盖线上的科幻建设、架空城市等等，以及线下的聚会和产品发放。本国并非地球主权国家，可以理解为一群灵魂的精神家园。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssf.network",
+                "end": 23,
+                "expanded_url": "https://ssf.network",
+                "start": 0,
+                "url": "https://t.co/ZcH57TCLgk"
+              }
+            ]
+          }
+        },
+        "id": "1609456562443268097",
+        "is_identity_verified": false,
+        "location": "NGC 4755 珠宝盒星团",
+        "most_recent_tweet_id": "2100336063172727276",
+        "name": "星空合众国 Starry Sky Federation",
+        "pinned_tweet_id": "2100336063172727276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609456562443268097/1740785036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869504691375349760/A5kIMk_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2033,
+          "following_count": 2043,
+          "like_count": 11029,
+          "listed_count": 7,
+          "media_count": 767,
+          "tweet_count": 9348
+        },
+        "url": "https://t.co/ZcH57TCLgk",
+        "username": "snowfairy011026",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2096520362162819130",
+    "created_at": "2026-09-06T11:14:31.000Z",
+    "display_text_range": [
+      24,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T12:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096557652704948312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1946188524472213504",
+          "start": 0,
+          "username": "ooobsess"
+        },
+        {
+          "end": 23,
+          "id": "237972429",
+          "start": 10,
+          "username": "final_object"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096557652704948312",
+    "in_reply_to_user_id": "1946188524472213504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096532958345572731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooobsess @final_object 不升级系统就行 我现在 备用机还是 13pro 不过有些app可能用不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2096520362162819130",
+        "created_at": "2026-09-06T11:14:31.000Z",
+        "display_text_range": [
+          24,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096557652704948312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1946188524472213504",
+              "start": 0,
+              "username": "ooobsess"
+            },
+            {
+              "end": 23,
+              "id": "237972429",
+              "start": 10,
+              "username": "final_object"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096557652704948312",
+        "in_reply_to_user_id": "1946188524472213504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096532958345572731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooobsess @final_object 不升级系统就行 我现在 备用机还是 13pro 不过有些app可能用不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946188524472213504",
+        "conversation_id": "2096520362162819130",
+        "created_at": "2026-09-06T09:36:23.000Z",
+        "display_text_range": [
+          14,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096532958345572731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "237972429",
+              "start": 0,
+              "username": "final_object"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096532958345572731",
+        "in_reply_to_user_id": "237972429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096531444466348496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@final_object 这么差的嘛我还以为买了这个能用5年呢我这还是问的gpt🥲多谢大佬提醒"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2096557652704948312",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7459,
+          "following_count": 1083,
+          "like_count": 94720,
+          "listed_count": 25,
+          "media_count": 2310,
+          "tweet_count": 27770
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T12:41:40.000Z",
+        "description": "˚ʚ ᕱ⑅ᕱ ɞ˚\n🆗英语┊🤖 AI ┊ 📈 美股 ┊ 🪙 比特币┊ 🍫生活\n😺🪐🐾",
+        "id": "1946188524472213504",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2096556438067839486",
+        "name": "来",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946188524472213504/1772849043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030915515820965888/3oIGkdZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 586,
+          "like_count": 14121,
+          "listed_count": 5,
+          "media_count": 4,
+          "tweet_count": 4532
+        },
+        "url": "",
+        "username": "ooobsess",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-01-14T02:14:48.000Z",
+        "description": "N/A",
+        "id": "237972429",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096552307387502625",
+        "name": "Nova⚓️🏴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/237972429/1705222829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055653650371125248/vT3pjKmZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 5620,
+          "like_count": 81248,
+          "listed_count": 2,
+          "media_count": 382,
+          "tweet_count": 33554
+        },
+        "url": "",
+        "username": "final_object",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

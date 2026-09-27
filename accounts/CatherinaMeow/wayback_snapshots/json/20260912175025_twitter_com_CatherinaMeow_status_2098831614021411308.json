@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2098787660064247957",
+    "created_at": "2026-09-12T17:50:25.000Z",
+    "display_text_range": [
+      7,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098831614021411308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2036042958613733376",
+          "start": 0,
+          "username": "Lt8py"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098831614021411308",
+    "in_reply_to_user_id": "2036042958613733376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098787660064247957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lt8py 哇 震撼 我也给这位捐了钱诶 草"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14999,
+        "height": 2248,
+        "media_key": "13_2098787619341815808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098787619341815808/img/xYhCxI0_MnxHo9gs.jpg",
+        "public_metrics": {
+          "view_count": 10863
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098787619341815808/vid/avc1/1080x2248/jlfc1StDWGQANu6q.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098787619341815808/vid/avc1/320x666/C2cESbyqR_dxCOSe.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098787619341815808/pl/eaqmiLeYMCTsNgkC.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098787619341815808/vid/avc1/480x998/226Q_LX5h9OYMcxJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098787619341815808/vid/avc1/720x1498/HGE9ybjda7S0o0Wl.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2098787660064247957",
+        "created_at": "2026-09-12T17:50:25.000Z",
+        "display_text_range": [
+          7,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098831614021411308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2036042958613733376",
+              "start": 0,
+              "username": "Lt8py"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098831614021411308",
+        "in_reply_to_user_id": "2036042958613733376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098787660064247957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lt8py 哇 震撼 我也给这位捐了钱诶 草"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098787619341815808"
+          ]
+        },
+        "author_id": "2036042958613733376",
+        "conversation_id": "2098787660064247957",
+        "created_at": "2026-09-12T14:55:46.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098787660064247957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/InyseWmmBW",
+              "end": 135,
+              "expanded_url": "https://x.com/Lt8py/status/2098787660064247957/video/1",
+              "media_key": "13_2098787619341815808",
+              "start": 112,
+              "url": "https://t.co/InyseWmmBW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098787660064247957",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2098787619341815808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "目标哥盲捐7万U后续：我们可能见证了币圈史上最隐蔽的“人设级黑产收割”。\n\n​私信对峙全过程复盘：\n​▫️ 前期防线：提出同城探访、当面资助10万，对方立刻以“不在一个面上”、要求不留字据的语音通话来切断实体接触。\n\n▫️ 病历真伪：掏出的CT和病理确实出自真实患者，甚至还翻出2025年的求助推文，看似无懈可击。\n\n▫️ 致命死穴（链上行为）：普通求助者要的是换法币救命，而这个账号每笔收款都极其熟练地更换一次性TRC-20地址，资金到手秒分流，防溯源意识比交易所做市商还专业。\n\n​真相呼之欲出：要么是长期养号的职业欺诈团伙利用身边真实病历敛财，要么是原号被灰产收购代运营。\n\n​真实的病痛成了他们洗钱的免死金牌。50万人民币打水漂是小，这种恶劣示范一旦跑通，以后网上谁还敢相信真正的求救者？😡"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 20168,
+          "like_count": 59,
+          "quote_count": 4,
+          "reply_count": 39,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "目标哥盲捐7万U后续：我们可能见证了币圈史上最隐蔽的“人设级黑产收割”。\n\n​私信对峙全过程复盘：\n​▫️ 前期防线：提出同城探访、当面资助10万，对方立刻以“不在一个面上”、要求不留字据的语音通话来切断实体接触。\n\n▫️ https://t.co/InyseWmmBW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2098831614021411308",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7467,
+          "following_count": 1082,
+          "like_count": 95139,
+          "listed_count": 25,
+          "media_count": 2312,
+          "tweet_count": 27813
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T11:31:47.000Z",
+        "description": "X上神算子：鉴别吸血大V ｜ 封号精准预测\n小哪吒币创始人|北辰村长｜真实互动🤫｜🇺🇲全仓美股科技与 AI 🚀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/NeZha119",
+                "end": 23,
+                "expanded_url": "https://t.me/NeZha119",
+                "start": 0,
+                "url": "https://t.co/ypXLn9MCt2"
+              }
+            ]
+          }
+        },
+        "id": "2036042958613733376",
+        "is_identity_verified": true,
+        "location": "Oregon, USA",
+        "most_recent_tweet_id": "2098822167073108444",
+        "name": "小哪吒",
+        "pinned_tweet_id": "2098307716150333841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2036042958613733376/1787086881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096262094853431296/aiQbAIda_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3175,
+          "following_count": 2366,
+          "like_count": 8505,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 3640
+        },
+        "url": "https://t.co/ypXLn9MCt2",
+        "username": "Lt8py",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

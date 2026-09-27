@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2095897401571803607",
+    "created_at": "2026-09-04T16:29:48.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T17:29:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095912221612363806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1167792264795394048",
+          "start": 0,
+          "username": "leetfs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095912221612363806",
+    "in_reply_to_user_id": "1167792264795394048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095897401571803607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leetfs1 xm卓越 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095897396354121728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYfk9NagAAuusE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2095897401571803607",
+        "created_at": "2026-09-04T16:29:48.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095912221612363806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1167792264795394048",
+              "start": 0,
+              "username": "leetfs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095912221612363806",
+        "in_reply_to_user_id": "1167792264795394048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095897401571803607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leetfs1 xm卓越 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095897396354121728"
+          ]
+        },
+        "author_id": "1167792264795394048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390799556326019072",
+              "name": "PayPay"
+            }
+          }
+        ],
+        "conversation_id": "2095897401571803607",
+        "created_at": "2026-09-04T15:30:55.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095897401571803607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lrJWtOwJ71",
+              "end": 45,
+              "expanded_url": "https://x.com/leetfs1/status/2095897401571803607/photo/1",
+              "media_key": "3_2095897396354121728",
+              "start": 22,
+              "url": "https://t.co/lrJWtOwJ71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095897401571803607",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095897396354121728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "云闪付支持paypay码了，主扫被扫都可以 https://t.co/lrJWtOwJ71"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2095912221612363806",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7456,
+          "following_count": 1083,
+          "like_count": 94614,
+          "listed_count": 25,
+          "media_count": 2310,
+          "tweet_count": 27749
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "老婆 @lumigj02 | Member of @MtFwiki & @RLEwiki & @AB_aboutTrans | Intern at https://t.co/dkwoFb9hyL | Love front-end and RISC-V | Trans ally 🏳️‍⚧️ | They/Them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "lumigj02"
+              },
+              {
+                "end": 33,
+                "start": 25,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "RLEwiki"
+              },
+              {
+                "end": 61,
+                "start": 47,
+                "username": "AB_aboutTrans"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "is.cas.cn",
+                "end": 97,
+                "expanded_url": "http://is.cas.cn",
+                "start": 74,
+                "url": "https://t.co/dkwoFb9hyL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "leetfs.com",
+                "end": 23,
+                "expanded_url": "https://leetfs.com/",
+                "start": 0,
+                "url": "https://t.co/US8IASVs7i"
+              }
+            ]
+          }
+        },
+        "id": "1167792264795394048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095910971416170682",
+        "name": "Lee🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1167792264795394048/1755374726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028353368008339456/o3OhBxWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4542,
+          "following_count": 2222,
+          "like_count": 2650,
+          "listed_count": 23,
+          "media_count": 1011,
+          "tweet_count": 6320
+        },
+        "url": "https://t.co/US8IASVs7i",
+        "username": "leetfs1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

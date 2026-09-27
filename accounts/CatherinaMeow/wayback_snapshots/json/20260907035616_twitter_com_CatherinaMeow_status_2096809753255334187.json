@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2088334752906658090",
+    "created_at": "2026-09-07T03:56:16.000Z",
+    "display_text_range": [
+      24,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T04:56:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096809753255334187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1119565585992392704",
+          "start": 0,
+          "username": "Clara_boutme"
+        },
+        {
+          "end": 23,
+          "id": "1859757935267807235",
+          "start": 14,
+          "username": "kafka_ww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096809753255334187",
+    "in_reply_to_user_id": "1119565585992392704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089683005589615086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Clara_boutme @kafka_ww xm你们俩有👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2088334752906658090",
+        "created_at": "2026-09-07T03:56:16.000Z",
+        "display_text_range": [
+          24,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096809753255334187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1119565585992392704",
+              "start": 0,
+              "username": "Clara_boutme"
+            },
+            {
+              "end": 23,
+              "id": "1859757935267807235",
+              "start": 14,
+              "username": "kafka_ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096809753255334187",
+        "in_reply_to_user_id": "1119565585992392704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089683005589615086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clara_boutme @kafka_ww xm你们俩有👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1119565585992392704",
+        "conversation_id": "2088334752906658090",
+        "created_at": "2026-08-18T11:57:07.000Z",
+        "display_text_range": [
+          10,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089683005589615086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1859757935267807235",
+              "start": 0,
+              "username": "kafka_ww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089683005589615086",
+        "in_reply_to_user_id": "1859757935267807235",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088334752906658090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kafka_ww xm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2096809753255334187",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7461,
+          "following_count": 1083,
+          "like_count": 94797,
+          "listed_count": 25,
+          "media_count": 2310,
+          "tweet_count": 27779
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-20T11:36:51.000Z",
+        "description": "She/her. 两猫宝妈（？？？）.姛.",
+        "id": "1119565585992392704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096639852750184793",
+        "name": "Clara😈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1119565585992392704/1775905935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1452211803761614852/7qA9LnXp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 2994,
+          "like_count": 57188,
+          "listed_count": 19,
+          "media_count": 67,
+          "tweet_count": 1835
+        },
+        "url": "",
+        "username": "Clara_boutme",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-22T00:37:08.000Z",
+        "description": "猫医生指导下的抑郁康复日记\n\n「この白い壁の部屋では、时間は太阳の目を避けたようだ」",
+        "id": "1859757935267807235",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096636678131913024",
+        "name": "小小卡",
+        "pinned_tweet_id": "2005887758754295912",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859757935267807235/1767276653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992821090159382528/WovY5l-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2020,
+          "following_count": 146,
+          "like_count": 264,
+          "listed_count": 8,
+          "media_count": 180,
+          "tweet_count": 863
+        },
+        "url": "",
+        "username": "kafka_ww",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

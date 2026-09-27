@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102282091291680769"
+      ]
+    },
+    "author_id": "1600208165269741570",
+    "conversation_id": "2101942614526443822",
+    "created_at": "2026-09-22T06:24:00.000Z",
+    "display_text_range": [
+      13,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T07:24:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102282748434223595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676132765098741762",
+          "start": 0,
+          "username": "luoling8192"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1b0HLJOwFV",
+          "end": 67,
+          "expanded_url": "https://x.com/CatherinaMeow/status/2102282748434223595/photo/1",
+          "media_key": "3_2102282091291680769",
+          "start": 44,
+          "url": "https://t.co/1b0HLJOwFV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102282748434223595",
+    "in_reply_to_user_id": "1676132765098741762",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102282091291680769"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101942614526443822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@luoling8192 www 我也给我的Jarvis安排了这个功能 每天出一份日报 https://t.co/1b0HLJOwFV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_2102282091291680769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzObHUbIAEJjlM.jpg",
+        "width": 990
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101942606427279360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuZqfpbUAAV9Bg.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102282091291680769"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "conversation_id": "2101942614526443822",
+        "created_at": "2026-09-22T06:24:00.000Z",
+        "display_text_range": [
+          13,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102282748434223595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676132765098741762",
+              "start": 0,
+              "username": "luoling8192"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1b0HLJOwFV",
+              "end": 67,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2102282748434223595/photo/1",
+              "media_key": "3_2102282091291680769",
+              "start": 44,
+              "url": "https://t.co/1b0HLJOwFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102282748434223595",
+        "in_reply_to_user_id": "1676132765098741762",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102282091291680769"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101942614526443822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@luoling8192 www 我也给我的Jarvis安排了这个功能 每天出一份日报 https://t.co/1b0HLJOwFV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101942606427279360"
+          ]
+        },
+        "author_id": "1676132765098741762",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "2101942614526443822",
+        "created_at": "2026-09-21T07:52:26.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T08:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101942614526443822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P2zsZSEkU8",
+              "end": 78,
+              "expanded_url": "https://x.com/luoling8192/status/2101942614526443822/photo/1",
+              "media_key": "3_2101942606427279360",
+              "start": 55,
+              "url": "https://t.co/P2zsZSEkU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101942614526443822",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101942606427279360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2097,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "other",
+        "text": "做了一个 Hacker News 阅读器，有个简易的推荐系统，会根据喜欢的文章来推送更多高质量的文章，爽看🤩 https://t.co/P2zsZSEkU8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2102282748434223595",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7485,
+          "following_count": 1078,
+          "like_count": 95626,
+          "listed_count": 25,
+          "media_count": 2320,
+          "tweet_count": 27873
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-04T07:36:21.000Z",
+        "description": "👩‍💻 数字游民 / Agent 开发工程师 / 正在创造数字生命 @proj_airi ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "proj_airi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/luoling8192",
+                "end": 23,
+                "expanded_url": "http://github.com/luoling8192",
+                "start": 0,
+                "url": "https://t.co/PWOvpp6inw"
+              }
+            ]
+          }
+        },
+        "id": "1676132765098741762",
+        "is_identity_verified": false,
+        "location": "Shanghai, China",
+        "most_recent_tweet_id": "2102259649382936821",
+        "name": "RainbowBird | 洛灵",
+        "pinned_tweet_id": "2079050714740101406",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676132765098741762/1688456270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740286835249786880/DwrVM8h__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6728,
+          "following_count": 1097,
+          "like_count": 9951,
+          "listed_count": 50,
+          "media_count": 579,
+          "tweet_count": 2354
+        },
+        "url": "https://t.co/PWOvpp6inw",
+        "username": "luoling8192",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

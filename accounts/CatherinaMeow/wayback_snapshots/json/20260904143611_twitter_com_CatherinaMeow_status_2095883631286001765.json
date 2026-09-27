@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1148689566112477184",
+          "name": "Wi-Fi"
+        }
+      }
+    ],
+    "conversation_id": "2095830846196609383",
+    "created_at": "2026-09-04T14:36:11.000Z",
+    "display_text_range": [
+      16,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T15:36:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095883631286001765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "845907957434888192",
+          "start": 0,
+          "username": "crystallovecht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095883631286001765",
+    "in_reply_to_user_id": "845907957434888192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095876630510244212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@crystallovecht 我觉得更像是在澳洲我出门次数大幅度减少 以及哪哪都有wifi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2095830846196609383",
+        "created_at": "2026-09-04T14:36:11.000Z",
+        "display_text_range": [
+          16,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:36:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095883631286001765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "845907957434888192",
+              "start": 0,
+              "username": "crystallovecht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095883631286001765",
+        "in_reply_to_user_id": "845907957434888192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095876630510244212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@crystallovecht 我觉得更像是在澳洲我出门次数大幅度减少 以及哪哪都有wifi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "845907957434888192",
+        "conversation_id": "2095830846196609383",
+        "created_at": "2026-09-04T14:08:22.000Z",
+        "display_text_range": [
+          15,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095876630510244212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095876630510244212",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095830846196609383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 我是真觉得澳洲流量比中国耐用啊，澳洲一年我都用不完250G，在中国一个月就干了80G。也有可能是澳洲网速太慢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2095883631286001765",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7457,
+          "following_count": 1083,
+          "like_count": 94611,
+          "listed_count": 25,
+          "media_count": 2310,
+          "tweet_count": 27748
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-26T07:59:08.000Z",
+        "description": "清水/genderfluid(mtx?）/不混圈/无性恋/反刻板印象\ncos/书写另一条时间线的自己\n时不时po老照片\n同类互fo，忘fo请提醒我谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/98229920",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/98229920",
+                "start": 0,
+                "url": "https://t.co/MFCMSqBT9E"
+              }
+            ]
+          }
+        },
+        "id": "845907957434888192",
+        "is_identity_verified": false,
+        "location": "Sydney, New South Wales",
+        "most_recent_tweet_id": "2095877924494930126",
+        "name": "慕心🍊🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2095668257739214946",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/845907957434888192/1784442704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091884790161231873/5YTNYrpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 235,
+          "like_count": 430,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/MFCMSqBT9E",
+        "username": "crystallovecht",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

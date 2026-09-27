@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {
+      "plain_text": "我觉得随着 vibe coding 的普及 和 LLM 推理成本的大降低，很多本该简单的事情都在被人为的复杂化。\n曾经几百行代码就能解决的一个小问题，现在都恨不得接入一个LLM。仿佛没有LLM就不配作为一个 这个时代的产品一样，然后还最好再做一个 Agent 塞进去（） \n比如经典的独立开发三件套 番茄钟 todo 小日历， 有 vibe coding 之后 开发门槛低到谁都能来参合一下，于是这些东西被反反复复的造了不知道多少遍，功能越做越花里胡哨，LLM 各种接，到处都是聊天框。\n不只是这三个经典 app ，很多 新 app 都在主动把简单问题复杂化以前一个按钮解决的交互，现在非得用自然语言包装一遍。\n问题是，到底有多少功能是用户愿意为其买单的？ 还是说 这只是某些 “ 独立开发者 ” 的自嗨？\n\n我承认，我在某些项目里也回迎合老板喜好，弄个 LLM 的 API 塞进去，做个对话框，但是我个人非常反感把一切都要接 LLM 的这个趋势。\n因为对绝大多数软件来说，用户需要的不是 能不能聊天 能不能懂自然语言 ，而是 快速 有效 稳定的 把任务完成。\n如果原本一次点击就能完整的操作，我现在还得先描述需求，然后抽卡，看看 LLM 能不能准确的明白我的意思 ，然后手动确认， 再调用工具，最后告诉我干完了， 这不是交互方式的升级，这是把过去确定性的操作变成概率性的抽卡对话。\n\n按照这个趋势，迟早有一天你去上厕所的时候，都得和 接了 LLM 的智能厕所 对话\n用户： “我要上厕所”\nLLM（Thinking for 30s）：“当然可以！请问你是希望立即如厕，还是希望我帮你规划一个更健康的如厕时间？”\n你：“立即。”\nLLM（Thinking for 30s）： “好的，为了给你提供更个性化的体验，请问你需要掀开马桶盖还是同时掀开马桶盖和马桶圈”\n你：“只要马桶盖就可以了”\n然后 Agent 调用 Toilet MCP，思考了 30 秒，消耗 80000 token：“好的，马桶盖已打开”\n然后旁边一群人欢呼 说未来已来（）\n\n这真的是科技的进步吗？ 我觉得并不是，这是科技的滥用。\n每一轮新技术出现的时候 人类似乎都会经历这么一个时期 ，因为它很新，看起来很酷，能忽悠外行的钱，就把它塞到任何地方\n几十年前，人们把放射性元素放到玩具、化妆品、牙膏甚至假牙里面，因为这种新元素代表 “科技与先进” \n互联网时代，一切都要 互联网+\n区块链火的时候，买杯奶茶都得上链\n元宇宙火的时候，什么卖个衣服开个会，甚至上课都要弄个 VR 眼镜接进元宇宙里。\n现在这个风口轮到 AI 了 ，巴不得所有的人机交互都得是 LLM-based 所有流程都要agent，所有产品都要打上一个 AI-Powered 的标志\n\n但是一种技术真正成熟的标志，并不是他无处不在，而是人们知道什么地方该用，什么地方不该用。就像现在绝不可能有公司把镭放进牙膏里说着有益于健康一样。\nLLM 适合处理的是那些模糊的问题，非结构化的信息，语言交互，知识检索，代码生成，以及传统规则系统很难穷举的任务。\n但是如果一个问题它本来就有很清晰的输入，确定的状态机，简单的算法和已经经过验证的UI，那么这就是在画蛇添足，给一个原本运行稳定的系统里增加成本和不可预测性。\n最好的 AI 产品 从不应该是那种天天宣传这个产品哪哪都是 AI 的那些\n而是那些当你在需要的时候，默默的替你解决掉传统软件解决不了的问题，而当你不需要的时候，绝不会制造新的麻烦的产品\n技术的应用 应该是为了降低人的使用门槛和认知负担，而不是为了证明技术的存在，再无端创造一层新的门槛和成本。\n\n所以我期待的未来，并不是一个 Everything with an Agent\n而是： \n能用一个 if 解决的，就别调用一个 671B 的大模型\n能点一次按钮解决的，就别让用户和马桶聊3轮\n",
+      "preview_text": "我觉得随着 vibe coding 的普及 和 LLM 推理成本的大降低，很多本该简单的事情都在被人为的复杂化。\n曾经几百行代码就能解决的一个小问题，现在都恨不得接入一个LLM。仿佛没有LLM就不配作为一个",
+      "title": "不是所有东西都需要一个 LLM"
+    },
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2096808613750936048",
+    "created_at": "2026-09-07T03:51:44.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T04:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096808613750936048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2096…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/article/2096787469132038144",
+          "start": 0,
+          "status": 404,
+          "unwound_url": "https://x.com/i/article/2096787469132038144",
+          "url": "https://t.co/uTDz24x2HW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096808613750936048",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/uTDz24x2HW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {
+          "plain_text": "我觉得随着 vibe coding 的普及 和 LLM 推理成本的大降低，很多本该简单的事情都在被人为的复杂化。\n曾经几百行代码就能解决的一个小问题，现在都恨不得接入一个LLM。仿佛没有LLM就不配作为一个 这个时代的产品一样，然后还最好再做一个 Agent 塞进去（） \n比如经典的独立开发三件套 番茄钟 todo 小日历， 有 vibe coding 之后 开发门槛低到谁都能来参合一下，于是这些东西被反反复复的造了不知道多少遍，功能越做越花里胡哨，LLM 各种接，到处都是聊天框。\n不只是这三个经典 app ，很多 新 app 都在主动把简单问题复杂化以前一个按钮解决的交互，现在非得用自然语言包装一遍。\n问题是，到底有多少功能是用户愿意为其买单的？ 还是说 这只是某些 “ 独立开发者 ” 的自嗨？\n\n我承认，我在某些项目里也回迎合老板喜好，弄个 LLM 的 API 塞进去，做个对话框，但是我个人非常反感把一切都要接 LLM 的这个趋势。\n因为对绝大多数软件来说，用户需要的不是 能不能聊天 能不能懂自然语言 ，而是 快速 有效 稳定的 把任务完成。\n如果原本一次点击就能完整的操作，我现在还得先描述需求，然后抽卡，看看 LLM 能不能准确的明白我的意思 ，然后手动确认， 再调用工具，最后告诉我干完了， 这不是交互方式的升级，这是把过去确定性的操作变成概率性的抽卡对话。\n\n按照这个趋势，迟早有一天你去上厕所的时候，都得和 接了 LLM 的智能厕所 对话\n用户： “我要上厕所”\nLLM（Thinking for 30s）：“当然可以！请问你是希望立即如厕，还是希望我帮你规划一个更健康的如厕时间？”\n你：“立即。”\nLLM（Thinking for 30s）： “好的，为了给你提供更个性化的体验，请问你需要掀开马桶盖还是同时掀开马桶盖和马桶圈”\n你：“只要马桶盖就可以了”\n然后 Agent 调用 Toilet MCP，思考了 30 秒，消耗 80000 token：“好的，马桶盖已打开”\n然后旁边一群人欢呼 说未来已来（）\n\n这真的是科技的进步吗？ 我觉得并不是，这是科技的滥用。\n每一轮新技术出现的时候 人类似乎都会经历这么一个时期 ，因为它很新，看起来很酷，能忽悠外行的钱，就把它塞到任何地方\n几十年前，人们把放射性元素放到玩具、化妆品、牙膏甚至假牙里面，因为这种新元素代表 “科技与先进” \n互联网时代，一切都要 互联网+\n区块链火的时候，买杯奶茶都得上链\n元宇宙火的时候，什么卖个衣服开个会，甚至上课都要弄个 VR 眼镜接进元宇宙里。\n现在这个风口轮到 AI 了 ，巴不得所有的人机交互都得是 LLM-based 所有流程都要agent，所有产品都要打上一个 AI-Powered 的标志\n\n但是一种技术真正成熟的标志，并不是他无处不在，而是人们知道什么地方该用，什么地方不该用。就像现在绝不可能有公司把镭放进牙膏里说着有益于健康一样。\nLLM 适合处理的是那些模糊的问题，非结构化的信息，语言交互，知识检索，代码生成，以及传统规则系统很难穷举的任务。\n但是如果一个问题它本来就有很清晰的输入，确定的状态机，简单的算法和已经经过验证的UI，那么这就是在画蛇添足，给一个原本运行稳定的系统里增加成本和不可预测性。\n最好的 AI 产品 从不应该是那种天天宣传这个产品哪哪都是 AI 的那些\n而是那些当你在需要的时候，默默的替你解决掉传统软件解决不了的问题，而当你不需要的时候，绝不会制造新的麻烦的产品\n技术的应用 应该是为了降低人的使用门槛和认知负担，而不是为了证明技术的存在，再无端创造一层新的门槛和成本。\n\n所以我期待的未来，并不是一个 Everything with an Agent\n而是： \n能用一个 if 解决的，就别调用一个 671B 的大模型\n能点一次按钮解决的，就别让用户和马桶聊3轮\n",
+          "preview_text": "我觉得随着 vibe coding 的普及 和 LLM 推理成本的大降低，很多本该简单的事情都在被人为的复杂化。\n曾经几百行代码就能解决的一个小问题，现在都恨不得接入一个LLM。仿佛没有LLM就不配作为一个",
+          "title": "不是所有东西都需要一个 LLM"
+        },
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2096808613750936048",
+        "created_at": "2026-09-07T03:51:44.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096808613750936048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2096…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/article/2096787469132038144",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://x.com/i/article/2096787469132038144",
+              "url": "https://t.co/uTDz24x2HW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096808613750936048",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uTDz24x2HW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2096808613750936048",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7461,
+          "following_count": 1083,
+          "like_count": 94789,
+          "listed_count": 25,
+          "media_count": 2310,
+          "tweet_count": 27778
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

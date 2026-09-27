@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096915514949824515"
+      ],
+      "media_source_tweet_id": [
+        "2096915519844601919"
+      ]
+    },
+    "author_id": "1600208165269741570",
+    "conversation_id": "2096924327757357115",
+    "created_at": "2026-09-07T11:31:33.000Z",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:31:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096924327757357115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1562153864",
+          "start": 3,
+          "username": "BigMiIkBottIe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1a1OforwrW",
+          "end": 98,
+          "expanded_url": "https://x.com/BigMiIkBottIe/status/2096915519844601919/photo/1",
+          "media_key": "3_2096915514949824515",
+          "start": 75,
+          "url": "https://t.co/1a1OforwrW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096924327757357115",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096915514949824515"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096915519844601919",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @BigMiIkBottIe: 望週知：（代號主本人發）號主本人已經很久沒登錄過這個帳號了，而且現在暫時無法登陸此帳號，近期發佈的內容均不可信 https://t.co/1a1OforwrW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2096915514949824515",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRm9jQiW8AMtaE5.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096915514949824515"
+          ],
+          "media_source_tweet_id": [
+            "2096915519844601919"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "conversation_id": "2096924327757357115",
+        "created_at": "2026-09-07T11:31:33.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:31:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096924327757357115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1562153864",
+              "start": 3,
+              "username": "BigMiIkBottIe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1a1OforwrW",
+              "end": 98,
+              "expanded_url": "https://x.com/BigMiIkBottIe/status/2096915519844601919/photo/1",
+              "media_key": "3_2096915514949824515",
+              "start": 75,
+              "url": "https://t.co/1a1OforwrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096924327757357115",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096915514949824515"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096915519844601919",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @BigMiIkBottIe: 望週知：（代號主本人發）號主本人已經很久沒登錄過這個帳號了，而且現在暫時無法登陸此帳號，近期發佈的內容均不可信 https://t.co/1a1OforwrW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096915514949824515"
+          ]
+        },
+        "author_id": "1562153864",
+        "conversation_id": "2096915519844601919",
+        "created_at": "2026-09-07T10:56:33.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096915519844601919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1a1OforwrW",
+              "end": 79,
+              "expanded_url": "https://x.com/BigMiIkBottIe/status/2096915519844601919/photo/1",
+              "media_key": "3_2096915514949824515",
+              "start": 56,
+              "url": "https://t.co/1a1OforwrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096915519844601919",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096915514949824515"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "望週知：（代號主本人發）號主本人已經很久沒登錄過這個帳號了，而且現在暫時無法登陸此帳號，近期發佈的內容均不可信 https://t.co/1a1OforwrW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2096924327757357115",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7461,
+          "following_count": 1083,
+          "like_count": 94828,
+          "listed_count": 25,
+          "media_count": 2310,
+          "tweet_count": 27783
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-02T03:54:31.000Z",
+        "description": "400 mL 的大容量奶瓶｜奶牛貓貓娘｜貓咪中心主義｜National Honour ID: XXKM220803KCH55P",
+        "id": "1562153864",
+        "is_identity_verified": false,
+        "location": "117 公館，廚房的櫃子裏",
+        "most_recent_tweet_id": "2096921809719373956",
+        "name": "奶瓶貓 🍼😺 ᠴᡳᠮᡳᡴᡡ ᡴᡝᠰᡳᡴᡝ chat à biberon",
+        "pinned_tweet_id": "1678596763320729600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1562153864/1663311336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570667703274450944/uIwnUF6R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 869,
+          "like_count": 142513,
+          "listed_count": 8,
+          "media_count": 1123,
+          "tweet_count": 25408
+        },
+        "url": "",
+        "username": "BigMiIkBottIe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

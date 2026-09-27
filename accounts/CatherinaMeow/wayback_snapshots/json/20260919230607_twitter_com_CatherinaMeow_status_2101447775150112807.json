@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101447716123594752"
+      ]
+    },
+    "author_id": "1600208165269741570",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2101447775150112807",
+    "created_at": "2026-09-19T23:06:07.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T00:05:55.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101447727783821372",
+      "2101447775150112807"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 12,
+          "tag": "奈酱今天吃什么"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oohCctOPvI",
+          "end": 44,
+          "expanded_url": "https://x.com/CatherinaMeow/status/2101447775150112807/photo/1",
+          "media_key": "3_2101447716123594752",
+          "start": 21,
+          "url": "https://t.co/oohCctOPvI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101447775150112807",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2101447716123594752"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢魔兽玩家送的麦当劳\n#奈酱今天吃什么 https://t.co/oohCctOPvI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2101447716123594752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSnXkFmaUAA1Es_.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101447716123594752"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101447727783821372",
+        "created_at": "2026-09-19T23:05:55.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T00:05:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101447727783821372",
+          "2101447775150112807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i84wwYA9w2",
+              "end": 35,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2101447727783821372/photo/1",
+              "media_key": "3_2101447716123594752",
+              "start": 12,
+              "url": "https://t.co/i84wwYA9w2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101447727783821372",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101447716123594752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢魔兽玩家送的麦当劳 https://t.co/i84wwYA9w2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101447716123594752"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101447775150112807",
+        "created_at": "2026-09-19T23:06:07.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T00:05:55.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101447727783821372",
+          "2101447775150112807"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "奈酱今天吃什么"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oohCctOPvI",
+              "end": 44,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2101447775150112807/photo/1",
+              "media_key": "3_2101447716123594752",
+              "start": 21,
+              "url": "https://t.co/oohCctOPvI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101447775150112807",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101447716123594752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢魔兽玩家送的麦当劳\n#奈酱今天吃什么 https://t.co/oohCctOPvI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2101447775150112807",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7486,
+          "following_count": 1077,
+          "like_count": 95555,
+          "listed_count": 25,
+          "media_count": 2318,
+          "tweet_count": 27861
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

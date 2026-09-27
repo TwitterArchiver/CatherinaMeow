@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2102280746752995821",
+    "created_at": "2026-09-22T06:25:50.000Z",
+    "display_text_range": [
+      15,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T07:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102283209824440468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060587975982141440",
+          "start": 0,
+          "username": "Rinyuyuyuyuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102283209824440468",
+    "in_reply_to_user_id": "2060587975982141440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102281609961689413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinyuyuyuyuyu qwq 某位和我说 6片才能有效"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2102280746752995821",
+        "created_at": "2026-09-22T06:25:50.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102283209824440468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060587975982141440",
+              "start": 0,
+              "username": "Rinyuyuyuyuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102283209824440468",
+        "in_reply_to_user_id": "2060587975982141440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102281609961689413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinyuyuyuyuyu qwq 某位和我说 6片才能有效"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060587975982141440",
+        "conversation_id": "2102280746752995821",
+        "created_at": "2026-09-22T06:19:28.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102281609961689413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102281609961689413",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102280746752995821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow 可是六片有点多了啊（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2102283209824440468",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7485,
+          "following_count": 1078,
+          "like_count": 95628,
+          "listed_count": 25,
+          "media_count": 2320,
+          "tweet_count": 27875
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T05:04:36.000Z",
+        "description": "MtF/HRT：2025.1.28/无证含糖中/❤️@shuangxing0325",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "shuangxing0325"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinyu003",
+                "end": 23,
+                "expanded_url": "https://t.me/Rinyu003",
+                "start": 0,
+                "url": "https://t.co/OnkEmm6EuT"
+              }
+            ]
+          }
+        },
+        "id": "2060587975982141440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102281609961689413",
+        "name": "綾羽Rinyu",
+        "pinned_tweet_id": "2082070280583934326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060587975982141440/1780117635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060588589285847041/Dydhkr5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 161,
+          "like_count": 2519,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 491
+        },
+        "url": "https://t.co/OnkEmm6EuT",
+        "username": "Rinyuyuyuyuyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

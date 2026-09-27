@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2097141565915562009",
+    "created_at": "2026-09-08T04:11:37.000Z",
+    "display_text_range": [
+      23,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T05:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097176002212573627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2046560528609546242",
+          "start": 0,
+          "username": "dtzy_88"
+        },
+        {
+          "end": 22,
+          "id": "1815088739020099584",
+          "start": 9,
+          "username": "PingboLiu616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097176002212573627",
+    "in_reply_to_user_id": "2046560528609546242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097164929262551235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dtzy_88 @PingboLiu616 我plus收到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2097141565915562009",
+        "created_at": "2026-09-08T04:11:37.000Z",
+        "display_text_range": [
+          23,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097176002212573627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2046560528609546242",
+              "start": 0,
+              "username": "dtzy_88"
+            },
+            {
+              "end": 22,
+              "id": "1815088739020099584",
+              "start": 9,
+              "username": "PingboLiu616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097176002212573627",
+        "in_reply_to_user_id": "2046560528609546242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097164929262551235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dtzy_88 @PingboLiu616 我plus收到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046560528609546242",
+        "conversation_id": "2097141565915562009",
+        "created_at": "2026-09-08T03:27:37.000Z",
+        "display_text_range": [
+          14,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T04:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097164929262551235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815088739020099584",
+              "start": 0,
+              "username": "PingboLiu616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097164929262551235",
+        "in_reply_to_user_id": "1815088739020099584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 989,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097163788445524203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PingboLiu616 额，你的那么快，我看 Pro 都是9点半收到的\n\n你是 Plus?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2097176002212573627",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7460,
+          "following_count": 1082,
+          "like_count": 94890,
+          "listed_count": 25,
+          "media_count": 2311,
+          "tweet_count": 27791
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-21T12:03:56.000Z",
+        "description": "AI 奴隶主，每天想办法榨干 AI 的每一分价值\nTech 趋势 + 实用干货\nAI 创业中",
+        "id": "2046560528609546242",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097171310732566627",
+        "name": "Darren",
+        "pinned_tweet_id": "2092206072794935660",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2046560528609546242/1787729422",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089494979249119232/DgI6J7eg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 1470,
+          "like_count": 5416,
+          "listed_count": 5,
+          "media_count": 470,
+          "tweet_count": 2349
+        },
+        "url": "",
+        "username": "dtzy_88",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-21T18:17:54.000Z",
+        "description": "",
+        "id": "1815088739020099584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097163788445524203",
+        "name": "Mahoneliu",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815088831156322304/8b4QkDmb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 276,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "PingboLiu616",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2100884920394793316",
+    "created_at": "2026-09-19T13:48:37.000Z",
+    "display_text_range": [
+      26,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T14:48:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101307476981559794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "772394185609535488",
+          "start": 0,
+          "username": "FKCE8KrpOrxUICq"
+        },
+        {
+          "end": 25,
+          "id": "1344660543131557895",
+          "start": 17,
+          "username": "k3Cat24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101307476981559794",
+    "in_reply_to_user_id": "772394185609535488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101238251009069306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FKCE8KrpOrxUICq @k3Cat24 （握手）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2100884920394793316",
+        "created_at": "2026-09-19T13:48:37.000Z",
+        "display_text_range": [
+          26,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T14:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101307476981559794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "772394185609535488",
+              "start": 0,
+              "username": "FKCE8KrpOrxUICq"
+            },
+            {
+              "end": 25,
+              "id": "1344660543131557895",
+              "start": 17,
+              "username": "k3Cat24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101307476981559794",
+        "in_reply_to_user_id": "772394185609535488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101238251009069306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FKCE8KrpOrxUICq @k3Cat24 （握手）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "772394185609535488",
+        "conversation_id": "2100884920394793316",
+        "created_at": "2026-09-19T09:13:32.000Z",
+        "display_text_range": [
+          24,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101238251009069306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "CatherinaMeow"
+            },
+            {
+              "end": 23,
+              "id": "1344660543131557895",
+              "start": 15,
+              "username": "k3Cat24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101238251009069306",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100884920394793316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CatherinaMeow @k3Cat24 （向你发出三次握手请求）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2101307476981559794",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7486,
+          "following_count": 1077,
+          "like_count": 95550,
+          "listed_count": 25,
+          "media_count": 2316,
+          "tweet_count": 27858
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-09-04T11:21:39.000Z",
+        "description": "❤️努力成为头牌的小魅魔❤️/正在hrt的 #mtf 🏳️‍⚧️ #femboy /小胸169cm/70kg/zfb口令红包🧧¥188/过🚪可  #陪玩 #地陪 /学习敲代码ing.../接 #视频 #图包  定制 #原味 /抖m/定位广州白云/私信请表面来意/可接推广",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 22,
+                "tag": "mtf"
+              },
+              {
+                "end": 40,
+                "start": 33,
+                "tag": "femboy"
+              },
+              {
+                "end": 76,
+                "start": 73,
+                "tag": "陪玩"
+              },
+              {
+                "end": 80,
+                "start": 77,
+                "tag": "地陪"
+              },
+              {
+                "end": 99,
+                "start": 96,
+                "tag": "视频"
+              },
+              {
+                "end": 103,
+                "start": 100,
+                "tag": "图包"
+              },
+              {
+                "end": 111,
+                "start": 108,
+                "tag": "原味"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tangtanglust.cc.cd",
+                "end": 23,
+                "expanded_url": "https://tangtanglust.cc.cd/",
+                "start": 0,
+                "url": "https://t.co/N4FopXWf88"
+              }
+            ]
+          }
+        },
+        "id": "772394185609535488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101238366889206100",
+        "name": "小魅魔糖糖（下海版）",
+        "pinned_tweet_id": "2037926456907727290",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/772394185609535488/1774353111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100171206498631680/H8JCe41e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 63,
+          "like_count": 31,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/N4FopXWf88",
+        "username": "FKCE8KrpOrxUICq",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-31T15:04:51.000Z",
+        "description": "为什么是猫猫却要用狐狸头像？因为可爱。。。。qvq  #成分请自己查\n// 期望回fo直接私信就好",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 27,
+                "tag": "成分请自己查"
+              }
+            ]
+          }
+        },
+        "id": "1344660543131557895",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100886001535336801",
+        "name": "k᳐3喵᳐੭ 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344660543131557895/1726674736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344662106663170049/ED8HLJNr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 443,
+          "like_count": 4326,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 2886
+        },
+        "url": "",
+        "username": "k3Cat24",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
