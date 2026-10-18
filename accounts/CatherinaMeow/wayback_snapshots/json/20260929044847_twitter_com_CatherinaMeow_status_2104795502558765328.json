@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2104521715175080168",
+    "created_at": "2026-09-29T04:48:47.000Z",
+    "display_text_range": [
+      29,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T05:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104795502558765328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1294633179567910912",
+          "start": 0,
+          "username": "z9kE9zzNT16Iz31"
+        },
+        {
+          "end": 28,
+          "id": "543220054",
+          "start": 17,
+          "username": "moriokazoo"
+        },
+        {
+          "end": 43,
+          "id": "1514689437330214912",
+          "start": 29,
+          "username": "Monolith_Tusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104795502558765328",
+    "in_reply_to_user_id": "1294633179567910912",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104521715175080168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@z9kE9zzNT16Iz31 @moriokazoo @Monolith_Tusk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30144,
+        "height": 1080,
+        "media_key": "13_2104521432499957760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104521432499957760/img/CM5N2IwyvqiwNobw.jpg",
+        "public_metrics": {
+          "view_count": 4572469
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104521432499957760/vid/avc1/480x270/ue6BDPme_uCjOvNg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104521432499957760/vid/avc1/640x360/NMqOx2ATIaL7Jv4j.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104521432499957760/vid/avc1/1280x720/GJeaRFEwC_E0WYL7.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104521432499957760/pl/VxUkkuqLByE9WfYf.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2104521715175080168",
+        "created_at": "2026-09-29T04:48:47.000Z",
+        "display_text_range": [
+          29,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T05:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104795502558765328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1294633179567910912",
+              "start": 0,
+              "username": "z9kE9zzNT16Iz31"
+            },
+            {
+              "end": 28,
+              "id": "543220054",
+              "start": 17,
+              "username": "moriokazoo"
+            },
+            {
+              "end": 43,
+              "id": "1514689437330214912",
+              "start": 29,
+              "username": "Monolith_Tusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104795502558765328",
+        "in_reply_to_user_id": "1294633179567910912",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104521715175080168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z9kE9zzNT16Iz31 @moriokazoo @Monolith_Tusk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104521432499957760"
+          ]
+        },
+        "author_id": "1294633179567910912",
+        "conversation_id": "2104521715175080168",
+        "created_at": "2026-09-28T10:40:51.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T11:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104521715175080168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qwYZreD2U",
+              "end": 76,
+              "expanded_url": "https://x.com/z9kE9zzNT16Iz31/status/2104521715175080168/video/1",
+              "media_key": "13_2104521432499957760",
+              "start": 53,
+              "url": "https://t.co/4qwYZreD2U"
+            },
+            {
+              "display_url": "x.com/z9kE9zzNT16Iz3…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/z9kE9zzNT16Iz31/status/2104141682480722037",
+              "start": 77,
+              "url": "https://t.co/T3hMjafBZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104521715175080168",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2104521432499957760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34441,
+          "impression_count": 14817299,
+          "like_count": 125372,
+          "quote_count": 5454,
+          "reply_count": 479,
+          "retweet_count": 16235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104141682480722037",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2020年11月28日　盛岡市動物公園 \n「ホンドキツネ-はっさくとがんづき」 \nどっちもオスです🦊×🦊 https://t.co/4qwYZreD2U https://t.co/T3hMjafBZZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2104795502558765328",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7534,
+          "following_count": 1076,
+          "like_count": 95932,
+          "listed_count": 24,
+          "media_count": 2333,
+          "tweet_count": 27976
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-15T13:53:32.000Z",
+        "description": "岩手県を拠点に動物を撮影してます\n主な生息地：高松の池、五郎沼、盛岡市動物公園ZOOMO\n使用カメラ：SONYα7Ⅳ、SONYα7RⅢ（FE 200-600mm F5.6-6.3 G OSS)\n最近の推し：盛岡市動物公園ZOOMOホンドギツネ\nインスタグラムも投稿。\n無断転載・無駄使用禁止",
+        "id": "1294633179567910912",
+        "is_identity_verified": false,
+        "location": "岩手",
+        "most_recent_tweet_id": "2104733125645643930",
+        "name": "黒崎十士郎",
+        "pinned_tweet_id": "1442476410501615637",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1294633179567910912/1653652776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737104988487446528/rbI2eAnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2893,
+          "following_count": 1050,
+          "like_count": 136792,
+          "listed_count": 18,
+          "media_count": 3145,
+          "tweet_count": 5112
+        },
+        "url": "",
+        "username": "z9kE9zzNT16Iz31",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-04-02T08:11:00.000Z",
+        "description": "盛岡市動物公園ZOOMOの公式アカウントです。園内に日本初のフリースクール設置。自然豊かな環境は東京ドーム約８個分、多くの野生動物が暮らしている「どうぶつが暮らす森の公園」です。推奨タグは #ZOOMO  コメント欄への個別の質問や意見には対応しません。\nお問い合わせはHP、又は電話(019-654-8266)まで",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "ZOOMO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zoomo.co.jp",
+                "end": 23,
+                "expanded_url": "https://zoomo.co.jp/",
+                "start": 0,
+                "url": "https://t.co/2oBLHlTbRG"
+              }
+            ]
+          }
+        },
+        "id": "543220054",
+        "is_identity_verified": false,
+        "location": "岩手県盛岡市新庄字下八木田60-18",
+        "most_recent_tweet_id": "2104792283594039489",
+        "name": "盛岡市動物公園 ZOOMO",
+        "pinned_tweet_id": "2059082143020834976",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/543220054/1742714311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1352026850860548096/h1sXfF4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82373,
+          "following_count": 550,
+          "like_count": 696,
+          "listed_count": 2060,
+          "media_count": 21983,
+          "tweet_count": 26000
+        },
+        "url": "https://t.co/2oBLHlTbRG",
+        "username": "moriokazoo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-14T19:38:42.000Z",
+        "description": "如果神有十根手指，那就一根一根地掰断。\n如果神还有两个膀子，那就一条一条卸下来。\n如果神还有一颗头颅和一颗心脏，请按宴会顺序拆解。\n这号是黑化版本。",
+        "id": "1514689437330214912",
+        "is_identity_verified": false,
+        "location": "旧地狱",
+        "most_recent_tweet_id": "1894241334493634628",
+        "name": "店长「黑核版」",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1514689437330214912/1658335653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787731093917147136/ejLSm08B_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 27,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "Monolith_Tusk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

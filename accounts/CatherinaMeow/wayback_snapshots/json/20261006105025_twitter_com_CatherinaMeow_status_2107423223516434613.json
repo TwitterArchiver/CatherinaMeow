@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107423202075115520"
+      ]
+    },
+    "author_id": "1600208165269741570",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2107341732199456903",
+    "created_at": "2026-10-06T10:50:25.000Z",
+    "display_text_range": [
+      7,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T11:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107423223516434613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4848269835",
+          "start": 0,
+          "username": "_FORAB"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jk8fbHf6bn",
+          "end": 31,
+          "expanded_url": "https://x.com/CatherinaMeow/status/2107423223516434613/photo/1",
+          "media_key": "3_2107423202075115520",
+          "start": 8,
+          "url": "https://t.co/Jk8fbHf6bn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107423223516434613",
+    "in_reply_to_user_id": "4848269835",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2107423202075115520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107341732199456903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FORAB https://t.co/Jk8fbHf6bn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1632,
+        "media_key": "3_2107423202075115520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT8SPJcagAAo12l.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1653,
+        "media_key": "3_2107338511217217536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7FNfaaUAA7yk4.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1584,
+        "media_key": "3_2107338511217254400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7FNfaa4AAgYqA.jpg",
+        "width": 942
+      },
+      {
+        "height": 1562,
+        "media_key": "3_2107338511536046080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7FNgmbQAAJwke.jpg",
+        "width": 942
+      },
+      {
+        "height": 1380,
+        "media_key": "3_2107338547535785984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7FPmtbsAAeHFO.jpg",
+        "width": 1021
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107423202075115520"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107341732199456903",
+        "created_at": "2026-10-06T10:50:25.000Z",
+        "display_text_range": [
+          7,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107423223516434613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jk8fbHf6bn",
+              "end": 31,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2107423223516434613/photo/1",
+              "media_key": "3_2107423202075115520",
+              "start": 8,
+              "url": "https://t.co/Jk8fbHf6bn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107423223516434613",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2107423202075115520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107341732199456903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB https://t.co/Jk8fbHf6bn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107338511217217536",
+            "3_2107338511217254400",
+            "3_2107338511536046080",
+            "3_2107338547535785984"
+          ]
+        },
+        "author_id": "4848269835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2107341732199456903",
+        "created_at": "2026-10-06T05:26:36.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T06:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107341732199456903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UqPZo02y9f",
+              "end": 93,
+              "expanded_url": "https://x.com/_FORAB/status/2107341732199456903/photo/1",
+              "media_key": "3_2107338511217217536",
+              "start": 70,
+              "url": "https://t.co/UqPZo02y9f"
+            },
+            {
+              "display_url": "pic.x.com/UqPZo02y9f",
+              "end": 93,
+              "expanded_url": "https://x.com/_FORAB/status/2107341732199456903/photo/1",
+              "media_key": "3_2107338511217254400",
+              "start": 70,
+              "url": "https://t.co/UqPZo02y9f"
+            },
+            {
+              "display_url": "pic.x.com/UqPZo02y9f",
+              "end": 93,
+              "expanded_url": "https://x.com/_FORAB/status/2107341732199456903/photo/1",
+              "media_key": "3_2107338511536046080",
+              "start": 70,
+              "url": "https://t.co/UqPZo02y9f"
+            },
+            {
+              "display_url": "pic.x.com/UqPZo02y9f",
+              "end": 93,
+              "expanded_url": "https://x.com/_FORAB/status/2107341732199456903/photo/1",
+              "media_key": "3_2107338547535785984",
+              "start": 70,
+              "url": "https://t.co/UqPZo02y9f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107341732199456903",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107338511217217536"
+          },
+          {
+            "media_key": "3_2107338511217254400"
+          },
+          {
+            "media_key": "3_2107338511536046080"
+          },
+          {
+            "media_key": "3_2107338547535785984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 62577,
+          "like_count": 173,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "原来有个团体叫万豪要饭，从薅酒店免费早餐、升房，到要各种额外免费赠品。\n\n搜了下，全是各大成功攻略经验贴和满员交流群，能薅尽薅，全是大神。 https://t.co/UqPZo02y9f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2107423223516434613",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7671,
+          "following_count": 1078,
+          "like_count": 96460,
+          "listed_count": 24,
+          "media_count": 2347,
+          "tweet_count": 28115
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "is_identity_verified": true,
+        "location": "🇯🇵 Tokyo , Japan",
+        "most_recent_tweet_id": "2107402273727144166",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4848269835/1778770582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147248,
+          "following_count": 676,
+          "like_count": 10698,
+          "listed_count": 2140,
+          "media_count": 4928,
+          "tweet_count": 16719
+        },
+        "url": "",
+        "username": "_FORAB",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

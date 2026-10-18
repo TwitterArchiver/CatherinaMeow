@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106332319288332288",
+        "3_2106332319300894721"
+      ]
+    },
+    "author_id": "1600208165269741570",
+    "conversation_id": "2106332423831289968",
+    "created_at": "2026-10-03T10:35:58.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106332423831289968"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 9,
+          "tag": "奈酱的全球旅行"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3r1ECraH5o",
+          "end": 41,
+          "expanded_url": "https://x.com/CatherinaMeow/status/2106332423831289968/photo/1",
+          "media_key": "3_2106332319288332288",
+          "start": 18,
+          "url": "https://t.co/3r1ECraH5o"
+        },
+        {
+          "display_url": "pic.x.com/3r1ECraH5o",
+          "end": 41,
+          "expanded_url": "https://x.com/CatherinaMeow/status/2106332423831289968/photo/1",
+          "media_key": "3_2106332319300894721",
+          "start": 18,
+          "url": "https://t.co/3r1ECraH5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106332423831289968",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106332319288332288"
+      },
+      {
+        "media_key": "3_2106332319300894721"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "墨尔本皇家植物园\n#奈酱的全球旅行 https://t.co/3r1ECraH5o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2106332319288332288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsyFaYbEAAq6ZY.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2106332319300894721",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsyFabawAEyXJN.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106332319288332288",
+            "3_2106332319300894721"
+          ]
+        },
+        "author_id": "1600208165269741570",
+        "conversation_id": "2106332423831289968",
+        "created_at": "2026-10-03T10:35:58.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106332423831289968"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "奈酱的全球旅行"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3r1ECraH5o",
+              "end": 41,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2106332423831289968/photo/1",
+              "media_key": "3_2106332319288332288",
+              "start": 18,
+              "url": "https://t.co/3r1ECraH5o"
+            },
+            {
+              "display_url": "pic.x.com/3r1ECraH5o",
+              "end": 41,
+              "expanded_url": "https://x.com/CatherinaMeow/status/2106332423831289968/photo/1",
+              "media_key": "3_2106332319300894721",
+              "start": 18,
+              "url": "https://t.co/3r1ECraH5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106332423831289968",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106332319288332288"
+          },
+          {
+            "media_key": "3_2106332319300894721"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "墨尔本皇家植物园\n#奈酱的全球旅行 https://t.co/3r1ECraH5o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2106332423831289968",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7666,
+          "following_count": 1077,
+          "like_count": 96271,
+          "listed_count": 24,
+          "media_count": 2344,
+          "tweet_count": 28084
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

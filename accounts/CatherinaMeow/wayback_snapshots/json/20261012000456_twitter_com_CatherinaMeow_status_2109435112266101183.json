@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2109435112266101183",
+    "created_at": "2026-10-12T00:04:56.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T01:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109435112266101183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1907031442103943168",
+          "start": 3,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109435112266101183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109294493078024202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hoshinemu123: ⚠️以下内容仅建议术娘阅读，旁人在其中受到伤害眠子概不负责。⚠️\n\n关于术后如何在网络争论中确立生理性别：\n\n1，首先你的生理性别是女，毋庸置疑。\n2，别人说“你为什么是女”的时候，回答“以外生殖器结构决定生理性别”。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2109435112266101183",
+        "created_at": "2026-10-12T00:04:56.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T01:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109435112266101183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1907031442103943168",
+              "start": 3,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109435112266101183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109294493078024202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hoshinemu123: ⚠️以下内容仅建议术娘阅读，旁人在其中受到伤害眠子概不负责。⚠️\n\n关于术后如何在网络争论中确立生理性别：\n\n1，首先你的生理性别是女，毋庸置疑。\n2，别人说“你为什么是女”的时候，回答“以外生殖器结构决定生理性别”。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907031442103943168",
+        "conversation_id": "2109294493078024202",
+        "created_at": "2026-10-11T14:46:10.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T15:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109294493078024202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109294493078024202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "⚠️以下内容仅建议术娘阅读，旁人在其中受到伤害眠子概不负责。⚠️\n\n关于术后如何在网络争论中确立生理性别：\n\n1，首先你的生理性别是女，毋庸置疑。\n2，别人说“你为什么是女”的时候，回答“以外生殖器结构决定生理性别”。\n3，别人说“你没有卵巢，没有子宫，染色体是XY”时候，你回复“医学鉴定时，外生殖器结构明确时，只通过外生殖器结构确定生理性别。”\n4，别人说“凭什么你只有批，也可以被鉴定为生理性别女时候”，你说“这样的鉴定的标准是明确且合理的。你又想按照外生殖器鉴定，又想按照子宫卵巢鉴定，又想按照染色体鉴定，你要弄出来8个生理性别来吗？”\n5，别人说“假如有个人染色体是XY，有睾丸，但有批”这一类特殊情况的时候，坚持“以外生殖器结构确定性别”的原则。她有批，那么从出生到现在的生理性别鉴定为女。如果发现了这种发育异常的情况，决定做男的，那就手术造个几把出来，此时生理性别为男。否则无论是切掉了肚里的睾丸，还是维持原状，有批，生理性别就是女的。\n6，至于染色体，医学上不靠这个判断性别的。基因是能拿来看还是拿来用啊？\n7，记得坚持以外生殖器结构判断生理性别的原则。\n8，对面再胡搅蛮缠那就叫ta滚。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 5061,
+          "like_count": 131,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️以下内容仅建议术娘阅读，旁人在其中受到伤害眠子概不负责。⚠️\n\n关于术后如何在网络争论中确立生理性别：\n\n1，首先你的生理性别是女，毋庸置疑。\n2，别人说“你为什么是女”的时候，回答“以外生殖器结构决定生理性别”。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2109435112266101183",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7677,
+          "following_count": 1077,
+          "like_count": 96444,
+          "listed_count": 25,
+          "media_count": 2366,
+          "tweet_count": 28186
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "梦想是成为女侠客。\n“我曾淋我来时雪，亦将长歌去时晖……”\n星眠的生活号，不定期推音乐＆美术作品。可以问我虚拟歌姬与音乐制作相关的事情，这方面我了解的比较多。古风狂热爱好者，音乐策划&末流词作，汉服袍子。隐居宣州，长三角随机出没。没更新推文是因为我现实里活得很好。\n头像画师：飞鸟壹号机；主页头图：Z6",
+        "id": "1907031442103943168",
+        "is_identity_verified": false,
+        "location": "修仙界",
+        "most_recent_tweet_id": "2109327160867688473",
+        "name": "星眠子",
+        "pinned_tweet_id": "2103698817036243164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1907031442103943168/1744992762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5553,
+          "following_count": 3368,
+          "like_count": 5072,
+          "listed_count": 9,
+          "media_count": 1089,
+          "tweet_count": 11950
+        },
+        "url": "",
+        "username": "hoshinemu123",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

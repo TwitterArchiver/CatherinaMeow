@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2105810410293342225",
+    "created_at": "2026-10-02T09:04:32.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T10:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105947027226100203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "735087459231358976",
+          "start": 0,
+          "username": "CitronaTeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105947027226100203",
+    "in_reply_to_user_id": "735087459231358976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105810410293342225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CitronaTeo 诶 欢迎来墨尔本"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105810113277931520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTlXJBZbMAA5nW8.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2105810410293342225",
+        "created_at": "2026-10-02T09:04:32.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T10:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105947027226100203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "735087459231358976",
+              "start": 0,
+              "username": "CitronaTeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105947027226100203",
+        "in_reply_to_user_id": "735087459231358976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105810410293342225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CitronaTeo 诶 欢迎来墨尔本"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105810113277931520"
+          ]
+        },
+        "author_id": "735087459231358976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "2105810410293342225",
+        "created_at": "2026-10-02T00:01:40.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T01:00:31.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105810122127921507",
+          "2105810314109612131",
+          "2105810410293342225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lYAgorptJB",
+              "end": 155,
+              "expanded_url": "https://x.com/CitronaTeo/status/2105810410293342225/photo/1",
+              "media_key": "3_2105810113277931520",
+              "start": 132,
+              "url": "https://t.co/lYAgorptJB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105810410293342225",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105810113277931520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7017,
+          "like_count": 71,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "四川航空，成都-墨爾本。\n十多個小時的洲際航班給人吃這個是吧，肉的量不到 5g，這樣一份拌麵+塑膠袋小麵包+榨菜+酸奶，毫無食慾，餓死我了。\n我服了，小紅書上還都說川航是喂豬航，吃的好，沒想到吃的真的是豬食。\n機上 WiFi 天價還帶 GFW，上網什麼都打不開。 https://t.co/lYAgorptJB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2105947027226100203",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7650,
+          "following_count": 1077,
+          "like_count": 96176,
+          "listed_count": 24,
+          "media_count": 2342,
+          "tweet_count": 28065
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-24T12:38:02.000Z",
+        "description": "百合中毒。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jiba.hee.ink",
+                "end": 23,
+                "expanded_url": "http://jiba.hee.ink",
+                "start": 0,
+                "url": "https://t.co/UMPz3HGjhQ"
+              }
+            ]
+          }
+        },
+        "id": "735087459231358976",
+        "is_identity_verified": false,
+        "location": "Australia",
+        "most_recent_tweet_id": "2105933132772057138",
+        "name": "⁣凍檸茶走冰走檸走茶走甜唔該",
+        "pinned_tweet_id": "2020512666918568382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/735087459231358976/1736605180",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004816950309064704/k3DhGroa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10873,
+          "following_count": 836,
+          "like_count": 83232,
+          "listed_count": 47,
+          "media_count": 354,
+          "tweet_count": 1889
+        },
+        "url": "https://t.co/UMPz3HGjhQ",
+        "username": "CitronaTeo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

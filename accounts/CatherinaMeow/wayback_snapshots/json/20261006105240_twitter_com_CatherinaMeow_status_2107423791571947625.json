@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2105208659269874082",
+    "created_at": "2026-10-06T10:52:40.000Z",
+    "display_text_range": [
+      37,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T11:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107423791571947625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1550409084792217602",
+          "start": 0,
+          "username": "Natburself"
+        },
+        {
+          "end": 22,
+          "id": "1187420216659046400",
+          "start": 12,
+          "username": "indsex999"
+        },
+        {
+          "end": 36,
+          "id": "1446813263526772736",
+          "start": 23,
+          "username": "MakeItAQuote"
+        },
+        {
+          "end": 50,
+          "id": "1446813263526772736",
+          "start": 37,
+          "username": "MakeItAQuote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107423791571947625",
+    "in_reply_to_user_id": "1600208165269741570",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105944429748183260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Natburself @indsex999 @MakeItAQuote @MakeItAQuote"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2105208659269874082",
+        "created_at": "2026-10-06T10:52:40.000Z",
+        "display_text_range": [
+          37,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T11:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107423791571947625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1550409084792217602",
+              "start": 0,
+              "username": "Natburself"
+            },
+            {
+              "end": 22,
+              "id": "1187420216659046400",
+              "start": 12,
+              "username": "indsex999"
+            },
+            {
+              "end": 36,
+              "id": "1446813263526772736",
+              "start": 23,
+              "username": "MakeItAQuote"
+            },
+            {
+              "end": 50,
+              "id": "1446813263526772736",
+              "start": 37,
+              "username": "MakeItAQuote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107423791571947625",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105944429748183260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natburself @indsex999 @MakeItAQuote @MakeItAQuote"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2105208659269874082",
+        "created_at": "2026-10-02T08:54:13.000Z",
+        "display_text_range": [
+          23,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105944429748183260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1550409084792217602",
+              "start": 0,
+              "username": "Natburself"
+            },
+            {
+              "end": 22,
+              "id": "1187420216659046400",
+              "start": 12,
+              "username": "indsex999"
+            },
+            {
+              "end": 36,
+              "id": "1446813263526772736",
+              "start": 23,
+              "username": "MakeItAQuote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105944429748183260",
+        "in_reply_to_user_id": "1550409084792217602",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105350097219485740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Natburself @indsex999 @MakeItAQuote colour"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2107423791571947625",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7671,
+          "following_count": 1078,
+          "like_count": 96460,
+          "listed_count": 24,
+          "media_count": 2347,
+          "tweet_count": 28117
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-22T09:15:15.000Z",
+        "description": "女孩们天天开心。\n恨我的蝻骸我会抹布你们哦",
+        "id": "1550409084792217602",
+        "is_identity_verified": false,
+        "location": "Melbourne",
+        "most_recent_tweet_id": "2106856122137416125",
+        "name": "SweetieMia",
+        "pinned_tweet_id": "2095591447936507986",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1550409084792217602/1781375681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065865407064576000/tYh1ooR4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 96,
+          "like_count": 6384,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 1661
+        },
+        "url": "",
+        "username": "Natburself",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-10-24T17:27:06.000Z",
+        "description": "忍忍吧 生活就是这样 酸甜苦辣咸鲜麻酥脆嫩滑软糯绵爽韧弹只能自己咽",
+        "id": "1187420216659046400",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106768535796207759",
+        "name": "c8",
+        "pinned_tweet_id": "1992970404135416090",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1187420216659046400/1763996167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1212434066173071362/9tYcOxtM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5638,
+          "following_count": 1303,
+          "like_count": 851,
+          "listed_count": 12,
+          "media_count": 111,
+          "tweet_count": 1200
+        },
+        "url": "",
+        "username": "indsex999",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-09T12:22:23.000Z",
+        "description": "Input: \"@makeitaquote Quote\" to generate a tweet. Input: \"@DeleteMyQuote Delete\" if you want a tweet removed.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "makeitaquote"
+              },
+              {
+                "end": 72,
+                "start": 58,
+                "username": "DeleteMyQuote"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makeitaquote.com",
+                "end": 23,
+                "expanded_url": "https://makeitaquote.com/",
+                "start": 0,
+                "url": "https://t.co/SeOd2QVomH"
+              }
+            ]
+          }
+        },
+        "id": "1446813263526772736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2030788334499618914",
+        "name": "Make it a quote",
+        "pinned_tweet_id": "1842219999903060251",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1446813263526772736/1721838057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816146556212375552/2K-tXe3h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644603,
+          "following_count": 4,
+          "like_count": 114,
+          "listed_count": 1071,
+          "media_count": 1935997,
+          "tweet_count": 2020748
+        },
+        "url": "https://t.co/SeOd2QVomH",
+        "username": "MakeItAQuote",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

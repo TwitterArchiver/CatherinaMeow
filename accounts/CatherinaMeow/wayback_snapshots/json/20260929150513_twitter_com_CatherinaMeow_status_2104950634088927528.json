@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2104950634088927528",
+    "created_at": "2026-09-29T15:05:13.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T16:05:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104950634088927528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/catherinameow/…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/catherinameow/status/2104950072945582590",
+          "start": 136,
+          "url": "https://t.co/0JybFlydG7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104950634088927528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 192,
+            "start": 185,
+            "tag": "猫的手术日记"
+          }
+        ]
+      },
+      "text": "第一针手背扎穿 第二针扎胳膊 \n\n比划了老半天 我还以为规培的我寻思着为医学献身\n\n结果一问还不是 （） 这水平拉去急诊锻炼半年再说吧（）\n\n然后关键是这个滴速 我说了 护士还觉得没问题）））\n\n某朋友： 她的护士给她滴钾的时候速度也是超级快手臂也疼 \n\n自己调慢了之后\n\n护士：你这速度得滴到下午去吧\n\n滴钾诶！ 是钾诶！ 可怕\n\n反正大家挂水的时候自己注意着点吧\n\n#猫的手术日记"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104950072945582590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一针手背扎穿 第二针扎胳膊 \n\n比划了老半天 我还以为规培的我寻思着为医学献身\n\n结果一问还不是 （） 这水平拉去急诊锻炼半年再说吧（）\n\n然后关键是这个滴速 我说了 护士还觉得没问题）））\n\n某朋友： 她的护士给她滴钾的时候速度也是超级快手臂也疼 \n\n自己调慢了之后 https://t.co/0JybFlydG7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2104950634088927528",
+        "created_at": "2026-09-29T15:05:13.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T16:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104950634088927528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/catherinameow/…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/catherinameow/status/2104950072945582590",
+              "start": 136,
+              "url": "https://t.co/0JybFlydG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104950634088927528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 192,
+                "start": 185,
+                "tag": "猫的手术日记"
+              }
+            ]
+          },
+          "text": "第一针手背扎穿 第二针扎胳膊 \n\n比划了老半天 我还以为规培的我寻思着为医学献身\n\n结果一问还不是 （） 这水平拉去急诊锻炼半年再说吧（）\n\n然后关键是这个滴速 我说了 护士还觉得没问题）））\n\n某朋友： 她的护士给她滴钾的时候速度也是超级快手臂也疼 \n\n自己调慢了之后\n\n护士：你这速度得滴到下午去吧\n\n滴钾诶！ 是钾诶！ 可怕\n\n反正大家挂水的时候自己注意着点吧\n\n#猫的手术日记"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104950072945582590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一针手背扎穿 第二针扎胳膊 \n\n比划了老半天 我还以为规培的我寻思着为医学献身\n\n结果一问还不是 （） 这水平拉去急诊锻炼半年再说吧（）\n\n然后关键是这个滴速 我说了 护士还觉得没问题）））\n\n某朋友： 她的护士给她滴钾的时候速度也是超级快手臂也疼 \n\n自己调慢了之后 https://t.co/0JybFlydG7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2104950072945582590",
+        "created_at": "2026-09-29T15:03:00.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T16:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104950072945582590"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 87,
+              "tag": "猫的手术日记"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104950072945582590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "411扎针非常差 做好心理准备 \n\n然后对滴速非常之放飞自我\n\n我又不是低血容量然后紧急补液 给我开250滴/min的速度 \n\n头大\n\n虽然林格液是晶体 也不是这么玩的啊\n\n#猫的手术日记"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2104950634088927528",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7537,
+          "following_count": 1076,
+          "like_count": 95967,
+          "listed_count": 24,
+          "media_count": 2334,
+          "tweet_count": 27993
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

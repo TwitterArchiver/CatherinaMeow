@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1600208165269741570",
+    "conversation_id": "2109227968598086021",
+    "created_at": "2026-10-11T10:21:49.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T11:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109227968598086021"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yzmtsky6666/st…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/yzmtsky6666/status/2109170120136253537",
+          "start": 2,
+          "url": "https://t.co/DKhuov6wKv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109227968598086021",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109170120136253537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/DKhuov6wKv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600208165269741570",
+        "conversation_id": "2109227968598086021",
+        "created_at": "2026-10-11T10:21:49.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T11:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109227968598086021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yzmtsky6666/st…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/yzmtsky6666/status/2109170120136253537",
+              "start": 2,
+              "url": "https://t.co/DKhuov6wKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109227968598086021",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109170120136253537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/DKhuov6wKv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007024792172699649",
+        "conversation_id": "2109170120136253537",
+        "created_at": "2026-10-11T06:31:57.000Z",
+        "display_text_range": [
+          0,
+          169
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T07:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109170120136253537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109170120136253537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 5402,
+          "like_count": 63,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我得到大佬的技术支援了！\n\n现推出价目表:\nelisa法测激素单测一个25，两个40（要等到27年9月）\n雌二醇贴片一片40（等到27年7月）\n去势3000，经济困难者免费\n（这个等寒假）\n去棍\n2000\n零深度8000，经济困难者折半\n（寒假，暑假）\npi法 12000，经济困难者折半\n（暑假）\n所有surgery包恢复\n有意外可赔偿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "21 INTP｜Post-SRS Enby｜不会说话和社交的AuDHD黑猫｜🏫Monash | 🐈‍⬛/🏹/🚴/💻｜硅性恋｜AM&CS&EE｜意面神教牧师| BA4*** | GPG: C1D9 84F0 BBA1 B3B9 | 持证嗓音训练师｜云欣猫猫条 @rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 129,
+                "username": "rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catherina.moe",
+                "end": 23,
+                "expanded_url": "https://catherina.moe",
+                "start": 0,
+                "url": "https://t.co/j331g3A54f"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "is_identity_verified": false,
+        "location": "猫猫澳洲窝",
+        "most_recent_tweet_id": "2109227968598086021",
+        "name": "Catherina（全自动哈气黑猫）",
+        "pinned_tweet_id": "1920559116499427820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600208165269741570/1722874137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968474602115072/iJ7hyYeK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7674,
+          "following_count": 1077,
+          "like_count": 96435,
+          "listed_count": 25,
+          "media_count": 2366,
+          "tweet_count": 28183
+        },
+        "url": "https://t.co/j331g3A54f",
+        "username": "CatherinaMeow",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-02T09:43:04.000Z",
+        "description": "tg群邀请链:https://t.co/TFLondy2En\nmtx？🏳️‍⚧️|在极致的理性与感性间反复横跳|进步主义者|高敏型|生物爱好者|不od，远离成瘾物|无性别刻板，性取向立场|相信自由意志与个体的主观能动性|相信人造子宫是让全人类通向平等的希望。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yzmtsky6666",
+                "end": 30,
+                "expanded_url": "https://t.me/yzmtsky6666",
+                "start": 7,
+                "url": "https://t.co/TFLondy2En"
+              }
+            ]
+          }
+        },
+        "id": "2007024792172699649",
+        "is_identity_verified": false,
+        "location": "世界的尽头",
+        "most_recent_tweet_id": "2109225413226696986",
+        "name": "Yzmt🏳️‍⚧️",
+        "pinned_tweet_id": "2109143867702513887",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2007024792172699649/1790069776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090310882178011137/i-SL7hJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1987,
+          "following_count": 481,
+          "like_count": 3878,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 1557
+        },
+        "url": "",
+        "username": "Yzmtsky6666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
